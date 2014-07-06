@@ -17,7 +17,7 @@ object SrtParsersSpec extends Specification with FromClasspathLoader {
       )
     ),
     SubtitleBlock(
-      asTime(0, 0, 2, 341),
+      asTime(0, 0, 2, 34),
       asTime(0, 0, 3, 990),
       Seq(
         "You're going to Vietnam!"

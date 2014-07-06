@@ -6,7 +6,7 @@
 <i>Previously on Mad Men...</i>
 
 2
-00:00:02,341 -->    00:00:03,990
+0:0:2,34 -->    00:00:03,990
 You're going to Vietnam!
 
   3

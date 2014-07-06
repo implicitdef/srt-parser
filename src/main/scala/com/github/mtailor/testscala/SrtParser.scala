@@ -69,15 +69,15 @@ object SrtParser {
       """\s*-->\s*""".r
 
     private def hours: Parser[Int] =
-      """\d{2}""".r ^^ (_.toInt)
+      """\d{1,2}""".r ^^ (_.toInt)
 
     private def minutes: Parser[Int] =
-      """\d{2}""".r ^^ (_.toInt) withFilter (_ < 60)
+      """\d{1,2}""".r ^^ (_.toInt) withFilter (_ < 60)
 
     private def seconds =minutes
 
     private def milliseconds: Parser[Int] =
-      """\d{3}""".r ^^ (_.toInt)
+      """\d{1,3}""".r ^^ (_.toInt)
 
 
   }
