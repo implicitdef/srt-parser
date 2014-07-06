@@ -44,6 +44,25 @@ object SrtParsersSpec extends Specification with FromClasspathLoader {
   )
 
 
+  /*
+   files who still pose problem :
+
+   Hangover.srt
+   The.Great.Gatsby.2013.720p.BluRay.x264.YIFY.srt
+   A beautiful mind
+   The hobbit an unexpected journey
+   The amazing spiderman
+   Battle Los Angeles
+   The wire s05e05
+   mad men s05e06
+   zombieland
+   21 grams
+   hannibal rising
+   tintin
+   mad men s05e10
+
+   */
+
   "SrtParser" should {
     "parse properly a small but tricky .srt file" in {
       SrtParser.parse(fromClassPathFile("sample.srt")) mustEqual expectedSrtFromSample
