@@ -67,16 +67,9 @@ object SrtParsersSpec extends Specification with FromClasspathLoader {
     "parse properly a small but tricky .srt file" in {
       SrtParser.parse(fromClassPathFile("sample.srt")) mustEqual expectedSrtFromSample
     }
-    //examplesBlock {
-    //  fromClassPathDirectory("srt_files") foreach { f =>
-    //    "parse without failure the file " + f in {
-    //      SrtParser.parse(new FileInputStream(f)) must not(throwA[ParsingException])
-    //    }
-    //  }
-    //}
     examplesBlock {
-      fromClassPathDirectory("tricky_files") foreach { f =>
-        "parse without failure the tricky file " + f in {
+      fromClassPathDirectory("srt_files") foreach { f =>
+        "parse without failure the file " + f in {
           SrtParser.parse(new FileInputStream(f)) must not(throwA[ParsingException])
         }
       }

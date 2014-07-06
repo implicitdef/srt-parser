@@ -52,7 +52,10 @@ object SrtParser {
       """.+""".r
 
     private def eol: Parser[Any] =
-      """\r?\n""".r
+      //\n is unix
+      //\r\n is windows
+      //\r appears in some broken files
+      "\n" | "\r\n" | "\r"
 
     private def blockSeparator: Parser[Any] =
       eol <~ whiteSpace.?
@@ -61,9 +64,9 @@ object SrtParser {
       """\d+""".r ^^ (_.toInt)
 
     private def time: Parser[Time] =
-      hours ~ whiteSpace.? ~ ":" ~
-      whiteSpace.? ~ minutes ~ whiteSpace.? ~ ":" ~
-      whiteSpace.? ~ seconds ~ whiteSpace.? ~ "," ~
+      hours ~ whiteSpace.? ~ timeSep ~
+      whiteSpace.? ~ minutes ~ whiteSpace.? ~ timeSep ~
+      whiteSpace.? ~ seconds ~ whiteSpace.? ~ timeSep ~
       whiteSpace.? ~ milliseconds ^^
       {
         case
@@ -76,6 +79,9 @@ object SrtParser {
 
     private def arrow: Parser[Any] =
       """\s*-->\s*""".r
+
+    private def timeSep: Parser[Any] =
+      ":" | ","
 
     private def hours: Parser[Int] =
       aFewNumbers

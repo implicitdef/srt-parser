@@ -20,7 +20,7 @@ to do what you do.
 
 
 4
-45:055:50,999 --> 45:55:51,000
+45,055,50,999 --> 45:55:51:000
 Every chip I make we become
 less dependent on you!
 Why you...
