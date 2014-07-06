@@ -6,7 +6,7 @@
 <i>Previously on Mad Men...</i>
 
 2
-0:0:2,34 -->    00:00:03,990
+0:0:2,34 -->    00 :00:03,  990
 You're going to Vietnam!
 
   3
@@ -25,5 +25,10 @@ Every chip I make we become
 less dependent on you!
 Why you...
 Roger...
+
+5
+75:00:00,000 --> 75:00:01,000
+
+
 
 

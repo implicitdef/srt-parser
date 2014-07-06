@@ -29,12 +29,13 @@ object SrtParser {
 
     def srt: Parser[Srt] =
       whiteSpace.? ~> rep1sep(subtitleBlock, blockSeparator) <~ whiteSpace.? ^^ {
-        case subtitleBlocks => subtitleBlocks
+        case subtitleBlocks =>
+          subtitleBlocks.filterNot(_.lines.isEmpty)
       }
 
     def subtitleBlock: Parser[SubtitleBlock] = {
-      subtitleNumber ~ eol ~
-      time ~ arrow ~ time ~ eol ~
+      subtitleNumber ~ whiteSpace.? ~
+      time ~ arrow ~ time ~ whiteSpace.? ~
       textLines
     } ^^ {
       case
@@ -45,7 +46,7 @@ object SrtParser {
     }
 
     private def textLines: Parser[Seq[String]] =
-      rep1sep(textLine, eol)
+      repsep(textLine, eol)
 
     private def textLine: Parser[String] =
       """.+""".r
@@ -54,14 +55,22 @@ object SrtParser {
       """\r?\n""".r
 
     private def blockSeparator: Parser[Any] =
-      eol <~ opt(whiteSpace)
+      eol <~ whiteSpace.?
 
     private def subtitleNumber: Parser[Int] =
       """\d+""".r ^^ (_.toInt)
 
     private def time: Parser[Time] =
-      hours ~ ":" ~ minutes ~ ":" ~ seconds ~ "," ~ milliseconds ^^ {
-        case h ~ _ ~ m ~ _ ~ s ~ _ ~ ms =>
+      hours ~ whiteSpace.? ~ ":" ~
+      whiteSpace.? ~ minutes ~ whiteSpace.? ~ ":" ~
+      whiteSpace.? ~ seconds ~ whiteSpace.? ~ "," ~
+      whiteSpace.? ~ milliseconds ^^
+      {
+        case
+              h ~ _~ _ ~
+          _ ~ m ~ _ ~ _ ~
+          _ ~ s ~ _ ~ _ ~
+          _ ~ ms =>
           asTime(h, m, s, ms)
       }
 
