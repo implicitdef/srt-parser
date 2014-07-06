@@ -8,9 +8,13 @@ import org.apache.commons.io.input.BOMInputStream
 import scala.io._
 import scala.util.parsing.combinator.RegexParsers
 
-object SrtParser {
+object SrtDissector {
 
-  def parse(is: InputStream): Srt =
+  /**
+   * Parses the InputStream from a .srt file
+   * Throws ParsingException if it fails
+   */
+  def dissect(is: InputStream): Srt =
     // use commmons-io to handle the BOM
     SrtParsers.doFullParsing(Source.fromInputStream(new BOMInputStream(is)))
 
@@ -28,14 +32,14 @@ object SrtParser {
     override val skipWhitespace = false
 
     def srt: Parser[Srt] =
-      whiteSpace.? ~> rep1sep(subtitleBlock, blockSeparator) <~ whiteSpace.? ^^ {
+      ows ~> rep1sep(subtitleBlock, blockSeparator) <~ ows ^^ {
         case subtitleBlocks =>
           subtitleBlocks.filterNot(_.lines.isEmpty)
       }
 
     def subtitleBlock: Parser[SubtitleBlock] = {
-      subtitleNumber ~ whiteSpace.? ~
-      time ~ arrow ~ time ~ whiteSpace.? ~
+      subtitleNumber ~ ows ~
+      time ~ arrow ~ time ~ ows ~
       textLines
     } ^^ {
       case
@@ -45,29 +49,29 @@ object SrtParser {
       => SubtitleBlock(startTime, endTime, texts)
     }
 
-    private def textLines: Parser[Seq[String]] =
+    def textLines: Parser[Seq[String]] =
       repsep(textLine, eol)
 
-    private def textLine: Parser[String] =
+    def textLine: Parser[String] =
       """.+""".r
 
-    private def eol: Parser[Any] =
+    def eol: Parser[Any] =
       //\n is unix
       //\r\n is windows
       //\r appears in some broken files
       "\n" | "\r\n" | "\r"
 
-    private def blockSeparator: Parser[Any] =
-      eol <~ whiteSpace.?
+    def blockSeparator: Parser[Any] =
+      eol <~ ows
 
-    private def subtitleNumber: Parser[Int] =
+    def subtitleNumber: Parser[Int] =
       """\d+""".r ^^ (_.toInt)
 
-    private def time: Parser[Time] =
-      hours ~ whiteSpace.? ~ timeSep ~
-      whiteSpace.? ~ minutes ~ whiteSpace.? ~ timeSep ~
-      whiteSpace.? ~ seconds ~ whiteSpace.? ~ timeSep ~
-      whiteSpace.? ~ milliseconds ^^
+    def time: Parser[Time] =
+      hours ~ ows ~ timeSep ~
+      ows ~ minutes ~ ows ~ timeSep ~
+      ows ~ seconds ~ ows ~ timeSep ~
+      ows ~ milliseconds ^^
       {
         case
               h ~ _~ _ ~
@@ -77,26 +81,30 @@ object SrtParser {
           asTime(h, m, s, ms)
       }
 
-    private def arrow: Parser[Any] =
+    def arrow: Parser[Any] =
       """\s*-->\s*""".r
 
-    private def timeSep: Parser[Any] =
+    def timeSep: Parser[Any] =
       ":" | ","
 
-    private def hours: Parser[Int] =
+    def hours: Parser[Int] =
       aFewNumbers
 
-    private def minutes: Parser[Int] =
+    def minutes: Parser[Int] =
       aFewNumbers withFilter (_ < 60)
 
-    private def seconds =
+    def seconds =
       aFewNumbers withFilter (_ < 60)
 
-    private def milliseconds: Parser[Int] =
+    def milliseconds: Parser[Int] =
       aFewNumbers
 
-    private def aFewNumbers: Parser[Int] =
+    def aFewNumbers: Parser[Int] =
       """\d{1,4}""".r ^^ (_.toInt)
+
+    //optional whitespaces shortcut
+    def ows : Parser[Any] =
+      whiteSpace.?
 
   }
 

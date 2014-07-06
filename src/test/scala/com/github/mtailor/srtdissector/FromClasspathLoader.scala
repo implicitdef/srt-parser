@@ -5,10 +5,13 @@ import java.io._
 
 trait FromClasspathLoader {
 
-  def fromClassPathFile(s: String): InputStream =
-    getClass.getClassLoader.getResourceAsStream(s)
+  def file(filePathInClassPath: String): File =
+    new File(getClass.getClassLoader.getResource(filePathInClassPath).toURI)
 
-  def fromClassPathDirectory(s: String): Seq[File] =
-    new File(getClass.getClassLoader.getResource(s).toURI).listFiles()
+  def files(directoryPathInClassPath: String): Seq[File] =
+    new File(getClass.getClassLoader.getResource(directoryPathInClassPath).toURI).listFiles()
+
+  implicit def file2InputStream(f: File): FileInputStream =
+    new FileInputStream(f)
 
 }
