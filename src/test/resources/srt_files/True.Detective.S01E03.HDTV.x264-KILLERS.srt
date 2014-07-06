@@ -1,0 +1,4736 @@
+﻿1
+00:00:00,054 --> 00:00:01,455
+_
+
+2
+00:00:01,476 --> 00:00:03,769
+You know, she's always been
+in some kind of trouble.
+
+3
+00:00:03,896 --> 00:00:05,651
+I thought things
+were getting better.
+
+4
+00:00:05,760 --> 00:00:07,149
+Got away from Charlie.
+
+5
+00:00:07,244 --> 00:00:09,273
+She called up here
+for you not too long ago.
+
+6
+00:00:09,368 --> 00:00:11,684
+She come out
+she's going to become a nun.
+
+7
+00:00:12,456 --> 00:00:14,281
+What'd you do last night?
+
+8
+00:00:14,453 --> 00:00:15,983
+I was out with girlfriends.
+
+9
+00:00:16,165 --> 00:00:18,287
+I can't meet a nice man at home.
+
+10
+00:00:18,967 --> 00:00:21,171
+There is nowhere else
+I want to be.
+
+11
+00:00:21,256 --> 00:00:22,880
+I wonder if you even
+know you're lying.
+
+12
+00:00:22,985 --> 00:00:24,429
+Come on!
+
+13
+00:00:24,669 --> 00:00:27,015
+I got a whodunit where
+my two detectives are stalling,
+
+14
+00:00:27,091 --> 00:00:29,915
+and I got a task force
+wants to take it off our hands.
+
+15
+00:00:30,006 --> 00:00:31,943
+So Cohle didn't want
+to give it to the task force.
+
+16
+00:00:32,060 --> 00:00:33,987
+- Did you?
+- No.
+
+17
+00:00:34,104 --> 00:00:36,680
+I heard of this place.
+Kind of trailer park.
+
+18
+00:00:36,789 --> 00:00:37,920
+Called "The Ranch."
+
+19
+00:00:37,998 --> 00:00:39,029
+Something happened to a girl.
+
+20
+00:00:39,108 --> 00:00:40,890
+We need to know if
+any of you knew her.
+
+21
+00:00:41,103 --> 00:00:42,462
+Yeah, that's Dori.
+
+22
+00:00:42,561 --> 00:00:45,438
+You got any idea where she might have
+been staying the last few weeks?
+
+23
+00:00:45,522 --> 00:00:47,227
+She'd been going to church.
+
+24
+00:00:47,374 --> 00:00:50,646
+I was hoping maybe she
+just turned things around.
+
+25
+00:00:50,753 --> 00:00:52,048
+_
+
+26
+00:00:52,212 --> 00:00:53,403
+Place is trashed.
+
+27
+00:00:53,653 --> 00:00:55,338
+This ain't no kinda anything.
+
+28
+00:00:56,354 --> 00:00:57,422
+Marty.
+
+29
+00:01:00,398 --> 00:01:04,344
+Sync and corrections by n17t01
+www.addic7ed.com
+
+30
+00:01:05,884 --> 00:01:08,526
+[The Handsome Family's
+Far From Any Road playing]
+
+31
+00:01:13,247 --> 00:01:16,365
+♪ from the dusty May sun ♪
+
+32
+00:01:16,696 --> 00:01:20,929
+♪ her looming shadow grows ♪
+
+33
+00:01:21,275 --> 00:01:24,497
+♪ hidden in the branches ♪
+
+34
+00:01:24,594 --> 00:01:28,397
+♪ of the poison creosote ♪
+
+35
+00:01:30,851 --> 00:01:34,306
+♪ she twines her spines up slowly ♪
+
+36
+00:01:34,502 --> 00:01:38,221
+♪ towards the boiling sun ♪
+
+37
+00:01:38,689 --> 00:01:42,224
+♪ and when I touched her skin ♪
+
+38
+00:01:42,549 --> 00:01:46,994
+♪ my fingers ran with blood ♪
+
+39
+00:01:47,000 --> 00:01:50,074
+Subtitles downloaded from www.OpenSubtitles.org
+
+40
+00:01:55,257 --> 00:01:59,054
+♪ when the last light warms the rocks ♪
+
+41
+00:01:59,150 --> 00:02:03,008
+♪ and the rattlesnakes unfold ♪
+
+42
+00:02:03,118 --> 00:02:05,994
+♪ the mountain cats will come ♪
+
+43
+00:02:06,530 --> 00:02:10,880
+♪ to drag away your bones ♪
+
+44
+00:02:12,712 --> 00:02:16,455
+♪ and rise with me forever ♪
+
+45
+00:02:16,685 --> 00:02:20,314
+♪ across the silent sand ♪
+
+46
+00:02:20,829 --> 00:02:24,320
+♪ and the stars will be your eyes ♪
+
+47
+00:02:24,603 --> 00:02:29,141
+♪ and the wind will be my hands ♪
+
+48
+00:02:33,516 --> 00:02:35,597
+True Detective - 1x03
+"The Locked Room"
+
+49
+00:02:37,183 --> 00:02:39,190
+♪
+
+50
+00:02:51,257 --> 00:02:52,662
+[Camera shutter clicks]
+
+51
+00:03:08,570 --> 00:03:08,600
+[Camera shutter clicks]
+
+52
+00:03:13,945 --> 00:03:17,377
+MAN: You were as blind to Him
+as your footprints in the ashes,
+
+53
+00:03:17,410 --> 00:03:19,111
+but He saw you.
+
+54
+00:03:21,350 --> 00:03:24,647
+He saw you
+in those dark corners.
+
+55
+00:03:24,680 --> 00:03:26,511
+He heard you--
+
+56
+00:03:26,544 --> 00:03:29,477
+Oh, my brothers,
+He heard those thoughts.
+
+57
+00:03:29,510 --> 00:03:31,749
+Yes!
+Preach it.
+
+58
+00:03:31,782 --> 00:03:34,651
+- Amen!
+- Yes!
+
+59
+00:03:34,684 --> 00:03:36,452
+Yes.
+Glory.
+
+60
+00:03:36,484 --> 00:03:39,985
+You are stranger to yourself,
+and yet He knows you...
+
+61
+00:03:40,018 --> 00:03:41,888
+- Amen.
+- Yes. He does, sir.
+
+62
+00:03:41,921 --> 00:03:44,256
+...and when your heart hardened,
+made you liken to the stone,
+
+63
+00:03:44,289 --> 00:03:47,758
+and broke you from His body,
+
+64
+00:03:47,791 --> 00:03:50,756
+which is the stars
+and the wind between the stars,
+
+65
+00:03:50,797 --> 00:03:52,324
+He knew you.
+
+66
+00:03:52,365 --> 00:03:54,128
+- Yeah!
+- Yeah!
+
+67
+00:03:54,193 --> 00:03:55,823
+He knew you.
+That is forever.
+
+68
+00:03:55,864 --> 00:03:58,160
+Amen, brother!
+
+69
+00:03:58,193 --> 00:04:01,262
+This world is a veil...
+
+70
+00:04:01,295 --> 00:04:03,596
+- Amen.
+- Yeah.
+
+71
+00:04:03,629 --> 00:04:06,604
+- Tell them.
+- Hallelujah.
+
+72
+00:04:06,637 --> 00:04:10,468
+...and the face you wear
+is not your own.
+
+73
+00:04:10,509 --> 00:04:13,538
+HART: Parish FD said
+the church burned down
+
+74
+00:04:13,570 --> 00:04:17,073
+4 months earlier, no prints,
+
+75
+00:04:17,106 --> 00:04:20,378
+put out an APB
+on Friends of Christ.
+
+76
+00:04:20,411 --> 00:04:25,421
+Week later,
+we were in Franklin,
+
+77
+00:04:25,454 --> 00:04:29,157
+um, Revival Ministry,
+
+78
+00:04:29,190 --> 00:04:31,831
+old-time religion.
+
+79
+00:04:31,864 --> 00:04:34,799
+You can imagine what
+Mr. Charisma thought of that.
+
+80
+00:04:34,832 --> 00:04:36,767
+MAN: It is merely the limitation
+of your senses.
+
+81
+00:04:36,800 --> 00:04:38,167
+COHLE: What do you
+think the average IQ
+
+82
+00:04:38,200 --> 00:04:41,268
+of this group is, huh?
+
+83
+00:04:41,301 --> 00:04:45,274
+Can you see Texas up there
+on your high horse?
+
+84
+00:04:45,307 --> 00:04:48,075
+What do you know
+about these people?
+
+85
+00:04:48,108 --> 00:04:51,074
+Just observation and deduction.
+
+86
+00:04:51,147 --> 00:04:53,881
+I see a propensity
+for obesity, poverty,
+
+87
+00:04:53,914 --> 00:04:56,384
+a yen for fairy tales,
+
+88
+00:04:56,417 --> 00:04:58,248
+folks putting what
+few bucks they do have
+
+89
+00:04:58,281 --> 00:04:59,649
+into little, wicker baskets
+
+90
+00:04:59,682 --> 00:05:01,249
+being passed around.
+
+91
+00:05:01,289 --> 00:05:02,687
+I think it's safe to say
+that nobody here
+
+92
+00:05:02,719 --> 00:05:05,555
+is gonna be splitting
+the atom, Marty.
+
+93
+00:05:05,588 --> 00:05:09,355
+You see that?
+Your fucking attitude.
+
+94
+00:05:09,388 --> 00:05:12,027
+Not everybody want to sit
+alone in a empty room
+
+95
+00:05:12,060 --> 00:05:14,658
+beating off to murder manuals.
+
+96
+00:05:14,691 --> 00:05:19,095
+Some folks enjoy
+community, the common good.
+
+97
+00:05:19,128 --> 00:05:20,664
+Yeah? Well,
+if the common good
+
+98
+00:05:20,697 --> 00:05:22,199
+has got to make up fairy tales,
+
+99
+00:05:22,232 --> 00:05:25,027
+then it's not good for anybody.
+
+100
+00:05:25,068 --> 00:05:28,498
+Your sorrows
+pin you to this place.
+
+101
+00:05:28,531 --> 00:05:31,298
+They divide you
+from what your heart knows,
+
+102
+00:05:31,339 --> 00:05:32,634
+and there are a lot
+of good hearts out there.
+
+103
+00:05:32,668 --> 00:05:33,770
+I'm looking out there.
+
+104
+00:05:33,803 --> 00:05:35,874
+I'm seeing a lot
+of good hearts out there.
+
+105
+00:05:35,907 --> 00:05:38,040
+I see a lot of joy out there.
+
+106
+00:05:38,073 --> 00:05:39,911
+HART: I mean,
+can you imagine
+
+107
+00:05:39,944 --> 00:05:42,077
+if people didn't believe,
+
+108
+00:05:42,110 --> 00:05:44,373
+what things they'd get up to?
+
+109
+00:05:44,414 --> 00:05:46,479
+Exact same thing they do now,
+
+110
+00:05:46,512 --> 00:05:48,582
+just out in the open.
+
+111
+00:05:48,615 --> 00:05:51,886
+Bull...shit.
+
+112
+00:05:51,919 --> 00:05:54,119
+It'd be a fucking
+freak show of murder
+
+113
+00:05:54,160 --> 00:05:55,888
+and debauchery,
+and you know it.
+
+114
+00:05:55,929 --> 00:05:57,727
+If the only thing
+keeping a person decent
+
+115
+00:05:57,760 --> 00:06:00,062
+is the expectation
+of divine reward,
+
+116
+00:06:00,095 --> 00:06:01,566
+then, brother, that person
+
+117
+00:06:01,599 --> 00:06:04,198
+is a piece of shit,
+and I'd like to get
+
+118
+00:06:04,231 --> 00:06:05,797
+as many of them out in the open
+
+119
+00:06:05,830 --> 00:06:07,438
+as possible.
+
+120
+00:06:07,471 --> 00:06:09,869
+I guess your judgment
+is infallible
+
+121
+00:06:09,902 --> 00:06:12,572
+piece-of-shitwise.
+
+122
+00:06:12,605 --> 00:06:17,578
+Do you think that notebook
+is a stone tablet?
+
+123
+00:06:20,241 --> 00:06:23,814
+What's it say about life, hmm,
+
+124
+00:06:23,848 --> 00:06:28,883
+you got to get together,
+tell yourself stories
+
+125
+00:06:28,924 --> 00:06:32,225
+that violate every law
+of the universe
+
+126
+00:06:32,258 --> 00:06:33,921
+just to get through
+the goddamn day?
+
+127
+00:06:33,954 --> 00:06:35,689
+No.
+
+128
+00:06:35,730 --> 00:06:38,161
+What's that say about
+your reality, Marty?
+
+129
+00:06:38,194 --> 00:06:41,529
+When you get
+to talking like this,
+
+130
+00:06:41,563 --> 00:06:44,266
+you sound panicked.
+
+131
+00:06:44,299 --> 00:06:45,737
+PAPANIA: You figure
+it's all a scam, huh,
+
+132
+00:06:45,770 --> 00:06:47,401
+all them folks?
+
+133
+00:06:47,441 --> 00:06:48,607
+Mm-hmm.
+
+134
+00:06:48,640 --> 00:06:49,903
+They just wrong?
+
+135
+00:06:49,936 --> 00:06:51,703
+Oh, yeah.
+
+136
+00:06:51,744 --> 00:06:54,677
+Been that way since one
+monkey looked at the sun
+
+137
+00:06:54,710 --> 00:06:56,206
+and told the other monkey,
+
+138
+00:06:56,247 --> 00:07:00,717
+"He said for you to give
+me your fucking share."
+
+139
+00:07:00,750 --> 00:07:05,115
+People so goddamn frail
+they'd rather
+
+140
+00:07:05,148 --> 00:07:07,219
+put a coin in a wishing well
+
+141
+00:07:07,252 --> 00:07:09,523
+than buy dinner.
+
+142
+00:07:09,556 --> 00:07:14,490
+MAN: Jesus Christ, Jesus Christ,
+Your arms open and close.
+
+143
+00:07:14,523 --> 00:07:16,129
+The echoes of my life
+could never contain
+
+144
+00:07:16,162 --> 00:07:17,695
+a single truth about You.
+
+145
+00:07:17,728 --> 00:07:19,158
+You move the feather
+in the ash.
+
+146
+00:07:19,191 --> 00:07:21,229
+You touch the leaf
+with its flame.
+
+147
+00:07:21,262 --> 00:07:22,556
+- Amen!
+- Amen.
+
+148
+00:07:22,597 --> 00:07:24,765
+COHLE: Transference of
+fear and self-loathing
+
+149
+00:07:24,798 --> 00:07:27,029
+to an authoritarian vessel.
+
+150
+00:07:27,070 --> 00:07:29,269
+It's catharsis.
+
+151
+00:07:29,302 --> 00:07:31,700
+He absorbs their dread
+with his narrative.
+
+152
+00:07:31,733 --> 00:07:33,834
+Because of this, he's effective
+
+153
+00:07:33,867 --> 00:07:35,739
+in proportion to the
+amount of certainty
+
+154
+00:07:35,772 --> 00:07:37,613
+he can project.
+
+155
+00:07:37,646 --> 00:07:39,581
+- Yeah! - Yeah!
+- Yeah.
+
+156
+00:07:39,614 --> 00:07:41,548
+Certain linguistic
+anthropologists think
+
+157
+00:07:41,581 --> 00:07:44,380
+that religion is
+a language virus
+
+158
+00:07:44,413 --> 00:07:47,486
+that rewrites
+pathways in the brain,
+
+159
+00:07:47,519 --> 00:07:49,524
+dulls critical thinking.
+
+160
+00:07:49,556 --> 00:07:54,059
+Well, I don't use
+$10 words as much as you,
+
+161
+00:07:54,092 --> 00:07:57,795
+but for a guy who sees
+no point in existence,
+
+162
+00:07:57,828 --> 00:08:01,101
+you sure fret about it
+an awful lot,
+
+163
+00:08:01,134 --> 00:08:04,866
+and you still sound panicked.
+
+164
+00:08:06,171 --> 00:08:08,873
+At least I'm not racing
+to a red light.
+
+165
+00:08:08,906 --> 00:08:14,442
+MAN: ...every self-doubt
+because he knows it.
+
+166
+00:08:14,475 --> 00:08:18,576
+COHLE: See, we all got
+what I call a life trap,
+
+167
+00:08:18,616 --> 00:08:22,446
+this gene-deep certainty
+that things will be different,
+
+168
+00:08:22,479 --> 00:08:24,852
+that you'll move
+to another city
+
+169
+00:08:24,885 --> 00:08:26,484
+and meet the people
+that'll be the friends
+
+170
+00:08:26,517 --> 00:08:27,947
+for the rest of your life,
+
+171
+00:08:27,988 --> 00:08:30,953
+that you'll fall in love
+and be fulfilled.
+
+172
+00:08:30,986 --> 00:08:35,962
+Fucking fulfillment,
+heh, and closure,
+
+173
+00:08:35,995 --> 00:08:38,026
+whatever the fuck
+those two--
+
+174
+00:08:38,059 --> 00:08:41,794
+Fucking empty jars
+to hold this shitstorm,
+
+175
+00:08:41,835 --> 00:08:45,199
+and nothing is ever fulfilled
+
+176
+00:08:45,232 --> 00:08:49,067
+until the very end,
+and closure--
+
+177
+00:08:49,100 --> 00:08:53,267
+No. No, no.
+Nothing is ever over.
+
+178
+00:09:01,473 --> 00:09:03,741
+HART: Minister Theriot,
+
+179
+00:09:03,774 --> 00:09:05,942
+do you recognize this girl?
+
+180
+00:09:05,976 --> 00:09:07,512
+I don't know for sure.
+
+181
+00:09:07,546 --> 00:09:08,512
+Wonderful sermon.
+
+182
+00:09:08,545 --> 00:09:09,551
+Well, thank you for coming.
+
+183
+00:09:09,584 --> 00:09:11,287
+- Thank you.
+- Thank you.
+
+184
+00:09:11,320 --> 00:09:13,551
+I want to say it's--
+
+185
+00:09:14,488 --> 00:09:16,286
+Thank you.
+
+186
+00:09:16,319 --> 00:09:17,823
+I don't remember the name,
+
+187
+00:09:17,856 --> 00:09:20,294
+came pretty regularly
+when we was in Eunice,
+
+188
+00:09:20,327 --> 00:09:21,789
+but I can't be sure.
+
+189
+00:09:21,829 --> 00:09:23,724
+We get around since then.
+
+190
+00:09:23,757 --> 00:09:25,661
+You? Oh, hello.
+
+191
+00:09:25,694 --> 00:09:27,597
+No. You're right.
+We saw her in Eunice.
+
+192
+00:09:27,630 --> 00:09:29,397
+Tina might know her.
+
+193
+00:09:29,430 --> 00:09:31,067
+Mm-hmm.
+
+194
+00:09:31,100 --> 00:09:33,668
+HART: How long
+were you in Eunice?
+
+195
+00:09:33,701 --> 00:09:35,635
+About 6 months.
+
+196
+00:09:35,668 --> 00:09:37,738
+Widow in Opelousas
+leased us cheap.
+
+197
+00:09:37,771 --> 00:09:39,105
+We left when it caught fire.
+
+198
+00:09:39,138 --> 00:09:41,408
+HART: Any idea
+how that happened?
+
+199
+00:09:41,441 --> 00:09:44,238
+Your people said
+criminal mischief.
+
+200
+00:09:44,279 --> 00:09:46,611
+If I was to lay odds,
+maybe one of the widow's sons
+
+201
+00:09:46,644 --> 00:09:49,346
+wanted us off the land,
+but we move on.
+
+202
+00:09:49,379 --> 00:09:51,074
+We seek no title
+nor retribution.
+
+203
+00:09:51,115 --> 00:09:52,713
+I'm gonna go find David.
+
+204
+00:09:52,745 --> 00:09:53,744
+Okay.
+
+205
+00:09:53,777 --> 00:09:55,943
+Yeah.
+Great preaching.
+
+206
+00:09:55,984 --> 00:09:57,550
+How long you been doing this?
+
+207
+00:09:57,583 --> 00:10:00,952
+Been preaching almost 20 years.
+
+208
+00:10:00,985 --> 00:10:03,121
+We've had Friends of Christ
+for the last 8.
+
+209
+00:10:03,154 --> 00:10:04,886
+You with a church before that?
+
+210
+00:10:04,919 --> 00:10:07,851
+Independent evangelical.
+
+211
+00:10:07,892 --> 00:10:09,587
+I came up under
+Billy Lee Tuttle,
+
+212
+00:10:09,620 --> 00:10:12,491
+went to his college in
+Baton Rouge a couple years.
+
+213
+00:10:12,523 --> 00:10:14,528
+HART: So back in Eunice,
+
+214
+00:10:14,561 --> 00:10:17,357
+who painted the mural
+on the church wall?
+
+215
+00:10:17,390 --> 00:10:20,557
+Children from our
+congregation painted it.
+
+216
+00:10:21,893 --> 00:10:24,229
+I'm sorry.
+
+217
+00:10:24,262 --> 00:10:25,729
+Something happen to this girl?
+
+218
+00:10:25,762 --> 00:10:27,230
+You looking for her?
+
+219
+00:10:27,263 --> 00:10:29,027
+Mr. Theriot, can we see
+the identification
+
+220
+00:10:29,060 --> 00:10:30,932
+of your staff members?
+
+221
+00:10:32,502 --> 00:10:35,234
+HART: You ever see her
+with anybody?
+
+222
+00:10:35,267 --> 00:10:37,368
+WOMAN: Wasn't she with
+someone the one day?
+
+223
+00:10:37,401 --> 00:10:40,764
+You remember?
+The tall man.
+
+224
+00:10:40,797 --> 00:10:42,499
+TINA: Yeah,
+but I don't know
+
+225
+00:10:42,532 --> 00:10:44,802
+if she was "with him" with him.
+
+226
+00:10:44,835 --> 00:10:48,835
+Well, can you describe him?
+
+227
+00:10:50,613 --> 00:10:52,380
+I just saw them talking.
+
+228
+00:10:52,413 --> 00:10:54,309
+I didn't get close or anything.
+
+229
+00:10:54,349 --> 00:10:58,115
+He was hunched forward
+talking to her,
+
+230
+00:10:58,148 --> 00:11:02,283
+kind of a strange face,
+I think,
+
+231
+00:11:02,324 --> 00:11:04,587
+skin shiny around his jaw.
+
+232
+00:11:04,620 --> 00:11:08,156
+Ah, what, like burned?
+
+233
+00:11:10,828 --> 00:11:12,426
+Uh-huh.
+
+234
+00:11:12,459 --> 00:11:14,963
+So did she leave with him?
+
+235
+00:11:14,996 --> 00:11:17,805
+Yeah, maybe like that.
+
+236
+00:11:17,838 --> 00:11:20,038
+WOMAN ON POLICE RADIO:
+Arrested 10/89 on a 314,
+
+237
+00:11:20,071 --> 00:11:23,171
+spent last year in solitary
+after a gang altercation.
+
+238
+00:11:23,204 --> 00:11:24,409
+Print and hold.
+Thank you.
+
+239
+00:11:24,442 --> 00:11:26,074
+Copy that.
+
+240
+00:11:28,745 --> 00:11:31,447
+[Children laughing and shouting]
+
+241
+00:11:45,012 --> 00:11:47,147
+THERIOT:
+Everything check out?
+
+242
+00:11:47,180 --> 00:11:48,821
+For the most part.
+
+243
+00:11:50,485 --> 00:11:53,689
+Burt, you spent two
+years in Angola--
+
+244
+00:11:53,722 --> 00:11:56,487
+indecency, public exposure,
+
+245
+00:11:56,520 --> 00:11:59,390
+whacking off outside a school.
+
+246
+00:12:01,190 --> 00:12:04,657
+They gave me bad medicine.
+I didn't know.
+
+247
+00:12:04,690 --> 00:12:08,193
+I paid for that.
+I paid for that.
+
+248
+00:12:10,195 --> 00:12:12,129
+Can you account
+for his whereabouts
+
+249
+00:12:12,162 --> 00:12:15,268
+December 25 through January 3?
+
+250
+00:12:15,301 --> 00:12:16,668
+Yeah. Christmas
+to New Year's,
+
+251
+00:12:16,709 --> 00:12:17,804
+we was in New Roads.
+
+252
+00:12:17,837 --> 00:12:19,043
+Shouldn't be a problem
+to find people
+
+253
+00:12:19,076 --> 00:12:21,107
+who'll vouch for
+Burt's whereabouts.
+
+254
+00:12:21,140 --> 00:12:22,843
+We had a good turnout there.
+
+255
+00:12:22,876 --> 00:12:24,883
+Good turnout in--
+
+256
+00:12:24,917 --> 00:12:28,853
+Detective, what is it
+you think happened?
+
+257
+00:12:30,221 --> 00:12:32,283
+Someone killed this girl,
+made a big show of it...
+
+258
+00:12:35,020 --> 00:12:37,553
+left a painting
+of the crime scene
+
+259
+00:12:37,594 --> 00:12:39,392
+on one of your old churches.
+
+260
+00:12:39,425 --> 00:12:41,455
+[Scoffs]
+
+261
+00:12:41,496 --> 00:12:42,864
+"I am the resurrection
+and the light
+
+262
+00:12:42,897 --> 00:12:45,769
+for those
+who believe in me."
+
+263
+00:12:50,106 --> 00:12:52,074
+Was she raped, Detective?
+
+264
+00:12:54,874 --> 00:12:57,042
+Why would you ask that?
+
+265
+00:13:01,746 --> 00:13:05,552
+If you speak to Burt alone,
+
+266
+00:13:05,585 --> 00:13:07,657
+I believe you'll be
+adequately convinced
+
+267
+00:13:07,690 --> 00:13:10,489
+of his innocence, Detective.
+
+268
+00:13:10,522 --> 00:13:13,697
+Okay. Let's do that.
+
+269
+00:13:13,730 --> 00:13:18,733
+Burt, go with the Detective.
+
+270
+00:13:18,774 --> 00:13:22,039
+COHLE: The ontological fallacy
+of expecting
+
+271
+00:13:22,072 --> 00:13:23,777
+a light at the end
+of the tunnel,
+
+272
+00:13:23,810 --> 00:13:26,382
+well, that's what
+the preacher sells,
+
+273
+00:13:26,415 --> 00:13:28,648
+same as a shrink.
+
+274
+00:13:28,681 --> 00:13:31,320
+See, the preacher,
+he encourages
+
+275
+00:13:31,353 --> 00:13:33,824
+your capacity for illusion.
+
+276
+00:13:33,857 --> 00:13:36,760
+Then he tells you
+it's a fucking virtue.
+
+277
+00:13:36,793 --> 00:13:40,227
+Always a buck to be had
+doing that,
+
+278
+00:13:40,268 --> 00:13:44,943
+and it's such a desperate sense
+of entitlement, isn't it?
+
+279
+00:13:46,474 --> 00:13:51,054
+"Surely, this is all for me.
+
+280
+00:13:51,087 --> 00:13:53,687
+Me.
+
+281
+00:13:53,728 --> 00:13:56,192
+Me, me, me. I, I.
+
+282
+00:13:56,225 --> 00:13:58,699
+I'm so fucking important.
+
+283
+00:13:58,732 --> 00:14:02,433
+I'm so fucking important,
+then, right?" Fuck you.
+
+284
+00:14:02,466 --> 00:14:04,570
+GILBOUGH: Excuse us
+for a second.
+
+285
+00:14:11,114 --> 00:14:13,545
+[Telephone rings]
+
+286
+00:14:16,684 --> 00:14:18,921
+[Door closes]
+
+287
+00:14:18,954 --> 00:14:20,249
+BURT: I didn't know.
+
+288
+00:14:20,289 --> 00:14:22,584
+COHLE: Easy. I am not
+gonna hurt you.
+
+289
+00:14:22,625 --> 00:14:25,192
+I'm not gonna hurt you.
+
+290
+00:14:25,225 --> 00:14:27,962
+BURT: Oh.
+
+291
+00:14:29,227 --> 00:14:31,328
+[Sighs]
+
+292
+00:14:34,233 --> 00:14:37,305
+Compassion is ethics,
+Detective.
+
+293
+00:14:37,338 --> 00:14:40,673
+Yes. It is.
+
+294
+00:14:41,946 --> 00:14:43,841
+COHLE: I ran checks
+on all of them.
+
+295
+00:14:43,874 --> 00:14:46,608
+Everyone has got a clean
+record except for Burt.
+
+296
+00:14:46,649 --> 00:14:48,447
+HART: I could see
+this being some kind
+
+297
+00:14:48,479 --> 00:14:50,444
+of retard job--
+
+298
+00:14:50,475 --> 00:14:53,484
+pays for it, gets ashamed,
+
+299
+00:14:53,517 --> 00:14:56,116
+overreacts,
+
+300
+00:14:56,149 --> 00:15:01,819
+tries to redeem the act,
+like, you know?
+
+301
+00:15:01,860 --> 00:15:03,522
+That's not bad, Marty...
+
+302
+00:15:03,555 --> 00:15:04,857
+Well, yeah.
+
+303
+00:15:04,890 --> 00:15:07,422
+I got all the way there
+without your help.
+
+304
+00:15:07,455 --> 00:15:10,190
+...but it's not him.
+
+305
+00:15:10,223 --> 00:15:13,326
+He did a deuce at the farm
+for dick wagging.
+
+306
+00:15:13,367 --> 00:15:16,226
+Should've been in
+a mental ward to begin with.
+
+307
+00:15:16,259 --> 00:15:17,664
+Give me the second half.
+
+308
+00:15:17,697 --> 00:15:19,034
+Angola.
+
+309
+00:15:19,064 --> 00:15:21,567
+Some Bloods caught him
+in the shower,
+
+310
+00:15:21,600 --> 00:15:23,905
+took his balls off
+with a razor.
+
+311
+00:15:23,938 --> 00:15:25,600
+They were sloppy about it.
+
+312
+00:15:25,633 --> 00:15:28,167
+Oh, Jesus.
+
+313
+00:15:30,106 --> 00:15:31,946
+Still--
+
+314
+00:15:31,979 --> 00:15:34,011
+I braced him.
+
+315
+00:15:34,044 --> 00:15:36,820
+He shit himself, literally.
+
+316
+00:15:41,390 --> 00:15:43,223
+We can put some
+troopers on this place,
+
+317
+00:15:43,264 --> 00:15:44,695
+have them surveil it,
+
+318
+00:15:44,728 --> 00:15:47,492
+but I think we should move on,
+
+319
+00:15:47,532 --> 00:15:49,701
+the tall man.
+
+320
+00:15:49,734 --> 00:15:51,840
+Well, that could be bullshit.
+
+321
+00:15:51,873 --> 00:15:52,968
+One threw it out,
+
+322
+00:15:53,009 --> 00:15:54,271
+and the other one
+picked up on it.
+
+323
+00:15:54,304 --> 00:15:56,671
+No. Burt knew.
+
+324
+00:15:56,712 --> 00:15:59,683
+He saw the tall man, too.
+
+325
+00:15:59,716 --> 00:16:01,284
+This,
+
+326
+00:16:01,317 --> 00:16:02,789
+that Marie Fontenot thing,
+
+327
+00:16:02,822 --> 00:16:04,358
+there's no way Lange
+was his first,
+
+328
+00:16:04,391 --> 00:16:06,728
+no fucking way.
+
+329
+00:16:06,761 --> 00:16:10,201
+♪
+
+330
+00:16:10,234 --> 00:16:13,168
+THERIOT: Rosie, can you
+help them get out, please.
+
+331
+00:16:16,104 --> 00:16:18,975
+[Engine revving]
+
+332
+00:16:26,112 --> 00:16:28,615
+HART: We haven't
+matched any signatures.
+
+333
+00:16:28,648 --> 00:16:31,983
+One guy in the fed
+database used crowns,
+
+334
+00:16:32,016 --> 00:16:34,653
+another a set
+of antlers--
+
+335
+00:16:34,718 --> 00:16:36,757
+Michigan lifer.
+
+336
+00:16:36,790 --> 00:16:39,291
+Then he called
+the signature wrong.
+
+337
+00:16:39,325 --> 00:16:41,186
+[Zip]
+
+338
+00:16:41,227 --> 00:16:43,355
+We don't know that
+there's any connection
+
+339
+00:16:43,396 --> 00:16:46,097
+to Marie Fontenot.
+
+340
+00:16:46,130 --> 00:16:50,798
+Yeah, but the lattices,
+the symbology--
+
+341
+00:16:50,831 --> 00:16:53,905
+some kind of culture
+to it, Marty.
+
+342
+00:16:55,370 --> 00:16:58,840
+I mean, he wanted
+us to find this one,
+
+343
+00:16:58,873 --> 00:17:00,674
+like he was showing off.
+
+344
+00:17:00,707 --> 00:17:03,841
+That cane field is our stage.
+
+345
+00:17:04,777 --> 00:17:07,078
+Make a suggestion, then.
+
+346
+00:17:07,111 --> 00:17:09,309
+We start at zero,
+they're gonna hand it
+
+347
+00:17:09,349 --> 00:17:12,149
+to the task force.
+
+348
+00:17:12,182 --> 00:17:14,084
+Well, somebody
+missed something.
+
+349
+00:17:14,117 --> 00:17:15,788
+We need to go back,
+check all files.
+
+350
+00:17:15,853 --> 00:17:17,884
+Any DBs in state
+the last 5 years,
+
+351
+00:17:17,925 --> 00:17:19,850
+we start there.
+
+352
+00:17:19,891 --> 00:17:22,825
+We don't have the hours.
+
+353
+00:17:22,858 --> 00:17:25,592
+Shit, man. Look.
+
+354
+00:17:25,625 --> 00:17:28,897
+I've noticed you have
+a tendency toward myopia,
+
+355
+00:17:28,930 --> 00:17:31,894
+tunnel vision,
+blows investigations.
+
+356
+00:17:31,927 --> 00:17:35,262
+Vision skews, twists evidence.
+
+357
+00:17:35,303 --> 00:17:38,963
+You're obsessive.
+
+358
+00:17:39,004 --> 00:17:43,001
+You're obsessive, too,
+just not about the job.
+
+359
+00:17:43,034 --> 00:17:45,735
+Not, me, brother.
+
+360
+00:17:45,768 --> 00:17:49,502
+I keep things even, separate,
+
+361
+00:17:49,543 --> 00:17:51,206
+like the way I can
+have this one beer
+
+362
+00:17:51,239 --> 00:17:52,639
+without needing 20.
+
+363
+00:17:52,680 --> 00:17:54,110
+People incapable of guilt
+
+364
+00:17:54,143 --> 00:17:57,178
+usually do have a good time.
+
+365
+00:18:01,212 --> 00:18:04,953
+Try not to be
+too hard on myself.
+
+366
+00:18:04,986 --> 00:18:07,488
+Well, that's real big of you.
+
+367
+00:18:07,522 --> 00:18:09,854
+You know the real difference
+between you and me?
+
+368
+00:18:09,887 --> 00:18:13,423
+Yeah. Denial.
+
+369
+00:18:13,456 --> 00:18:16,055
+The difference is
+that I know the difference
+
+370
+00:18:16,095 --> 00:18:18,494
+between an idea and a fact.
+
+371
+00:18:18,527 --> 00:18:22,292
+You are incapable
+of admitting doubt.
+
+372
+00:18:22,333 --> 00:18:25,593
+Now, that sounds
+like denial to me.
+
+373
+00:18:25,634 --> 00:18:28,968
+I doubt that.
+
+374
+00:18:31,002 --> 00:18:32,634
+[Clears throat]
+
+375
+00:18:32,675 --> 00:18:34,001
+We'll put out an APB
+
+376
+00:18:34,042 --> 00:18:36,574
+on any tall man
+with facial scarring...
+
+377
+00:18:36,607 --> 00:18:38,406
+Okay.
+
+378
+00:18:38,439 --> 00:18:41,372
+...telex the hospitals
+for patients that fit.
+
+379
+00:18:41,405 --> 00:18:42,971
+Good.
+
+380
+00:18:43,012 --> 00:18:44,705
+♪
+
+381
+00:18:46,473 --> 00:18:48,942
+[Engine starts]
+
+382
+00:18:56,981 --> 00:19:00,451
+PAPANIA: So Cohle was trying
+to keep it from the task force.
+
+383
+00:19:00,484 --> 00:19:04,216
+Looking back,
+you ever think maybe
+
+384
+00:19:04,249 --> 00:19:06,487
+he tried to push things
+
+385
+00:19:06,521 --> 00:19:08,518
+where he wanted them to go?
+
+386
+00:19:10,055 --> 00:19:14,065
+No. We went where
+the case led us.
+
+387
+00:19:14,098 --> 00:19:16,233
+But you took it up, though,
+
+388
+00:19:16,266 --> 00:19:17,898
+his serial theory.
+
+389
+00:19:17,939 --> 00:19:20,632
+Well, as arrogant
+as he could be,
+
+390
+00:19:20,673 --> 00:19:22,168
+he was right.
+
+391
+00:19:22,201 --> 00:19:26,173
+I mean, that's how
+we got our man.
+
+392
+00:19:26,206 --> 00:19:27,834
+♪
+
+393
+00:19:27,867 --> 00:19:29,369
+COHLE: Uh-huh,
+
+394
+00:19:29,402 --> 00:19:31,008
+but I like it
+this way, you know?
+
+395
+00:19:31,041 --> 00:19:32,239
+It's steady.
+
+396
+00:19:32,272 --> 00:19:33,902
+MAGGIE:
+Bullshit, really.
+
+397
+00:19:33,943 --> 00:19:35,775
+Look. I did all the
+counseling and stuff.
+
+398
+00:19:35,808 --> 00:19:39,243
+This is just the way
+things are.
+
+399
+00:19:39,276 --> 00:19:41,176
+No. Things don't
+stay the same.
+
+400
+00:19:41,209 --> 00:19:43,678
+Pick up what you keep, and
+you leave the rest behind.
+
+401
+00:19:43,711 --> 00:19:45,247
+People get better.
+
+402
+00:19:45,280 --> 00:19:48,846
+Well, that's the thing.
+I think I am better.
+
+403
+00:19:48,879 --> 00:19:50,477
+You really think so?
+
+404
+00:19:50,518 --> 00:19:53,116
+Uh, trust me.
+
+405
+00:19:53,149 --> 00:19:54,882
+Maybe you just think
+you prefer it this way
+
+406
+00:19:54,915 --> 00:19:56,910
+because it's
+what you're used to.
+
+407
+00:19:56,951 --> 00:19:59,012
+Your life accommodates you.
+
+408
+00:19:59,045 --> 00:20:02,480
+You don't have to be
+afraid of loss.
+
+409
+00:20:03,912 --> 00:20:06,213
+Those are the guys
+I was telling you about.
+
+410
+00:20:06,246 --> 00:20:09,749
+They get a dog, fish,
+what have you.
+
+411
+00:20:09,782 --> 00:20:11,915
+You start with that.
+You live with it.
+
+412
+00:20:14,386 --> 00:20:16,720
+[Car door closes]
+
+413
+00:20:31,129 --> 00:20:32,865
+Hell, I suppose
+you could set me up
+
+414
+00:20:32,898 --> 00:20:36,298
+with a nurse, get me
+some of the good drugs.
+
+415
+00:20:36,331 --> 00:20:38,001
+Mm-hmm.
+
+416
+00:20:38,034 --> 00:20:40,971
+[Door closes]
+New start.
+
+417
+00:20:41,004 --> 00:20:42,440
+[Keys clatter]
+
+418
+00:20:42,473 --> 00:20:43,504
+- Daddy.
+- Daddy.
+
+419
+00:20:43,537 --> 00:20:44,737
+HART: Hey, kids.
+
+420
+00:20:44,777 --> 00:20:46,240
+Hey, honey.
+
+421
+00:20:46,273 --> 00:20:48,177
+How you doing, Marty?
+
+422
+00:20:53,307 --> 00:20:55,178
+What's going on, Rust?
+
+423
+00:20:55,211 --> 00:20:58,114
+Brought the mower back.
+
+424
+00:20:58,147 --> 00:20:59,912
+Mow my yard?
+
+425
+00:20:59,945 --> 00:21:02,045
+Yeah. I saw
+it needed mowing,
+
+426
+00:21:02,078 --> 00:21:04,747
+returned the favor, borrowing.
+
+427
+00:21:04,780 --> 00:21:06,619
+We got etouffee,
+
+428
+00:21:06,652 --> 00:21:09,415
+trying to get Rust
+to stay for dinner.
+
+429
+00:21:09,448 --> 00:21:11,415
+Oh, yeah?
+
+430
+00:21:11,448 --> 00:21:13,983
+Stay for dinner, Rust.
+
+431
+00:21:14,024 --> 00:21:18,419
+Nah. I think
+I got to get.
+
+432
+00:21:18,452 --> 00:21:21,555
+Maggie, thank you for the tea.
+
+433
+00:21:21,588 --> 00:21:24,795
+Sorry to hear that.
+
+434
+00:21:24,828 --> 00:21:27,700
+See you Monday.
+
+435
+00:21:27,733 --> 00:21:31,132
+I'll walk you out.
+
+436
+00:21:31,165 --> 00:21:33,571
+Hey.
+
+437
+00:21:33,604 --> 00:21:35,108
+Hey!
+
+438
+00:21:37,806 --> 00:21:40,077
+What?
+
+439
+00:21:40,110 --> 00:21:42,613
+What the hell do you
+think you're doing, man,
+
+440
+00:21:42,646 --> 00:21:46,251
+at my house when I'm not here?
+
+441
+00:21:46,284 --> 00:21:48,147
+Returning the mower.
+
+442
+00:21:48,188 --> 00:21:50,220
+You know what I mean.
+
+443
+00:21:50,253 --> 00:21:54,522
+You mow my lawn? Hmm?
+
+444
+00:21:54,556 --> 00:21:56,194
+Just what'd you think
+I'd be doing over here
+
+445
+00:21:56,227 --> 00:21:58,130
+when you're not around, Marty?
+
+446
+00:21:58,163 --> 00:22:01,993
+What's our problem, you and me?
+
+447
+00:22:02,034 --> 00:22:03,759
+No problem.
+
+448
+00:22:03,800 --> 00:22:05,296
+I just don't ever want you
+
+449
+00:22:05,329 --> 00:22:07,034
+mowing my lawn, all right?
+
+450
+00:22:07,067 --> 00:22:11,135
+I like mowing my lawn.
+
+451
+00:22:31,386 --> 00:22:33,985
+[Engine starts]
+
+452
+00:22:40,695 --> 00:22:43,031
+HART: Oh.
+
+453
+00:22:43,064 --> 00:22:44,431
+That is your team, Daddy?
+
+454
+00:22:44,464 --> 00:22:48,031
+Yeah, baby. That--
+I want them to win.
+
+455
+00:22:48,064 --> 00:22:51,608
+[Clears throat]
+
+456
+00:22:59,616 --> 00:23:03,815
+Uh, hey, Audrey, your mom and I
+
+457
+00:23:03,848 --> 00:23:05,751
+want to talk to you
+a minute about
+
+458
+00:23:05,784 --> 00:23:09,422
+those drawings you
+did in school, yeah?
+
+459
+00:23:09,455 --> 00:23:11,651
+Mace, run to your room.
+
+460
+00:23:11,683 --> 00:23:12,817
+Why?
+
+461
+00:23:12,850 --> 00:23:14,353
+Because I said so.
+Run to y--
+
+462
+00:23:14,386 --> 00:23:17,551
+Go. Go on.
+
+463
+00:23:18,458 --> 00:23:19,562
+Go.
+
+464
+00:23:23,033 --> 00:23:25,634
+Go. Run.
+
+465
+00:23:29,941 --> 00:23:33,978
+Look.
+
+466
+00:23:34,012 --> 00:23:37,313
+You don't have to get
+upset, honey, okay?
+
+467
+00:23:37,346 --> 00:23:39,345
+We just want to talk to you.
+
+468
+00:23:39,378 --> 00:23:43,248
+Where'd you see that
+before, hmm?
+
+469
+00:23:43,281 --> 00:23:45,782
+Why'd you draw that?
+
+470
+00:23:45,815 --> 00:23:48,055
+Because other girls liked it
+
+471
+00:23:48,088 --> 00:23:50,718
+and they thought it was funny.
+
+472
+00:23:50,759 --> 00:23:53,253
+That's all.
+
+473
+00:23:53,294 --> 00:23:57,727
+Yeah, but where'd you
+get that idea, hmm?
+
+474
+00:24:00,136 --> 00:24:02,670
+The girls dared me to do it.
+
+475
+00:24:02,703 --> 00:24:04,165
+Oh, God.
+
+476
+00:24:04,198 --> 00:24:06,700
+That upsets people, Audrey.
+
+477
+00:24:06,733 --> 00:24:10,168
+It's ugly.
+
+478
+00:24:10,201 --> 00:24:12,736
+It makes something
+that should be nice
+
+479
+00:24:12,769 --> 00:24:15,343
+ugly.
+
+480
+00:24:15,376 --> 00:24:18,343
+I'm sorry. Oh...
+
+481
+00:24:18,376 --> 00:24:21,080
+Shh. That's okay.
+It's okay.
+
+482
+00:24:21,113 --> 00:24:23,679
+[Whimpers]
+
+483
+00:24:23,712 --> 00:24:27,087
+It's okay, sweetie.
+
+484
+00:24:27,120 --> 00:24:30,115
+HART: Well, I'm not saying
+that I got any room to talk,
+
+485
+00:24:30,148 --> 00:24:33,649
+but do you know what it means
+to be a father?
+
+486
+00:24:33,690 --> 00:24:37,193
+It means you are accountable
+for other people.
+
+487
+00:24:37,226 --> 00:24:40,928
+You are responsible
+for their lives.
+
+488
+00:24:40,961 --> 00:24:44,031
+Now, past a certain point,
+
+489
+00:24:44,064 --> 00:24:48,029
+there's a futility
+in responsibility.
+
+490
+00:25:02,939 --> 00:25:04,345
+Hey.
+
+491
+00:25:05,409 --> 00:25:07,681
+That's the extent
+of your concern?
+
+492
+00:25:07,714 --> 00:25:09,483
+Well, no.
+
+493
+00:25:09,516 --> 00:25:12,081
+I just don't know what
+looking at it any more
+
+494
+00:25:12,114 --> 00:25:13,950
+is gonna do.
+
+495
+00:25:13,983 --> 00:25:16,953
+It's her.
+I'm concerned.
+
+496
+00:25:16,986 --> 00:25:19,994
+Well, she's just trying
+to get attention,
+
+497
+00:25:20,027 --> 00:25:22,560
+and the other girls--
+
+498
+00:25:22,593 --> 00:25:25,357
+Jesus, how do they even know
+about that stuff yet?
+
+499
+00:25:25,390 --> 00:25:28,262
+Girls always know before boys.
+
+500
+00:25:28,295 --> 00:25:29,596
+Why is that?
+
+501
+00:25:29,629 --> 00:25:31,997
+Because they have to.
+
+502
+00:25:32,038 --> 00:25:35,834
+Listen to me.
+She's withdrawn.
+
+503
+00:25:35,867 --> 00:25:37,371
+She asks about you,
+and she wants to know
+
+504
+00:25:37,404 --> 00:25:39,403
+why you're working so much now.
+
+505
+00:25:39,436 --> 00:25:42,777
+Well, I should be working less.
+
+506
+00:25:42,810 --> 00:25:45,111
+Task force is gonna
+take that case,
+
+507
+00:25:45,144 --> 00:25:48,802
+and I'll be around more.
+
+508
+00:25:51,676 --> 00:25:53,442
+Last week?
+
+509
+00:25:54,482 --> 00:25:56,311
+[Clears throat]
+
+510
+00:25:56,344 --> 00:25:58,681
+I'm sorry about that.
+I should've begged off.
+
+511
+00:25:58,714 --> 00:26:00,953
+We were having a good night.
+
+512
+00:26:00,986 --> 00:26:04,655
+Don't stop me. Talk.
+
+513
+00:26:08,256 --> 00:26:10,529
+I'm close, Marty.
+
+514
+00:26:10,562 --> 00:26:13,363
+Do you hear me?
+I'm close.
+
+515
+00:26:13,397 --> 00:26:17,070
+Um, they're gonna
+pull that case from us,
+
+516
+00:26:17,103 --> 00:26:22,511
+and I'll be around more,
+and we'll do things.
+
+517
+00:26:22,544 --> 00:26:25,720
+Why is there all this
+space between us, Marty?
+
+518
+00:26:25,753 --> 00:26:27,919
+I don't know what you mean.
+
+519
+00:26:27,952 --> 00:26:28,983
+You do know what I mean,
+
+520
+00:26:29,016 --> 00:26:31,192
+and you won't say,
+and that's it.
+
+521
+00:26:31,225 --> 00:26:33,691
+That's what I'm talking about.
+
+522
+00:26:33,731 --> 00:26:35,964
+This last year, you've
+been a sulky teenager.
+
+523
+00:26:35,997 --> 00:26:38,397
+You know it.
+
+524
+00:26:38,438 --> 00:26:40,574
+I'm trying to be
+your friend, Marty.
+
+525
+00:26:40,607 --> 00:26:43,438
+[Sighs]
+
+526
+00:26:43,471 --> 00:26:50,012
+I'm just not good
+at... you know, expressing.
+
+527
+00:26:50,045 --> 00:26:51,778
+We change, don't we,
+
+528
+00:26:51,811 --> 00:26:54,776
+and sometimes not for long.
+
+529
+00:26:54,817 --> 00:26:58,011
+And here I'm thinking people
+don't really change at all,
+
+530
+00:26:58,045 --> 00:27:00,917
+not who they are at heart.
+
+531
+00:27:00,950 --> 00:27:02,517
+You know, I try to remember things
+because I feel
+
+532
+00:27:02,550 --> 00:27:04,252
+like I should, like it's my job
+
+533
+00:27:04,285 --> 00:27:09,489
+or something,
+you know, early days,
+
+534
+00:27:09,522 --> 00:27:12,195
+and I'm tired of
+trying to remember.
+
+535
+00:27:12,228 --> 00:27:16,898
+Part of this--
+and I'm not talking
+
+536
+00:27:16,931 --> 00:27:19,095
+about the part
+that's all my fault--
+
+537
+00:27:19,128 --> 00:27:23,134
+but part of it, it's just life.
+
+538
+00:27:23,167 --> 00:27:27,037
+We used to spend weekends
+without leaving my room.
+
+539
+00:27:27,070 --> 00:27:28,731
+- That's not what I mean.
+- Remember that?
+
+540
+00:27:28,772 --> 00:27:32,173
+Of course we don't
+screw like we're 19.
+
+541
+00:27:32,206 --> 00:27:35,742
+God, you want low expectations.
+
+542
+00:27:35,775 --> 00:27:37,984
+You know, you put a ceiling
+on your life,
+
+543
+00:27:38,017 --> 00:27:41,021
+on everything, because
+you won't change.
+
+544
+00:27:42,791 --> 00:27:45,595
+You were so much smarter
+when I met you,
+
+545
+00:27:45,628 --> 00:27:47,699
+you know?
+
+546
+00:27:51,964 --> 00:27:55,233
+I'm sorry, Maggie.
+
+547
+00:27:55,266 --> 00:27:59,500
+I'm sorry
+for everything--
+
+548
+00:27:59,533 --> 00:28:01,300
+for not being here,
+
+549
+00:28:01,333 --> 00:28:05,140
+for taking all this
+for granted.
+
+550
+00:28:08,076 --> 00:28:11,408
+What have you been
+doing, Marty?
+
+551
+00:28:13,776 --> 00:28:15,343
+I--
+
+552
+00:28:18,309 --> 00:28:23,947
+Work, home, cases.
+
+553
+00:28:25,617 --> 00:28:27,719
+Just--
+
+554
+00:28:29,384 --> 00:28:32,518
+I get to feeling like--
+
+555
+00:28:34,159 --> 00:28:36,452
+Look. I can see 40...
+
+556
+00:28:38,662 --> 00:28:43,165
+and it's like I'm that coyote
+
+557
+00:28:43,198 --> 00:28:44,900
+in the cartoons,
+
+558
+00:28:44,933 --> 00:28:47,395
+like I'm running off a cliff,
+
+559
+00:28:47,436 --> 00:28:52,905
+and if I don't look down
+and keep running,
+
+560
+00:28:52,938 --> 00:28:58,470
+I might be fine, but, um...
+
+561
+00:29:00,912 --> 00:29:03,446
+I think I'm all fucked up.
+
+562
+00:29:07,413 --> 00:29:10,747
+You are.
+
+563
+00:29:10,780 --> 00:29:12,820
+Yes. You are.
+
+564
+00:29:18,860 --> 00:29:19,892
+♪
+
+565
+00:29:19,925 --> 00:29:22,060
+[Kiss]
+
+566
+00:29:25,732 --> 00:29:27,594
+[Exhales]
+
+567
+00:30:25,433 --> 00:30:28,168
+PAPANIA: Marty?
+
+568
+00:30:31,767 --> 00:30:36,571
+Anyway, well, we pulled
+a few hospital patients--
+
+569
+00:30:36,605 --> 00:30:41,176
+tall, scarred, sex offenders.
+
+570
+00:30:41,209 --> 00:30:43,341
+One kid did B&Es.
+
+571
+00:30:43,375 --> 00:30:49,279
+He had to tug one out
+before he could leave a scene.
+
+572
+00:30:49,312 --> 00:30:52,644
+Phew. Yeah.
+A lot of room work then.
+
+573
+00:30:55,148 --> 00:30:57,652
+Which one of you guys
+is the box man?
+
+574
+00:30:59,321 --> 00:31:02,416
+You, yeah?
+
+575
+00:31:02,457 --> 00:31:05,991
+I used to be pretty good
+in there myself,
+
+576
+00:31:06,024 --> 00:31:08,493
+not as good as Rust.
+
+577
+00:31:08,526 --> 00:31:10,188
+COHLE: I know, son.
+
+578
+00:31:10,221 --> 00:31:13,352
+I can read this off you.
+
+579
+00:31:13,393 --> 00:31:15,994
+♪
+
+580
+00:31:16,027 --> 00:31:19,668
+You're not bad.
+It's not you.
+
+581
+00:31:19,701 --> 00:31:21,099
+There's a weight,
+
+582
+00:31:21,132 --> 00:31:22,328
+and it got its fishhooks
+
+583
+00:31:22,369 --> 00:31:23,935
+in your heart and your soul.
+
+584
+00:31:23,968 --> 00:31:26,704
+[Sobbing]
+
+585
+00:31:35,140 --> 00:31:40,471
+Now, what you did
+is not your fault.
+
+586
+00:31:40,512 --> 00:31:42,976
+It's not.
+
+587
+00:31:43,009 --> 00:31:44,744
+You was drug to the bottom
+
+588
+00:31:44,785 --> 00:31:47,385
+by that same weight,
+the same weight
+
+589
+00:31:47,418 --> 00:31:49,251
+that won't let you
+get along in a job,
+
+590
+00:31:49,292 --> 00:31:50,858
+and same weight that
+wouldn't let you
+
+591
+00:31:50,891 --> 00:31:53,691
+get along at school...
+
+592
+00:31:58,196 --> 00:31:59,668
+same weight that
+wouldn't let you
+
+593
+00:31:59,701 --> 00:32:01,731
+have a mom.
+
+594
+00:32:04,338 --> 00:32:08,338
+I know these things, Chris.
+
+595
+00:32:08,372 --> 00:32:13,577
+I'm weak. I'm sick.
+
+596
+00:32:13,610 --> 00:32:17,387
+I get into the houses,
+and I can't leave
+
+597
+00:32:17,420 --> 00:32:20,753
+until I go
+all over the drawers.
+
+598
+00:32:20,786 --> 00:32:24,225
+Listen to me, son.
+
+599
+00:32:24,258 --> 00:32:26,594
+You got one way out,
+
+600
+00:32:26,627 --> 00:32:29,060
+and it's through
+the grace of God.
+
+601
+00:32:29,100 --> 00:32:31,865
+You're only how
+the Lord made you.
+
+602
+00:32:33,602 --> 00:32:37,034
+You are not flawed.
+
+603
+00:32:37,067 --> 00:32:39,074
+We, you, me, people,
+
+604
+00:32:39,107 --> 00:32:41,875
+we don't choose our feelings.
+
+605
+00:32:41,908 --> 00:32:43,580
+[Chris sobbing]
+
+606
+00:32:43,613 --> 00:32:45,414
+There's grace in this world,
+
+607
+00:32:45,447 --> 00:32:47,149
+and there's
+forgiveness for all,
+
+608
+00:32:47,182 --> 00:32:50,188
+but you have to ask for it.
+
+609
+00:32:50,221 --> 00:32:52,317
+I do. I do.
+I want that.
+
+610
+00:32:52,357 --> 00:32:57,691
+I want it. I want that.
+I'm asking. I'm asking.
+
+611
+00:32:57,724 --> 00:32:59,155
+Tell me. Tell me.
+
+612
+00:32:59,196 --> 00:33:00,995
+Please just tell me
+what to say.
+
+613
+00:33:01,028 --> 00:33:06,235
+I want to confess.
+I want to confess.
+
+614
+00:33:06,268 --> 00:33:10,003
+[Chris sobbing]
+
+615
+00:33:13,876 --> 00:33:16,703
+GILBOUGH:
+Sorry about that.
+
+616
+00:33:16,744 --> 00:33:18,110
+[Door closes]
+
+617
+00:33:18,143 --> 00:33:22,311
+Your assist record, man,
+that's something else.
+
+618
+00:33:22,344 --> 00:33:25,448
+PAPANIA:
+Any pointers?
+
+619
+00:33:25,481 --> 00:33:28,017
+Oh, I never really
+found it that hard.
+
+620
+00:33:28,057 --> 00:33:32,890
+You just look at somebody
+and think like they think,
+
+621
+00:33:32,931 --> 00:33:37,465
+negative capability.
+
+622
+00:33:37,498 --> 00:33:41,203
+I mean, I guess it's a skill.
+
+623
+00:33:41,236 --> 00:33:43,035
+Most times,
+you don't even need that.
+
+624
+00:33:43,068 --> 00:33:47,675
+You just look them in the eyes.
+The whole story is right there.
+
+625
+00:33:47,708 --> 00:33:51,844
+Everybody wears their hunger
+and their haunt, you know?
+
+626
+00:33:53,284 --> 00:33:57,285
+You just got to be honest
+about what can go on up here,
+
+627
+00:33:57,318 --> 00:33:59,890
+a locked room....
+
+628
+00:33:59,923 --> 00:34:02,555
+[Cuts can]
+
+629
+00:34:02,588 --> 00:34:05,028
+but then again,
+I'm terrible at cards.
+
+630
+00:34:05,061 --> 00:34:08,932
+Ha, ha!
+
+631
+00:34:08,965 --> 00:34:12,635
+Yeah. So while we were grilling
+B&E jerkoffs and burn victims,
+
+632
+00:34:12,668 --> 00:34:15,739
+I decided to put insomnia
+to good use.
+
+633
+00:34:15,772 --> 00:34:17,771
+♪
+
+634
+00:34:37,092 --> 00:34:39,062
+_
+
+635
+00:34:44,038 --> 00:34:46,437
+COHLE: People.
+
+636
+00:34:46,470 --> 00:34:50,709
+I've seen the finale
+of thousands of lives, man--
+
+637
+00:34:50,743 --> 00:34:52,983
+young, old.
+
+638
+00:34:53,016 --> 00:34:56,920
+Each one is so sure
+of their realness,
+
+639
+00:34:56,953 --> 00:35:02,259
+that their sensory experience
+constituted a unique individual
+
+640
+00:35:02,292 --> 00:35:05,795
+with purpose, meaning...
+
+641
+00:35:08,363 --> 00:35:13,540
+so certain that they were
+more than a biological puppet.
+
+642
+00:35:14,772 --> 00:35:20,277
+Well, the truth wills out,
+and everybody sees
+
+643
+00:35:20,318 --> 00:35:23,716
+once the strings are cut,
+all fall down.
+
+644
+00:35:30,990 --> 00:35:33,327
+[Beeping]
+
+645
+00:35:36,001 --> 00:35:38,799
+♪
+
+646
+00:35:45,912 --> 00:35:48,043
+WOMAN:
+Maggie says he's shy.
+
+647
+00:35:48,077 --> 00:35:51,178
+I wouldn't say that.
+
+648
+00:35:51,211 --> 00:35:54,115
+Definitely not shy
+about speaking his mind.
+
+649
+00:35:54,148 --> 00:35:55,681
+Well, that's not what I mean.
+
+650
+00:35:55,715 --> 00:35:59,419
+His personality.
+He's edgy.
+
+651
+00:35:59,452 --> 00:36:03,892
+Yeah, intense,
+more like, introverted.
+
+652
+00:36:03,925 --> 00:36:05,859
+WOMAN: I don't want
+another drunk.
+
+653
+00:36:05,892 --> 00:36:07,364
+The last cop
+you showed me--
+
+654
+00:36:07,397 --> 00:36:09,629
+HART: No. Wait. Steve was going
+through a tough time.
+
+655
+00:36:09,662 --> 00:36:11,030
+He threw up in my lap.
+
+656
+00:36:11,071 --> 00:36:12,166
+Don't worry about that.
+
+657
+00:36:12,199 --> 00:36:15,101
+Getting him near you lap
+is gonna be the challenge.
+
+658
+00:36:15,134 --> 00:36:18,574
+Oh, hey, speak of the devil.
+
+659
+00:36:18,607 --> 00:36:21,175
+- Hey, Rust.
+- Martin.
+
+660
+00:36:21,216 --> 00:36:23,414
+- Hey, Maggie.
+- Hi, Rust.
+
+661
+00:36:23,447 --> 00:36:24,846
+- Jennifer.
+- Rustin.
+
+662
+00:36:24,879 --> 00:36:27,415
+Nice to meet you.
+
+663
+00:36:27,456 --> 00:36:31,454
+Well, you walk over here?
+
+664
+00:36:34,791 --> 00:36:37,664
+[Clears throat]
+
+665
+00:36:37,697 --> 00:36:41,498
+Well... okay.
+
+666
+00:36:48,378 --> 00:36:50,313
+♪
+
+667
+00:36:50,346 --> 00:36:52,450
+HART: Just when I thought he
+couldn't get any stranger.
+
+668
+00:36:52,483 --> 00:36:53,883
+Are you serious?
+
+669
+00:36:53,916 --> 00:36:55,683
+He tastes colors.
+
+670
+00:36:55,716 --> 00:36:58,787
+So what is synesesia?
+
+671
+00:36:58,820 --> 00:37:00,259
+COHLE: Synesthesia.
+
+672
+00:37:00,292 --> 00:37:04,195
+It's a misalignment
+of synaptic receptors
+
+673
+00:37:04,228 --> 00:37:08,267
+and triggers--
+alkalis, colors,
+
+674
+00:37:08,300 --> 00:37:10,604
+certain metallics.
+
+675
+00:37:10,637 --> 00:37:13,171
+It's a type
+of hyper sensitivity.
+
+676
+00:37:13,205 --> 00:37:16,770
+One sense triggers
+another sense.
+
+677
+00:37:16,803 --> 00:37:19,370
+Sometimes I'll see a color,
+
+678
+00:37:19,411 --> 00:37:21,608
+and it'll put a taste
+in my mouth.
+
+679
+00:37:21,641 --> 00:37:25,709
+A touch, a texture, a scent
+may put a note in my head.
+
+680
+00:37:25,742 --> 00:37:27,278
+MAGGIE: I've heard that.
+
+681
+00:37:27,311 --> 00:37:29,644
+It can be a side effect
+of a statin.
+
+682
+00:37:29,677 --> 00:37:31,179
+It's not a side effect.
+
+683
+00:37:31,212 --> 00:37:32,609
+So when something feels good,
+
+684
+00:37:32,650 --> 00:37:35,112
+does that mean it
+feels twice as good,
+
+685
+00:37:35,145 --> 00:37:38,922
+like from two different ways?
+
+686
+00:37:38,956 --> 00:37:44,123
+COHLE: It could.
+Yeah.
+
+687
+00:37:44,156 --> 00:37:46,257
+MAGGIE: The waitress
+will bring them, babe.
+
+688
+00:37:46,290 --> 00:37:49,423
+HART: Why wait?
+I'll be right back.
+
+689
+00:37:58,875 --> 00:38:01,306
+HART: Refill and two rums.
+
+690
+00:38:05,747 --> 00:38:07,651
+Ohh...
+
+691
+00:38:13,156 --> 00:38:15,290
+Hi. Can I have
+another beer?
+
+692
+00:38:15,323 --> 00:38:16,690
+Thank you.
+
+693
+00:38:16,723 --> 00:38:18,528
+♪
+
+694
+00:38:18,561 --> 00:38:20,191
+What are you doing?
+
+695
+00:38:20,224 --> 00:38:22,127
+What's it look like?
+
+696
+00:38:22,160 --> 00:38:24,529
+I'm on a date.
+Aren't you?
+
+697
+00:38:24,570 --> 00:38:25,969
+Heh.
+
+698
+00:38:26,002 --> 00:38:31,040
+So are you gonna go home
+with this guy? Huh?
+
+699
+00:38:31,073 --> 00:38:34,378
+It's really none
+of your business.
+
+700
+00:38:34,411 --> 00:38:37,178
+Do you fuck your wife?
+
+701
+00:38:37,211 --> 00:38:40,650
+What do you
+want me to do? Look.
+
+702
+00:38:40,683 --> 00:38:43,585
+Is this your way of
+trying to talk divorce?
+
+703
+00:38:43,618 --> 00:38:46,257
+My God, Marty,
+I don't want to marry you.
+
+704
+00:38:46,290 --> 00:38:50,727
+That's my whole point.
+It's just run its course.
+
+705
+00:38:50,760 --> 00:38:53,991
+No, it hasn't. Come here.
+Have a shot with me.
+
+706
+00:38:54,024 --> 00:38:55,494
+WOMAN: Gonna play
+a little something
+
+707
+00:38:55,527 --> 00:38:57,262
+everybody should dance to.
+
+708
+00:38:57,295 --> 00:39:00,062
+♪
+
+709
+00:39:04,731 --> 00:39:09,805
+Hey, I didn't just
+come here to drink, you know.
+
+710
+00:39:11,707 --> 00:39:14,241
+Let me just set this down.
+
+711
+00:39:15,145 --> 00:39:17,542
+It'll be fun.
+
+712
+00:39:17,575 --> 00:39:19,614
+Yeah.
+
+713
+00:39:34,724 --> 00:39:37,426
+What?
+
+714
+00:39:37,459 --> 00:39:39,563
+Oh, nothing.
+
+715
+00:39:39,596 --> 00:39:43,558
+Thought I saw a guy who
+supposed to be in parish.
+
+716
+00:39:50,077 --> 00:39:53,042
+So what's Alaska like?
+
+717
+00:39:53,075 --> 00:39:55,412
+It's beautiful.
+
+718
+00:39:55,445 --> 00:39:58,044
+It's not Paris, but it's clean,
+
+719
+00:39:58,085 --> 00:40:00,449
+and it's clear.
+
+720
+00:40:00,483 --> 00:40:02,588
+You've been to Paris?
+
+721
+00:40:02,621 --> 00:40:05,053
+For a month.
+
+722
+00:40:05,094 --> 00:40:07,629
+What'd you do in Paris?
+
+723
+00:40:07,662 --> 00:40:11,891
+Mainly just got drunk
+in front of Notre Dame.
+
+724
+00:40:11,931 --> 00:40:13,761
+♪
+
+725
+00:40:20,002 --> 00:40:23,305
+COHLE: Each stilled body
+so certain
+
+726
+00:40:23,338 --> 00:40:27,974
+that they were more than the sum
+of their urges,
+
+727
+00:40:28,007 --> 00:40:32,445
+all the useless spinning,
+tired mind,
+
+728
+00:40:32,478 --> 00:40:35,747
+collision of desire
+and ignorance.
+
+729
+00:40:39,450 --> 00:40:41,584
+You asked
+about the interrogations.
+
+730
+00:40:41,617 --> 00:40:43,649
+You want to know the truth?
+
+731
+00:40:46,018 --> 00:40:49,124
+I never been in a room
+more than 10 minutes
+
+732
+00:40:49,157 --> 00:40:51,526
+I didn't know whether
+the guy did it or not.
+
+733
+00:40:51,567 --> 00:40:53,597
+[Sniffles]
+
+734
+00:40:53,630 --> 00:40:56,568
+How long does it take you?
+
+735
+00:40:56,601 --> 00:41:00,980
+Rust spent a lot of off duty
+running DBs,
+
+736
+00:41:01,013 --> 00:41:04,748
+weeks of it,
+coon hound in another life.
+
+737
+00:41:04,781 --> 00:41:06,749
+Coon hound?
+
+738
+00:41:06,790 --> 00:41:10,123
+I meant raccoon hound.
+
+739
+00:41:10,156 --> 00:41:13,289
+Everybody is a fucking
+drama queen nowadays.
+
+740
+00:41:13,322 --> 00:41:15,890
+Jesus. Look.
+
+741
+00:41:15,923 --> 00:41:20,099
+If working his theories,
+if his job
+
+742
+00:41:20,132 --> 00:41:22,764
+was his idea of himself, fine.
+
+743
+00:41:22,805 --> 00:41:26,170
+I mean, the rest of us
+had families,
+
+744
+00:41:26,203 --> 00:41:28,569
+people in our lives,
+good things.
+
+745
+00:41:28,602 --> 00:41:31,137
+People give you rules.
+
+746
+00:41:31,177 --> 00:41:33,912
+Rules describe the shape
+of things.
+
+747
+00:41:37,447 --> 00:41:39,508
+[Pounding on door]
+
+748
+00:41:41,413 --> 00:41:42,947
+MAN: Come on!
+
+749
+00:41:42,980 --> 00:41:45,347
+Fuck you!
+
+750
+00:41:50,020 --> 00:41:52,553
+Fuck, Marty, get out of here.
+
+751
+00:41:52,586 --> 00:41:54,459
+"Fuck, Marty." Is that
+all you got for me?
+
+752
+00:41:54,492 --> 00:41:56,492
+Stop it. Go home.
+I don't want this anymore.
+
+753
+00:41:56,525 --> 00:41:58,227
+You got that little
+shitbird in here?
+
+754
+00:41:58,260 --> 00:41:59,932
+Go away.
+I'll call the cops.
+
+755
+00:41:59,965 --> 00:42:01,398
+Well, let's see how that
+works out for you.
+
+756
+00:42:01,439 --> 00:42:04,206
+- I know other cops.
+- Okay.
+
+757
+00:42:04,239 --> 00:42:07,036
+LISA: Get out.
+Marty, get out.
+
+758
+00:42:07,069 --> 00:42:08,407
+But she said she was single.
+
+759
+00:42:08,441 --> 00:42:11,745
+Marty, God!
+Stop! Stop it!
+
+760
+00:42:11,786 --> 00:42:13,185
+Did she suck your dick, huh?
+
+761
+00:42:13,219 --> 00:42:14,153
+Stop it!
+
+762
+00:42:14,186 --> 00:42:15,217
+She suck your fucking dick?
+
+763
+00:42:15,250 --> 00:42:18,186
+Stop it!
+Get out! Get off.
+
+764
+00:42:18,227 --> 00:42:19,394
+Get off!
+
+765
+00:42:19,427 --> 00:42:21,193
+Yeah.
+You try it?
+
+766
+00:42:21,226 --> 00:42:23,159
+Oh, you tell me, or I'll have
+
+767
+00:42:23,193 --> 00:42:26,800
+some Ninth Ward prison queen
+wearing your face for a condom.
+
+768
+00:42:26,833 --> 00:42:30,739
+Did she suck your dick?
+
+769
+00:42:30,772 --> 00:42:33,969
+Just for a little bit.
+
+770
+00:42:34,002 --> 00:42:36,405
+Get off.
+
+771
+00:42:36,438 --> 00:42:38,868
+Please stop it.
+
+772
+00:42:41,545 --> 00:42:44,048
+HART: Sorry I got
+in your face, guy.
+
+773
+00:42:44,081 --> 00:42:48,017
+I wouldn't have really
+done something like that.
+
+774
+00:42:48,050 --> 00:42:51,554
+I'm not a psycho.
+
+775
+00:42:55,900 --> 00:43:01,498
+HART: That's why I always said
+I think Rust needed a family.
+
+776
+00:43:02,570 --> 00:43:06,906
+It's boundaries.
+Boundaries are good.
+
+777
+00:43:12,811 --> 00:43:17,955
+[Traffic passing in distance]
+
+778
+00:43:26,628 --> 00:43:29,296
+[Telephone rings]
+
+779
+00:43:30,297 --> 00:43:32,928
+[Ring]
+
+780
+00:43:34,201 --> 00:43:36,939
+[Ring]
+
+781
+00:43:36,972 --> 00:43:38,644
+This is Cohle.
+
+782
+00:43:38,677 --> 00:43:40,644
+MAGGIE:
+Rust, you're home.
+
+783
+00:43:40,677 --> 00:43:43,181
+- It's me.
+- Yeah. What's wrong?
+
+784
+00:43:43,214 --> 00:43:44,646
+I'm sorry.
+
+785
+00:43:44,687 --> 00:43:46,284
+Steve Geraci said
+he caught something.
+
+786
+00:43:46,317 --> 00:43:48,580
+He needed help.
+
+787
+00:43:48,621 --> 00:43:51,083
+I almost called the station,
+but what's the point?
+
+788
+00:43:51,116 --> 00:43:52,851
+You know they lie.
+
+789
+00:43:55,555 --> 00:43:58,562
+I got to put you on the spot.
+
+790
+00:43:58,595 --> 00:44:01,696
+You know if it's true?
+
+791
+00:44:01,729 --> 00:44:06,033
+I didn't hear anything,
+
+792
+00:44:06,066 --> 00:44:07,937
+but then again, I wouldn't.
+
+793
+00:44:07,970 --> 00:44:10,339
+I mean, Geraci
+wouldn't pull me.
+
+794
+00:44:10,372 --> 00:44:12,613
+He hates me.
+
+795
+00:44:17,749 --> 00:44:19,181
+[Clears throat]
+
+796
+00:44:19,214 --> 00:44:22,291
+You drop Jen at home?
+
+797
+00:44:22,324 --> 00:44:26,994
+Yeah. I walked her
+to the door.
+
+798
+00:44:27,027 --> 00:44:28,699
+You didn't go in?
+
+799
+00:44:28,732 --> 00:44:29,899
+You don't have to fall in love
+
+800
+00:44:29,932 --> 00:44:31,131
+at first sight, you know.
+
+801
+00:44:31,172 --> 00:44:32,436
+Yeah. I know. Look.
+
+802
+00:44:32,469 --> 00:44:35,404
+She's nice, pretty.
+
+803
+00:44:35,438 --> 00:44:37,813
+There's comfort there, Rust.
+
+804
+00:44:37,846 --> 00:44:39,511
+I think you guys
+would be good together
+
+805
+00:44:39,544 --> 00:44:42,318
+if you gave it a chance.
+
+806
+00:44:42,351 --> 00:44:45,785
+You guys don't
+give things chances.
+
+807
+00:44:45,826 --> 00:44:47,520
+I don't know why that is.
+
+808
+00:44:47,561 --> 00:44:50,358
+That's because we
+know what we want
+
+809
+00:44:50,391 --> 00:44:52,094
+and we don't mind being alone.
+
+810
+00:44:55,326 --> 00:44:57,828
+Go to bed, Maggie.
+
+811
+00:44:57,861 --> 00:45:01,270
+Marty'll be home.
+Take care.
+
+812
+00:45:06,571 --> 00:45:07,874
+[Beep]
+
+813
+00:45:07,907 --> 00:45:09,739
+[Clears throat]
+
+814
+00:45:09,772 --> 00:45:12,181
+FAVRE: Holy shit,
+3 days in a row.
+
+815
+00:45:12,214 --> 00:45:14,351
+Is that a new personal record?
+
+816
+00:45:14,384 --> 00:45:15,646
+HART: Fuck off.
+
+817
+00:45:15,687 --> 00:45:17,822
+I will take my first shit
+through your sunroof.
+
+818
+00:45:17,855 --> 00:45:20,988
+Hey, hey, I found one, I think,
+
+819
+00:45:21,021 --> 00:45:23,094
+another girl from earlier.
+
+820
+00:45:23,127 --> 00:45:25,796
+Come here.
+
+821
+00:45:27,836 --> 00:45:30,233
+3 years ago,
+a flood in Abbeville,
+
+822
+00:45:30,269 --> 00:45:32,337
+they pulled this girl
+out of the river.
+
+823
+00:45:32,370 --> 00:45:33,473
+Hold it.
+
+824
+00:45:33,506 --> 00:45:35,408
+It says here that her
+death was accidental--
+
+825
+00:45:35,441 --> 00:45:37,241
+drowned, water in the lungs.
+
+826
+00:45:37,274 --> 00:45:39,008
+How's that him?
+
+827
+00:45:39,041 --> 00:45:41,512
+Coroner says the branches
+and debris from the flood
+
+828
+00:45:41,545 --> 00:45:43,050
+caused these injuries,
+all right?
+
+829
+00:45:43,083 --> 00:45:46,354
+I understand the ribs and
+the arms, but the hyoid?
+
+830
+00:45:46,387 --> 00:45:47,819
+- Still--
+- No fucking way.
+
+831
+00:45:47,852 --> 00:45:49,956
+Look at this,
+lacerations to the abdomen,
+
+832
+00:45:49,989 --> 00:45:53,262
+plus she was positive
+for meth and LSD.
+
+833
+00:45:53,295 --> 00:45:56,531
+They said she
+was high, fell in.
+
+834
+00:45:56,564 --> 00:45:58,835
+Hmm.
+
+835
+00:45:58,868 --> 00:46:02,800
+Look at the posterior.
+
+836
+00:46:02,832 --> 00:46:05,670
+- Holy shit.
+- Yeah.
+
+837
+00:46:05,703 --> 00:46:07,405
+IDed
+as Rianne Olivier--
+
+838
+00:46:07,438 --> 00:46:09,298
+22, lives in Pelican Island,
+
+839
+00:46:09,339 --> 00:46:11,538
+population 300.
+
+840
+00:46:11,571 --> 00:46:15,245
+Grandpa is still there,
+got a phone at the dock.
+
+841
+00:46:15,278 --> 00:46:18,548
+I don't know if I
+can sell this shit.
+
+842
+00:46:18,581 --> 00:46:21,383
+Two days, we dig
+in this direction.
+
+843
+00:46:21,416 --> 00:46:24,687
+If this is his, it's
+some kind of archetype.
+
+844
+00:46:24,720 --> 00:46:27,656
+QUESADA: DB, Ville Platt,
+machinist. You're up.
+
+845
+00:46:27,697 --> 00:46:30,465
+Hey, we caught a break
+in the case, boss.
+
+846
+00:46:30,498 --> 00:46:32,570
+I thought you were
+handing that off.
+
+847
+00:46:32,602 --> 00:46:33,730
+What break?
+
+848
+00:46:33,771 --> 00:46:35,866
+KA of the victim.
+Might've known the killer, boss.
+
+849
+00:46:35,907 --> 00:46:37,603
+Might've seen him.
+We follow up.
+
+850
+00:46:37,636 --> 00:46:40,905
+We still got a few days.
+
+851
+00:46:40,938 --> 00:46:43,710
+Two days, and it
+goes to task force.
+
+852
+00:46:43,743 --> 00:46:46,245
+You two catch again.
+
+853
+00:46:47,417 --> 00:46:50,249
+We'll try that serial
+theory out on him,
+
+854
+00:46:50,282 --> 00:46:52,215
+he will pull you
+just for spite.
+
+855
+00:46:52,248 --> 00:46:54,754
+Pelican Island
+is two hours away.
+
+856
+00:46:54,787 --> 00:46:56,395
+Here we go.
+
+857
+00:46:56,428 --> 00:46:57,858
+♪
+
+858
+00:46:57,891 --> 00:46:59,658
+[Radio static]
+
+859
+00:46:59,691 --> 00:47:01,532
+MAN ON RADIO:
+Put your hand in his hand.
+
+860
+00:47:01,565 --> 00:47:02,764
+[Radio static]
+
+861
+00:47:02,797 --> 00:47:04,100
+DIFFERENT MAN:
+The good church teaches
+
+862
+00:47:04,133 --> 00:47:06,131
+that the Christian church
+does not teach that,
+
+863
+00:47:06,172 --> 00:47:07,770
+the Catholic church does not--
+
+864
+00:47:07,803 --> 00:47:10,538
+[Radio static]
+
+865
+00:47:10,571 --> 00:47:12,170
+[Switches radio off]
+
+866
+00:47:15,243 --> 00:47:16,947
+Hey.
+
+867
+00:47:16,980 --> 00:47:18,283
+Mm-hmm?
+
+868
+00:47:18,316 --> 00:47:23,954
+Think a man can love
+two women at once,
+
+869
+00:47:23,987 --> 00:47:27,425
+I mean, be in love with them?
+
+870
+00:47:27,458 --> 00:47:31,090
+I don't think
+that man can love,
+
+871
+00:47:31,130 --> 00:47:34,329
+at least not the way
+that he means.
+
+872
+00:47:34,394 --> 00:47:39,738
+Inadequacies of reality
+always set in.
+
+873
+00:47:39,771 --> 00:47:42,274
+This pipeline is
+carving up this coast
+
+874
+00:47:42,307 --> 00:47:43,739
+like a jigsaw.
+
+875
+00:47:43,772 --> 00:47:47,546
+Place is gonna be
+underwater in 30 years.
+
+876
+00:47:48,715 --> 00:47:51,314
+[Sighs]
+
+877
+00:47:51,347 --> 00:47:53,083
+Do you think--
+
+878
+00:47:53,116 --> 00:47:59,189
+Do you wonder ever
+if you're a bad man?
+
+879
+00:47:59,222 --> 00:48:02,925
+No. I don't wonder,
+Marty.
+
+880
+00:48:02,966 --> 00:48:04,797
+World needs bad men.
+
+881
+00:48:08,366 --> 00:48:12,237
+We keep the other
+bad men from the door.
+
+882
+00:48:48,240 --> 00:48:50,334
+That's him.
+
+883
+00:48:54,206 --> 00:48:58,646
+HART: When's the last time
+you saw your granddaughter?
+
+884
+00:48:58,679 --> 00:49:02,717
+She left 4 years ago,
+like her ma.
+
+885
+00:49:02,750 --> 00:49:05,623
+Wasn't surprised they
+found her like that.
+
+886
+00:49:05,656 --> 00:49:07,152
+Yeah. Everybody
+think they gonna be
+
+887
+00:49:07,193 --> 00:49:08,855
+something they not.
+
+888
+00:49:08,888 --> 00:49:12,725
+Everybody, they got
+this big plan.
+
+889
+00:49:12,758 --> 00:49:16,463
+She had a boyfriend
+you know about, a man?
+
+890
+00:49:16,496 --> 00:49:19,536
+Eh, she took up with
+that Ledoux fella--
+
+891
+00:49:19,569 --> 00:49:22,368
+older boy,
+shit family--
+
+892
+00:49:22,409 --> 00:49:24,777
+run off with him.
+
+893
+00:49:24,811 --> 00:49:27,811
+I ain't never had nobody
+ask me about him before.
+
+894
+00:49:27,844 --> 00:49:31,314
+He just tell me she
+died in the flood.
+
+895
+00:49:31,347 --> 00:49:34,082
+That Ledoux family,
+they still live around here?
+
+896
+00:49:34,123 --> 00:49:37,091
+Oh, maybe a cousin or two.
+
+897
+00:49:37,124 --> 00:49:38,957
+Been shrinking every year.
+
+898
+00:49:38,998 --> 00:49:40,692
+Hurricane Andrew wiped most
+
+899
+00:49:40,725 --> 00:49:42,964
+of the folks out around here.
+
+900
+00:49:42,997 --> 00:49:47,606
+So you got a full name
+on that Ledoux boy?
+
+901
+00:49:47,639 --> 00:49:49,501
+Reggie.
+
+902
+00:49:49,542 --> 00:49:51,511
+Reggie Ledoux.
+
+903
+00:49:51,544 --> 00:49:53,848
+Father
+is Bart Ledoux--
+
+904
+00:49:53,881 --> 00:49:56,819
+works offshore, drunkard.
+
+905
+00:49:56,852 --> 00:49:59,324
+I heard he died.
+Heh.
+
+906
+00:49:59,359 --> 00:50:01,263
+So where'd Rianne go to school?
+
+907
+00:50:01,296 --> 00:50:03,699
+Light of Way when it was open.
+
+908
+00:50:03,732 --> 00:50:04,971
+Kids either went there
+
+909
+00:50:05,004 --> 00:50:07,002
+or they were bussed
+to Abbeville.
+
+910
+00:50:07,035 --> 00:50:08,835
+State said a kid
+got to be bussed
+
+911
+00:50:08,876 --> 00:50:11,340
+two hours away to school.
+
+912
+00:50:11,373 --> 00:50:14,076
+I ain't too big on
+them God botherers.
+
+913
+00:50:14,109 --> 00:50:16,483
+Between them
+and the government--
+
+914
+00:50:16,516 --> 00:50:19,418
+How about her parents,
+other relatives?
+
+915
+00:50:19,450 --> 00:50:22,850
+Father is a merchant seaman.
+
+916
+00:50:22,883 --> 00:50:25,154
+Mother is in California,
+last I heard.
+
+917
+00:50:25,187 --> 00:50:27,886
+Do you have
+anything of hers--
+
+918
+00:50:27,919 --> 00:50:31,055
+possessions,
+anything that'd give us
+
+919
+00:50:31,088 --> 00:50:33,464
+an idea what he
+might have been like?
+
+920
+00:50:35,095 --> 00:50:37,923
+What you boys looking
+all this up for?
+
+921
+00:50:37,963 --> 00:50:40,764
+I was told she drowned
+in the flood.
+
+922
+00:50:40,797 --> 00:50:43,198
+Now, I ain't no idiot.
+
+923
+00:50:43,239 --> 00:50:45,804
+You telling me she
+ain't done drowned?
+
+924
+00:50:45,837 --> 00:50:47,404
+We don't know that, sir.
+
+925
+00:50:47,437 --> 00:50:49,805
+We're just looking for a man
+who might have known her.
+
+926
+00:50:49,838 --> 00:50:52,444
+Who?
+
+927
+00:50:52,477 --> 00:50:55,410
+That's what we're trying
+to figure out.
+
+928
+00:50:55,443 --> 00:50:58,515
+HART: He ended up having
+a little box of her stuff,
+
+929
+00:50:58,548 --> 00:51:02,219
+had her last yearbook,
+tenth grade,
+
+930
+00:51:02,252 --> 00:51:05,755
+not a hint of feeling
+from the old man,
+
+931
+00:51:05,788 --> 00:51:09,324
+kind of got blinders,
+
+932
+00:51:09,358 --> 00:51:13,101
+but why'd he keep the box, huh?
+
+933
+00:51:13,134 --> 00:51:16,034
+Did he ask himself?
+
+934
+00:51:16,067 --> 00:51:20,104
+Anyway, I guess,
+that's one way to do it--
+
+935
+00:51:20,137 --> 00:51:23,708
+keep your eyes
+on the crab traps.
+
+936
+00:51:23,741 --> 00:51:26,875
+Kind of reminded me
+of Rust a little bit.
+
+937
+00:51:31,317 --> 00:51:34,552
+This school is small,
+
+938
+00:51:34,585 --> 00:51:36,583
+grades one through 12.
+
+939
+00:51:38,217 --> 00:51:43,158
+Rianne Olivier.
+Here she is, tenth grade.
+
+940
+00:51:43,191 --> 00:51:46,159
+Hmm.
+
+941
+00:51:49,326 --> 00:51:50,326
+_
+
+942
+00:51:50,327 --> 00:51:53,630
+This school was part
+of Tuttle's foundation.
+
+943
+00:51:53,663 --> 00:51:55,599
+[Mower running]
+
+944
+00:52:04,963 --> 00:52:13,300
+_
+
+945
+00:52:13,489 --> 00:52:15,055
+[Mower stops]
+
+946
+00:52:15,088 --> 00:52:16,190
+Good afternoon.
+
+947
+00:52:16,223 --> 00:52:17,588
+Afternoon.
+
+948
+00:52:17,621 --> 00:52:19,890
+This place shut down
+'92, right?
+
+949
+00:52:19,923 --> 00:52:22,122
+Yeah, the way I heard it.
+
+950
+00:52:22,155 --> 00:52:23,725
+What'd you hear?
+
+951
+00:52:23,766 --> 00:52:25,732
+Oh, Andrew blew it out.
+
+952
+00:52:25,765 --> 00:52:27,995
+Guess they didn't think
+
+953
+00:52:28,036 --> 00:52:30,402
+it was worth cleaning up.
+
+954
+00:52:30,435 --> 00:52:32,972
+Do you work here, then?
+
+955
+00:52:33,005 --> 00:52:35,075
+No, sir. I work
+for the parish,
+
+956
+00:52:35,108 --> 00:52:37,137
+cover several properties.
+
+957
+00:52:37,170 --> 00:52:39,379
+WOMAN ON POLICE RADIO:
+I-23?
+
+958
+00:52:42,645 --> 00:52:44,452
+I-23. Go.
+
+959
+00:52:44,485 --> 00:52:46,453
+I've got comeback on your R&I.
+
+960
+00:52:46,486 --> 00:52:50,294
+Reginald Ledoux--
+DOB 11/13/60.
+
+961
+00:52:50,327 --> 00:52:52,697
+You know anybody who went here
+
+962
+00:52:52,730 --> 00:52:54,559
+or worked here back then?
+
+963
+00:52:54,600 --> 00:52:57,196
+Mm, no, sir.
+
+964
+00:52:57,230 --> 00:52:59,629
+I only been coming here
+the last few months.
+
+965
+00:52:59,670 --> 00:53:02,671
+Parish added it
+to my work order.
+
+966
+00:53:02,704 --> 00:53:07,512
+[Car horn honks]
+
+967
+00:53:08,977 --> 00:53:10,944
+[Car horn honks]
+
+968
+00:53:10,985 --> 00:53:13,882
+Thank you for your time.
+
+969
+00:53:16,462 --> 00:53:20,061
+HART: Who walks
+that fucking slow?
+
+970
+00:53:21,461 --> 00:53:23,300
+What you got?
+
+971
+00:53:23,333 --> 00:53:25,470
+R&I just came back.
+
+972
+00:53:25,503 --> 00:53:28,174
+Reggie Ledoux skipped
+parole 8 months ago.
+
+973
+00:53:28,207 --> 00:53:30,271
+He's got a stat.
+rape complaint,
+
+974
+00:53:30,312 --> 00:53:33,281
+charges dropped,
+but '93, he's busted
+
+975
+00:53:33,314 --> 00:53:35,484
+in connection
+to a narcotics lab
+
+976
+00:53:35,517 --> 00:53:37,653
+used to make meth and LSD,
+
+977
+00:53:37,686 --> 00:53:40,293
+which Dora Lange and
+Rianne were full of.
+
+978
+00:53:40,326 --> 00:53:41,926
+Right.
+
+979
+00:53:41,959 --> 00:53:43,728
+Ledoux did two years
+at Avoyelles,
+
+980
+00:53:43,761 --> 00:53:45,431
+and guess who his cellmate was
+
+981
+00:53:45,464 --> 00:53:46,831
+the last 4 months.
+
+982
+00:53:46,864 --> 00:53:48,798
+Charlie Lange.
+
+983
+00:53:48,831 --> 00:53:51,205
+I got to give you this one.
+
+984
+00:53:51,238 --> 00:53:53,774
+I started to believe
+you were going
+
+985
+00:53:53,807 --> 00:53:55,640
+a little off your nut.
+
+986
+00:53:55,673 --> 00:53:58,371
+I mean, you're bonkers,
+just not on this.
+
+987
+00:53:58,404 --> 00:54:00,137
+All right.
+Where was Ledoux?
+
+988
+00:54:00,170 --> 00:54:02,305
+Getting a list
+of relatives, KAs.
+
+989
+00:54:02,346 --> 00:54:05,045
+Been out of pocket
+since jumping parole.
+
+990
+00:54:05,086 --> 00:54:06,416
+We'll find him.
+
+991
+00:54:06,457 --> 00:54:07,583
+This makes sense.
+
+992
+00:54:07,624 --> 00:54:08,719
+Looks good, baby.
+
+993
+00:54:08,752 --> 00:54:10,222
+All right.
+We are on our way.
+
+994
+00:54:10,255 --> 00:54:11,255
+To Avoyelles.
+
+995
+00:54:11,288 --> 00:54:12,626
+Fuck, yeah, Martin.
+Let's go.
+
+996
+00:54:12,659 --> 00:54:13,994
+I'm calling the interstate APB
+
+997
+00:54:14,027 --> 00:54:15,764
+and the US Marshals on this.
+
+998
+00:54:15,797 --> 00:54:17,435
+I-23 to dispatch.
+
+999
+00:54:17,468 --> 00:54:19,267
+WOMAN ON POLICE RADIO:
+Come in, I-23.
+
+1000
+00:54:19,300 --> 00:54:20,404
+What can I say?
+
+1001
+00:54:20,437 --> 00:54:21,676
+I thought for a minute,
+you just liked looking
+
+1002
+00:54:21,709 --> 00:54:23,171
+at pictures of dead people.
+
+1003
+00:54:23,204 --> 00:54:26,077
+I need an all-state APB
+on one Reginald Ledoux.
+
+1004
+00:54:26,110 --> 00:54:27,781
+R&I came back with info.
+
+1005
+00:54:27,814 --> 00:54:29,316
+All US Marshals
+and Highway Patrol,
+
+1006
+00:54:29,349 --> 00:54:31,818
+be advised, detain
+on sight, over.
+
+1007
+00:54:31,851 --> 00:54:33,019
+WOMAN ON POLICE RADIO:
+Roger that, Detective.
+
+1008
+00:54:33,052 --> 00:54:35,286
+We've got that sent now.
+
+1009
+00:54:35,319 --> 00:54:37,160
+COHLE: Mm, mm, mm.
+
+1010
+00:54:37,193 --> 00:54:38,623
+♪
+
+1011
+00:54:38,664 --> 00:54:45,060
+And finally, we arrive
+at Reginald Ledoux. Heh.
+
+1012
+00:54:49,503 --> 00:54:50,974
+HART: Come on, man.
+
+1013
+00:54:51,007 --> 00:54:54,606
+You want to ask me,
+ask, goddamn it.
+
+1014
+00:54:54,639 --> 00:54:57,344
+You ever been in a gunfight?
+
+1015
+00:54:57,378 --> 00:54:59,312
+No.
+
+1016
+00:54:59,353 --> 00:55:00,646
+♪
+
+1017
+00:55:00,679 --> 00:55:01,845
+Well, then how the fuck
+you gonna know
+
+1018
+00:55:01,886 --> 00:55:04,015
+what I'm talking about?
+
+1019
+00:55:05,724 --> 00:55:09,933
+COHLE: Man, that place--
+I never--
+
+1020
+00:55:11,271 --> 00:55:16,412
+That day, it reminded me
+of my pop talking about 'Nam
+
+1021
+00:55:16,445 --> 00:55:18,277
+and the jungle thing.
+
+1022
+00:55:19,783 --> 00:55:23,115
+Look. Me talking about
+what happened back then,
+
+1023
+00:55:23,148 --> 00:55:26,251
+that ain't gonna do you
+any good now.
+
+1024
+00:55:29,090 --> 00:55:32,323
+This--
+
+1025
+00:55:32,364 --> 00:55:35,229
+This is what I'm talking about.
+
+1026
+00:55:35,262 --> 00:55:37,399
+This is what I mean
+
+1027
+00:55:37,440 --> 00:55:41,441
+when I'm talking
+about time and death
+
+1028
+00:55:41,474 --> 00:55:44,777
+and futility.
+
+1029
+00:55:44,810 --> 00:55:46,850
+There are broader ideas
+at work,
+
+1030
+00:55:46,883 --> 00:55:49,652
+mainly what is owed
+between us as a society
+
+1031
+00:55:49,685 --> 00:55:51,922
+for our mutual illusions.
+
+1032
+00:55:51,955 --> 00:55:54,958
+14 straight hours
+of staring at DBs,
+
+1033
+00:55:54,999 --> 00:55:59,500
+these are the things
+you think of.
+
+1034
+00:55:59,533 --> 00:56:03,766
+You ever done that? Hmm?
+
+1035
+00:56:03,807 --> 00:56:07,638
+You look in their eyes,
+even in a picture.
+
+1036
+00:56:07,671 --> 00:56:09,744
+Doesn't matter
+if they're dead or alive.
+
+1037
+00:56:09,777 --> 00:56:12,882
+You can still read them,
+and you know what you see?
+
+1038
+00:56:15,189 --> 00:56:18,730
+They welcomed it,
+
+1039
+00:56:18,763 --> 00:56:21,496
+mm-hmm, not at first,
+
+1040
+00:56:21,528 --> 00:56:24,402
+but right there
+in the last instant.
+
+1041
+00:56:24,435 --> 00:56:29,607
+It an unmistakable relief,
+see, because they were afraid
+
+1042
+00:56:29,640 --> 00:56:32,313
+and now they saw
+for the very first time
+
+1043
+00:56:32,346 --> 00:56:37,687
+how easy it was to just let go,
+and they saw--
+
+1044
+00:56:37,720 --> 00:56:43,760
+In that last nanosecond,
+they saw what they were,
+
+1045
+00:56:43,793 --> 00:56:46,431
+that you, yourself,
+this whole big drama,
+
+1046
+00:56:46,464 --> 00:56:48,998
+it was never anything
+but a jerry-rig
+
+1047
+00:56:49,031 --> 00:56:54,069
+of presumption and dumb will
+and you could just let go
+
+1048
+00:56:54,102 --> 00:56:57,008
+finally now that you didn't have
+to hold on so tight...
+
+1049
+00:56:58,610 --> 00:57:04,082
+to realize that
+all your life--
+
+1050
+00:57:04,123 --> 00:57:05,692
+you know, all your love,
+all your hate,
+
+1051
+00:57:05,725 --> 00:57:09,658
+all your memory, all your pain--
+it was all the same thing.
+
+1052
+00:57:09,691 --> 00:57:12,729
+It was all the same dream,
+a dream that you had
+
+1053
+00:57:12,762 --> 00:57:16,830
+inside a locked room,
+
+1054
+00:57:16,863 --> 00:57:21,534
+a dream about being a person...
+
+1055
+00:57:29,605 --> 00:57:31,875
+and like a lot of dreams...
+
+1056
+00:57:37,512 --> 00:57:40,249
+there's a monster
+at the end of it.
+
+1057
+00:57:40,282 --> 00:57:42,646
+♪
+
+1058
+00:58:11,794 --> 00:58:16,038
+Sync and corrections by n17t01
+www.addic7ed.com
+
+1059
+00:58:17,000 --> 00:58:20,134
+Best watched using Open Subtitles MKV Player

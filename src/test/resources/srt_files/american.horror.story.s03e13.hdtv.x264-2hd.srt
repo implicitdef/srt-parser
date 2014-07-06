@@ -1,0 +1,3591 @@
+﻿1
+00:00:01,655 --> 00:00:03,890
+("Seven Wonders" intro plays)
+
+2
+00:00:04,000 --> 00:00:07,074
+Subtitles downloaded from www.OpenSubtitles.org
+
+3
+00:00:12,533 --> 00:00:15,701
+♪ So long ago
+
+4
+00:00:15,769 --> 00:00:18,571
+♪ Certain place, certain time
+
+5
+00:00:21,291 --> 00:00:23,209
+♪ You touched my hand
+
+6
+00:00:23,276 --> 00:00:25,545
+♪ On the way
+
+7
+00:00:25,612 --> 00:00:29,081
+♪ On the way down to Emmiline
+
+8
+00:00:29,132 --> 00:00:31,584
+♪ But if our paths
+
+9
+00:00:31,635 --> 00:00:34,053
+♪ Never cross
+
+10
+00:00:34,120 --> 00:00:37,006
+♪ Well, you know I'm sorry but
+
+11
+00:00:37,090 --> 00:00:40,626
+♪ If I live to see
+the seven wonders ♪
+
+12
+00:00:40,677 --> 00:00:44,564
+♪ I'll make a path
+to the rainbow's end ♪
+
+13
+00:00:44,631 --> 00:00:49,185
+♪ I'll never live to match
+the beauty again ♪
+
+14
+00:00:51,522 --> 00:00:54,273
+♪ The rainbow's end
+
+15
+00:00:56,777 --> 00:00:59,745
+♪ So it's hard to find
+
+16
+00:00:59,813 --> 00:01:02,648
+♪ Someone with that kind
+
+17
+00:01:02,699 --> 00:01:05,251
+♪ That kind of intensity
+
+18
+00:01:05,318 --> 00:01:07,203
+♪ You touched my hand
+
+19
+00:01:07,287 --> 00:01:09,505
+♪ I played it cool
+
+20
+00:01:09,590 --> 00:01:11,958
+♪ And you reached out
+
+21
+00:01:12,009 --> 00:01:13,509
+♪ Your hand to me
+
+22
+00:01:13,594 --> 00:01:18,381
+♪ But if our paths never cross
+
+23
+00:01:18,465 --> 00:01:21,434
+♪ Well, you know I'm sorry but
+
+24
+00:01:21,501 --> 00:01:25,137
+♪ If I live to see
+the seven wonders ♪
+
+25
+00:01:25,188 --> 00:01:28,724
+♪ I'll make a path
+to the rainbow's end ♪
+
+26
+00:01:28,809 --> 00:01:31,444
+♪ I'll never live to match
+
+27
+00:01:31,511 --> 00:01:35,314
+♪ The beauty again
+
+28
+00:01:35,348 --> 00:01:38,684
+♪ The rainbow's end
+
+29
+00:01:45,959 --> 00:01:48,210
+♪ So long ago
+
+30
+00:01:48,295 --> 00:01:50,580
+♪ It's a certain time
+
+31
+00:01:50,664 --> 00:01:52,915
+♪ It's a certain place
+
+32
+00:01:53,000 --> 00:01:55,468
+♪ You touched my hand
+
+33
+00:01:55,535 --> 00:01:58,537
+♪ And you smile
+
+34
+00:01:58,589 --> 00:02:00,506
+♪ All the way back
+
+35
+00:02:00,557 --> 00:02:03,208
+♪ You held out your hand
+
+36
+00:02:03,260 --> 00:02:07,063
+♪ If I hope and if I pray
+
+37
+00:02:07,147 --> 00:02:08,764
+♪ Ooh, well, it might
+work out someday ♪
+
+38
+00:02:08,849 --> 00:02:11,851
+♪ If I live to see
+
+39
+00:02:11,902 --> 00:02:13,853
+♪ The seven wonders
+
+40
+00:02:13,904 --> 00:02:18,574
+♪ I'll make a path
+to the rainbow's end ♪
+
+41
+00:02:18,692 --> 00:02:21,560
+♪ I'll never to live
+to match the beauty ♪
+
+42
+00:02:21,612 --> 00:02:24,497
+♪ Again
+
+43
+00:02:24,564 --> 00:02:27,450
+Good luck, girls.
+♪ <i>If I live to see</i> ♪
+
+44
+00:02:27,534 --> 00:02:30,620
+♪ <i>The seven wonders</i> ♪
+♪ If I live to see the seven wonders ♪
+
+45
+00:02:30,704 --> 00:02:31,904
+♪ <i>I'll make a path</i>
+<i>to the rainbow's end</i> ♪
+
+46
+00:02:31,955 --> 00:02:33,956
+♪ I'll make a path back
+
+47
+00:02:34,041 --> 00:02:36,626
+♪ <i>I'll never live</i>
+<i>to match the beauty</i> ♪
+
+48
+00:02:36,710 --> 00:02:38,260
+♪ I'll never live
+to see that beauty ♪
+
+49
+00:02:38,345 --> 00:02:39,845
+♪ That beauty
+
+50
+00:02:39,913 --> 00:02:42,381
+♪ That same, same beauty again
+
+51
+00:02:42,432 --> 00:02:44,416
+♪ <i>If I live to see</i>
+<i>the seven wonders</i> ♪
+
+52
+00:02:44,468 --> 00:02:45,468
+♪ Oh, if I live to see...
+
+53
+00:02:45,519 --> 00:02:47,019
+(door slams shut)
+
+54
+00:03:37,996 --> 00:03:48,054
+<font color="#ec14bd">Sync & corrections by honeybunny</font>
+<font color="#ec14bd">www.addic7ed.com</font>
+
+55
+00:03:48,734 --> 00:03:50,335
+MYRTLE:
+The great Leonardo da Vinci,
+
+56
+00:03:50,402 --> 00:03:51,946
+who I'm certain was a warlock,
+
+57
+00:03:52,066 --> 00:03:53,349
+although it's never been proven,
+
+58
+00:03:53,434 --> 00:03:54,600
+in his masterpiece
+
+59
+00:03:54,668 --> 00:03:55,802
+<i>The Last Supper,</i>
+
+60
+00:03:55,853 --> 00:03:57,270
+depicted grilled eels,
+
+61
+00:03:57,337 --> 00:03:59,939
+bread and wine on the table.
+
+62
+00:04:00,006 --> 00:04:02,341
+I've chosen caviar
+from the Caspian Sea.
+
+63
+00:04:02,393 --> 00:04:04,343
+Served on billinis.
+
+64
+00:04:04,395 --> 00:04:06,279
+Along with champagne.
+
+65
+00:04:06,346 --> 00:04:08,898
+As fitting stand-ins
+
+66
+00:04:08,982 --> 00:04:10,950
+as we partake
+of our own last supper.
+
+67
+00:04:11,017 --> 00:04:13,686
+For one of you,
+a last moment of freedom
+
+68
+00:04:13,737 --> 00:04:15,071
+and anonymity
+
+69
+00:04:15,155 --> 00:04:17,356
+before assuming the Supremacy.
+
+70
+00:04:17,408 --> 00:04:19,859
+For any one of you others,
+
+71
+00:04:19,910 --> 00:04:21,527
+possibly a last meal.
+
+72
+00:04:21,578 --> 00:04:23,713
+CORDELIA:
+Since the beginning
+
+73
+00:04:23,797 --> 00:04:26,799
+of this coven, it has been
+every outgoing Supreme's duty
+
+74
+00:04:26,867 --> 00:04:29,001
+to identify her successor.
+
+75
+00:04:29,052 --> 00:04:30,536
+Which Fiona
+
+76
+00:04:30,587 --> 00:04:32,204
+not only neglected to do,
+
+77
+00:04:32,256 --> 00:04:34,056
+she actually tried to kill
+
+78
+00:04:34,141 --> 00:04:35,591
+her successor.
+
+79
+00:04:35,676 --> 00:04:37,560
+So we are doing something
+
+80
+00:04:37,644 --> 00:04:40,980
+never done in our history.
+
+81
+00:04:41,047 --> 00:04:42,598
+We are going to give
+all four of you
+
+82
+00:04:42,683 --> 00:04:44,717
+the chance to prove yourselves.
+
+83
+00:04:44,768 --> 00:04:47,320
+Only one of you will succeed.
+
+84
+00:04:47,387 --> 00:04:49,989
+To quote the Bible...
+
+85
+00:04:50,056 --> 00:04:50,990
+loosely...
+
+86
+00:04:51,057 --> 00:04:53,409
+"When I was a child,
+
+87
+00:04:53,494 --> 00:04:55,945
+"I spoke like a child,
+I understood
+
+88
+00:04:56,029 --> 00:04:58,197
+"like a child,
+I thought like a child.
+
+89
+00:04:58,248 --> 00:05:00,500
+"But when I became a woman,
+
+90
+00:05:00,567 --> 00:05:03,870
+I put aside childish things."
+
+91
+00:05:05,873 --> 00:05:09,175
+Childhood is over, my girls.
+
+92
+00:05:10,410 --> 00:05:11,794
+Put aside fears,
+
+93
+00:05:11,879 --> 00:05:13,963
+reservations and petty things.
+
+94
+00:05:16,183 --> 00:05:18,551
+Kick ass tomorrow.
+
+95
+00:05:20,521 --> 00:05:22,722
+MYRTLE:
+<i>The Seven Wonders.</i>
+
+96
+00:05:22,773 --> 00:05:26,692
+Usually we move
+from easiest to hardest.
+
+97
+00:05:26,760 --> 00:05:28,928
+But since we're breaking
+with tradition this year,
+
+98
+00:05:28,979 --> 00:05:31,314
+let's begin with my
+personal favorite.
+
+99
+00:05:31,398 --> 00:05:33,232
+Telekinesis.
+
+100
+00:05:43,276 --> 00:05:45,378
+MISTY:
+What if I can't do it?
+
+101
+00:05:45,445 --> 00:05:47,413
+Then you're not the Supreme.
+
+102
+00:05:47,464 --> 00:05:49,048
+And you can go back
+to your swamp.
+
+103
+00:05:49,115 --> 00:05:50,616
+Misty,
+
+104
+00:05:50,667 --> 00:05:51,717
+you're first.
+
+105
+00:06:02,729 --> 00:06:04,230
+Intention.
+
+106
+00:06:19,997 --> 00:06:21,030
+I did it.
+
+107
+00:06:21,114 --> 00:06:23,249
+I did it.
+
+108
+00:06:23,316 --> 00:06:25,368
+Almost sounds like you want it.
+It's not about want.
+
+109
+00:06:25,452 --> 00:06:28,871
+You either are
+or you aren't a Supreme.
+
+110
+00:06:28,956 --> 00:06:29,872
+Maybe I am.
+
+111
+00:06:31,291 --> 00:06:32,157
+Queenie?
+
+112
+00:06:35,829 --> 00:06:37,880
+Yup.
+
+113
+00:06:39,216 --> 00:06:40,332
+Madison, obviously
+
+114
+00:06:40,384 --> 00:06:41,884
+this is your bailiwick.
+
+115
+00:06:41,969 --> 00:06:43,469
+Whatever that means.
+
+116
+00:06:51,111 --> 00:06:53,896
+Last but not least, Zoe.
+
+117
+00:06:58,785 --> 00:07:00,570
+MYRTLE:
+<i>Concilium.</i>
+
+118
+00:07:00,654 --> 00:07:02,521
+Commonly only known
+to the public
+
+119
+00:07:02,573 --> 00:07:04,407
+as "mind control."
+
+120
+00:07:04,491 --> 00:07:05,858
+It's a tricky little craft.
+
+121
+00:07:05,909 --> 00:07:07,326
+When properly exercised,
+
+122
+00:07:07,377 --> 00:07:10,195
+can bend the strongest
+of wills to your desire.
+
+123
+00:07:10,247 --> 00:07:13,132
+Now, let's see
+which of you fillies
+
+124
+00:07:13,199 --> 00:07:15,367
+has really got the stuff.
+
+125
+00:07:17,203 --> 00:07:20,089
+QUEENIE: Stare all you want,
+flower child.
+
+126
+00:07:20,173 --> 00:07:23,175
+Nobody controls my mind but me.
+
+127
+00:07:25,679 --> 00:07:26,712
+Oh, shit.
+
+128
+00:07:27,714 --> 00:07:29,231
+Knock it off!
+
+129
+00:07:29,316 --> 00:07:30,566
+This is fun.
+
+130
+00:07:30,651 --> 00:07:32,151
+(yells)
+Next.
+
+131
+00:07:34,438 --> 00:07:36,689
+No hard feelings about...
+
+132
+00:07:37,991 --> 00:07:40,326
+Ow! Ow, ow, ow, ow,
+
+133
+00:07:40,393 --> 00:07:41,944
+ow, ow, ow, ow, ow!
+
+134
+00:07:42,029 --> 00:07:43,729
+Next.
+
+135
+00:08:02,916 --> 00:08:04,216
+He's not part of this!
+He is now.
+
+136
+00:08:08,138 --> 00:08:09,472
+Well done.
+I'm not done.
+
+137
+00:08:18,815 --> 00:08:20,650
+Now, lick it.
+
+138
+00:08:56,269 --> 00:08:57,520
+That's enough.
+
+139
+00:08:57,604 --> 00:08:59,155
+Let's move on.
+
+140
+00:08:59,239 --> 00:09:00,639
+Having fun yet?
+
+141
+00:09:00,691 --> 00:09:02,975
+Yeah, it's a real party.
+
+142
+00:09:09,249 --> 00:09:12,201
+The descent into the nether
+world will be your next test.
+
+143
+00:09:12,285 --> 00:09:15,538
+Getting to hell will be simple
+for girls of your talents.
+
+144
+00:09:15,622 --> 00:09:18,758
+It's the getting back, darlings,
+that is the challenge.
+
+145
+00:09:18,825 --> 00:09:21,510
+If your soul hasn't returned
+to your body by sunup,
+
+146
+00:09:21,595 --> 00:09:22,995
+you'll die.
+
+147
+00:09:24,548 --> 00:09:28,801
+What do you think
+it'll be like?
+
+148
+00:09:28,852 --> 00:09:31,503
+I was hoping to never find out.
+
+149
+00:09:37,343 --> 00:09:39,678
+Girls, you may begin.
+
+150
+00:09:39,730 --> 00:09:44,016
+(all take a long, deep breath)
+
+151
+00:09:44,067 --> 00:09:47,870
+ALL:
+<i>Spiritu duce, in me est.</i>
+
+152
+00:09:47,954 --> 00:09:52,241
+<i>Deduc me in tenebris vita</i>
+
+153
+00:09:52,325 --> 00:09:54,827
+<i>ad extremum,</i>
+
+154
+00:09:54,878 --> 00:09:59,331
+<i>ut salutaret 'nferi.</i>
+
+155
+00:10:00,700 --> 00:10:02,802
+<i>Descensum!</i>
+
+156
+00:10:02,869 --> 00:10:04,754
+(sizzling)
+
+157
+00:10:14,431 --> 00:10:15,481
+(gasps)
+
+158
+00:10:15,548 --> 00:10:17,049
+You're the first to return.
+
+159
+00:10:17,100 --> 00:10:18,550
+Damn.
+
+160
+00:10:18,602 --> 00:10:21,353
+I saw the same people
+
+161
+00:10:21,404 --> 00:10:22,988
+in the same line
+for the same chicken.
+
+162
+00:10:24,324 --> 00:10:25,724
+(gasps)
+
+163
+00:10:25,776 --> 00:10:27,326
+It was horrible.
+
+164
+00:10:27,393 --> 00:10:30,079
+I was stuck on a
+network musical.
+
+165
+00:10:30,163 --> 00:10:32,731
+It was a live version
+of <i>The Sound of Music.</i>
+
+166
+00:10:32,783 --> 00:10:34,283
+I wasn't even the lead.
+
+167
+00:10:34,367 --> 00:10:35,901
+I was Liesl.
+
+168
+00:10:37,120 --> 00:10:38,838
+(gasps)
+
+169
+00:10:40,540 --> 00:10:41,507
+What happened to you?
+
+170
+00:10:41,574 --> 00:10:44,510
+Kyle and I kept breaking up.
+
+171
+00:10:44,577 --> 00:10:46,428
+On a loop.
+
+172
+00:10:46,513 --> 00:10:47,913
+He said he didn't love me.
+
+173
+00:10:47,964 --> 00:10:50,266
+Over and over,
+
+174
+00:10:50,350 --> 00:10:53,435
+over and over.
+It's okay, it's okay, I'm right here.
+
+175
+00:10:53,520 --> 00:10:55,587
+(crying)
+KYLE (whispers): I'm right here, it's okay.
+
+176
+00:10:57,757 --> 00:11:00,025
+Are we all back?
+
+177
+00:11:02,428 --> 00:11:03,529
+Everyone but Misty.
+
+178
+00:11:11,371 --> 00:11:12,771
+(frog croaking)
+
+179
+00:11:15,292 --> 00:11:16,709
+BOY:
+Freak.
+
+180
+00:11:16,776 --> 00:11:17,827
+You're a freak.
+
+181
+00:11:17,911 --> 00:11:19,662
+Mr. Kringley, she did it again.
+
+182
+00:11:23,449 --> 00:11:25,467
+Where's the dissection frog?
+
+183
+00:11:25,552 --> 00:11:28,087
+It's right there, she brought it back to life.
+Shut up, Bobby.
+
+184
+00:11:28,138 --> 00:11:30,289
+She snuck a live one in
+to trick you,
+
+185
+00:11:30,340 --> 00:11:31,957
+but the trick's on her.
+Pick up the scalpel.
+
+186
+00:11:32,008 --> 00:11:33,475
+No, please don't make me.
+
+187
+00:11:33,560 --> 00:11:35,511
+If you won't dissect
+a dead frog,
+
+188
+00:11:35,595 --> 00:11:38,430
+then you will dissect a live one.
+No, I don't want to kill
+
+189
+00:11:38,481 --> 00:11:40,566
+a living thing, please,
+you can't make me.
+
+190
+00:11:40,633 --> 00:11:43,152
+You kill it, or I'll have
+a talk with your parents.
+
+191
+00:11:43,236 --> 00:11:44,520
+(croaks)
+
+192
+00:11:45,522 --> 00:11:47,106
+No!
+
+193
+00:11:57,868 --> 00:12:00,319
+(croaking)
+
+194
+00:12:00,370 --> 00:12:02,421
+BOY:
+Mr. Kringley, she did it again.
+
+195
+00:12:02,488 --> 00:12:05,157
+If you won't dissect
+a dead frog,
+
+196
+00:12:05,208 --> 00:12:06,825
+you'll dissect a live one.
+No, you can't make me kill a living thing.
+
+197
+00:12:06,877 --> 00:12:08,677
+Please, you can't make me!
+
+198
+00:12:08,762 --> 00:12:10,662
+(screams)
+
+199
+00:12:13,240 --> 00:12:15,160
+Mr. Kringley...
+If you won't dissect a dead frog,
+
+200
+00:12:15,185 --> 00:12:15,935
+then you'll dissect a live one.
+No, no, no...
+
+201
+00:12:16,002 --> 00:12:18,938
+(screams)
+
+202
+00:12:19,005 --> 00:12:21,173
+If you won't dissect a dead frog...
+No, no...
+
+203
+00:12:21,224 --> 00:12:23,609
+(screams)
+(croaking)
+
+204
+00:12:23,676 --> 00:12:25,394
+If you won't dissect
+a dead frog, then you'll...
+
+205
+00:12:25,478 --> 00:12:27,529
+(screaming)
+If you won't dissect a dead frog...
+
+206
+00:12:27,614 --> 00:12:28,975
+If you won't dissect
+a dead frog...
+
+207
+00:12:35,322 --> 00:12:37,156
+She's stuck.
+
+208
+00:12:38,458 --> 00:12:39,524
+We have to help her.
+
+209
+00:12:40,994 --> 00:12:43,362
+There's nothing we can do.
+
+210
+00:12:43,413 --> 00:12:45,197
+She has to get back on her own.
+
+211
+00:12:45,248 --> 00:12:46,248
+CORDELIA:
+Misty...
+
+212
+00:12:49,336 --> 00:12:51,170
+Follow my voice.
+
+213
+00:12:52,839 --> 00:12:54,974
+We are all here
+waiting for you.
+
+214
+00:13:00,230 --> 00:13:02,982
+<i>Sequere...</i>
+
+215
+00:13:03,049 --> 00:13:04,883
+<i>lucem.</i>
+
+216
+00:13:04,935 --> 00:13:07,102
+<i>Venite ad me.</i>
+
+217
+00:13:14,444 --> 00:13:16,829
+Her time is up.
+
+218
+00:13:16,896 --> 00:13:19,581
+(sobs)
+
+219
+00:13:19,666 --> 00:13:21,000
+No...
+
+220
+00:13:22,419 --> 00:13:23,786
+(sobbing):
+No, no!
+
+221
+00:13:23,870 --> 00:13:26,405
+No...
+
+222
+00:13:26,456 --> 00:13:27,623
+No!
+
+223
+00:13:27,707 --> 00:13:29,291
+(gasping sobs)
+
+224
+00:13:29,376 --> 00:13:30,626
+No, no...
+
+225
+00:13:42,830 --> 00:13:43,997
+Before we recommence,
+
+226
+00:13:44,048 --> 00:13:45,666
+I would like to take a moment
+
+227
+00:13:46,673 --> 00:13:49,947
+to remember our fallen
+sister witch, Misty Day.
+
+228
+00:13:50,067 --> 00:13:51,292
+MADISON:
+Can we get on with it?
+
+229
+00:13:51,412 --> 00:13:52,867
+I didn't really
+know her that well.
+
+230
+00:13:52,989 --> 00:13:54,323
+You're a stone cold bitch.
+
+231
+00:13:54,374 --> 00:13:55,457
+MADISON:
+When you play
+
+232
+00:13:55,525 --> 00:13:57,376
+with fire, you get burned.
+
+233
+00:13:57,460 --> 00:13:59,495
+She's right.
+Misty's gone.
+
+234
+00:13:59,546 --> 00:14:00,712
+There's nothing
+we can do about it.
+
+235
+00:14:00,797 --> 00:14:01,914
+QUEENIE:
+All right, then.
+
+236
+00:14:01,998 --> 00:14:04,800
+Let's get on with
+finding the new Supreme.
+
+237
+00:14:04,867 --> 00:14:07,202
+The next task before
+our candidates
+
+238
+00:14:07,253 --> 00:14:08,370
+is transmutation.
+
+239
+00:14:10,807 --> 00:14:11,924
+Tag, you're it.
+
+240
+00:14:14,427 --> 00:14:15,677
+Now you're it.
+
+241
+00:14:18,264 --> 00:14:19,848
+Gotcha.
+(gasps)
+
+242
+00:14:19,899 --> 00:14:21,600
+QUEENIE:
+No tag-backs.
+
+243
+00:14:26,823 --> 00:14:27,689
+Tag.
+
+244
+00:14:31,861 --> 00:14:33,779
+Tag, you're it. (giggles)
+(yelps)
+
+245
+00:14:33,863 --> 00:14:34,823
+CORDELIA:
+Careful, girls!
+
+246
+00:14:34,864 --> 00:14:35,831
+It's not a game!
+
+247
+00:14:35,898 --> 00:14:36,898
+It's the best game,
+
+248
+00:14:36,950 --> 00:14:39,168
+and we need a goddamned break!
+
+249
+00:14:39,235 --> 00:14:41,837
+(screams)
+(laughs)
+
+250
+00:14:41,904 --> 00:14:43,539
+CORDELIA:
+Careful, girls...
+
+251
+00:14:43,590 --> 00:14:45,574
+Can't we just have a little fun?
+
+252
+00:14:45,625 --> 00:14:48,210
+(Queenie and Madison laugh)
+
+253
+00:14:48,261 --> 00:14:49,344
+MADISON:
+You bitch.
+
+254
+00:14:49,412 --> 00:14:50,762
+(Queenie laughing)
+
+255
+00:14:50,847 --> 00:14:51,964
+QUEENIE:
+Suck it!
+
+256
+00:14:52,048 --> 00:14:53,966
+(Madison laughing)
+
+257
+00:14:54,050 --> 00:14:56,301
+(Zoe gagging)
+
+258
+00:15:00,473 --> 00:15:01,857
+KYLE:
+e!
+
+259
+00:15:01,924 --> 00:15:03,258
+Oh! Oh!
+
+260
+00:15:03,309 --> 00:15:05,310
+Dear God.
+KYLE: Oh, God!
+
+261
+00:15:05,395 --> 00:15:06,562
+What is it?
+Oh, God, Zoe! Zoe!
+
+262
+00:15:06,613 --> 00:15:08,230
+Our dear Zoe!
+Help!
+
+263
+00:15:08,281 --> 00:15:10,949
+Somebody help us!
+Somebody help us, please!
+
+264
+00:15:11,034 --> 00:15:13,402
+Help! Help!
+(gagging)
+
+265
+00:15:13,453 --> 00:15:15,821
+Zoe!
+(gagging)
+
+266
+00:15:19,108 --> 00:15:20,125
+CORDELIA:
+<i>Vitalum</i>
+
+267
+00:15:20,210 --> 00:15:21,460
+<i>Vitalis.</i>
+
+268
+00:15:21,544 --> 00:15:23,245
+<i>Vitalum Vitalis.</i>
+
+269
+00:15:27,667 --> 00:15:30,118
+(exhales)
+
+270
+00:15:33,756 --> 00:15:34,557
+Nothing's happening.
+
+271
+00:15:36,125 --> 00:15:38,093
+(exhales)
+
+272
+00:15:41,064 --> 00:15:42,814
+Please.
+
+273
+00:15:42,899 --> 00:15:45,017
+(exhales)
+
+274
+00:15:45,101 --> 00:15:46,518
+Guess who isn't Supreme
+after all?
+
+275
+00:15:46,603 --> 00:15:48,803
+(sniffles)
+
+276
+00:15:50,190 --> 00:15:53,992
+I'm sorry.
+
+277
+00:15:54,077 --> 00:15:55,810
+CORDELIA: Queenie, take
+Kyle into the house.
+
+278
+00:15:58,081 --> 00:15:59,915
+Madison, the <i>Vitalum</i>
+
+279
+00:15:59,982 --> 00:16:01,700
+<i>Vitalis.</i>
+
+280
+00:16:01,784 --> 00:16:03,151
+You want me to bring her back?
+
+281
+00:16:03,203 --> 00:16:04,920
+Do you think you can?
+
+282
+00:16:04,987 --> 00:16:05,871
+Oh, I know I can.
+
+283
+00:16:05,955 --> 00:16:06,988
+Then do it.
+
+284
+00:16:07,040 --> 00:16:08,207
+Would that make me Supreme?
+
+285
+00:16:08,291 --> 00:16:09,374
+It would mean we could continue
+
+286
+00:16:09,459 --> 00:16:11,510
+with the Seven Wonders.
+
+287
+00:16:11,594 --> 00:16:13,762
+Because she'd be back in the game.
+Just like you
+
+288
+00:16:13,829 --> 00:16:14,930
+were back in the game
+
+289
+00:16:14,997 --> 00:16:16,431
+after you were brought back.
+
+290
+00:16:16,499 --> 00:16:17,799
+Unless you're afraid
+
+291
+00:16:17,850 --> 00:16:20,269
+you might not really be
+the Supreme.
+
+292
+00:16:20,336 --> 00:16:24,005
+(fly buzzing)
+
+293
+00:16:29,395 --> 00:16:31,396
+(buzzing)
+
+294
+00:16:33,349 --> 00:16:34,283
+(chuckles)
+
+295
+00:16:34,350 --> 00:16:36,902
+She lost, fair and square.
+
+296
+00:16:36,986 --> 00:16:38,704
+It's not my fault.
+
+297
+00:16:38,788 --> 00:16:40,989
+Madison, if you refuse this,
+
+298
+00:16:41,040 --> 00:16:43,858
+then you don't deserve
+to be Supreme.
+
+299
+00:16:43,910 --> 00:16:46,578
+What's deserve got to do
+with any of this?
+
+300
+00:16:46,663 --> 00:16:48,363
+You can't disqualify me.
+
+301
+00:16:48,414 --> 00:16:50,465
+Either I'm Supreme or I'm not.
+
+302
+00:16:50,533 --> 00:16:52,217
+And, obviously, I am.
+
+303
+00:16:52,302 --> 00:16:56,221
+You know, I'm starting to think
+Fiona had the right idea,
+
+304
+00:16:56,306 --> 00:16:59,224
+leaving this shit show behind.
+
+305
+00:16:59,309 --> 00:17:03,845
+I'm thinking very seriously
+about doing the same thing.
+
+306
+00:17:03,896 --> 00:17:06,932
+So either crown me
+or kiss my ass.
+
+307
+00:17:14,524 --> 00:17:18,910
+CORDELIA:
+I can feel all their eyes on me.
+
+308
+00:17:18,995 --> 00:17:21,446
+I failed.
+
+309
+00:17:21,531 --> 00:17:24,232
+I let this coven fall
+into ruin.
+
+310
+00:17:24,284 --> 00:17:27,369
+MYRTLE: Don't be so hard on yourself,
+Delia. You did all you could.
+
+311
+00:17:27,420 --> 00:17:29,037
+Not enough.
+
+312
+00:17:29,088 --> 00:17:32,040
+If Madison Montgomery really
+is all that's left to us,
+
+313
+00:17:32,091 --> 00:17:34,176
+maybe it is better this way.
+
+314
+00:17:34,243 --> 00:17:36,928
+Maybe we deserve to die out.
+
+315
+00:17:37,013 --> 00:17:39,848
+I'll confess, I've had
+similar dark thoughts.
+
+316
+00:17:39,915 --> 00:17:43,418
+I was so certain
+about Misty Day.
+
+317
+00:17:43,469 --> 00:17:46,855
+Or even our dear Zoe.
+
+318
+00:17:46,922 --> 00:17:50,025
+She had the makings
+of a fine leader.
+
+319
+00:17:52,362 --> 00:17:53,478
+(sniffling)
+
+320
+00:17:57,317 --> 00:17:58,767
+(exhales, sniffles)
+
+321
+00:17:58,818 --> 00:18:01,570
+(panting)
+
+322
+00:18:01,621 --> 00:18:04,206
+(cries)
+
+323
+00:18:04,273 --> 00:18:06,658
+Why'd you leave me?
+(sniffles)
+
+324
+00:18:13,549 --> 00:18:16,835
+You said you'd never leave me.
+
+325
+00:18:18,338 --> 00:18:20,589
+(sniffling)
+
+326
+00:18:25,178 --> 00:18:28,797
+CORDELIA: Oh, I can't
+believe she was right.
+
+327
+00:18:28,848 --> 00:18:31,633
+It was Madison all this time.
+
+328
+00:18:31,684 --> 00:18:34,519
+My mother was always right.
+
+329
+00:18:34,604 --> 00:18:36,355
+That's not true.
+
+330
+00:18:36,439 --> 00:18:38,573
+She was never right about you.
+
+331
+00:18:38,641 --> 00:18:41,777
+Well, I guess it's different
+when it's your own family.
+
+332
+00:18:41,828 --> 00:18:44,663
+How true is it that a prophet
+is never recognized
+
+333
+00:18:44,747 --> 00:18:46,164
+in his own country?
+
+334
+00:18:46,249 --> 00:18:49,251
+Madison was not born
+to the Supremacy.
+
+335
+00:18:49,318 --> 00:18:51,920
+But you, Cordelia,
+
+336
+00:18:51,987 --> 00:18:54,623
+you have royal blood
+in your veins.
+
+337
+00:18:56,459 --> 00:18:58,326
+What are you saying?
+
+338
+00:18:58,378 --> 00:19:00,629
+I was a fool not
+to have realized it earlier,
+
+339
+00:19:00,680 --> 00:19:02,464
+seeking all this time
+in the dust
+
+340
+00:19:02,515 --> 00:19:05,050
+for that which may have been
+right before us all along.
+
+341
+00:19:05,134 --> 00:19:07,719
+I-I don't understand.
+
+342
+00:19:07,804 --> 00:19:10,055
+First, you were suppressed
+by your mother,
+
+343
+00:19:10,139 --> 00:19:12,224
+then by your own theories.
+
+344
+00:19:12,308 --> 00:19:16,344
+You have great power,
+my girl, power that
+
+345
+00:19:16,396 --> 00:19:19,281
+has been seeking expression
+in these young vessels.
+
+346
+00:19:19,348 --> 00:19:21,116
+But it's in you.
+
+347
+00:19:21,183 --> 00:19:23,785
+You must let it out.
+You must
+
+348
+00:19:23,853 --> 00:19:26,204
+perform the Seven Wonders.
+
+349
+00:19:26,289 --> 00:19:28,907
+You think I could be
+the next Supreme?
+
+350
+00:19:28,991 --> 00:19:31,293
+I'd stake your life on it.
+
+351
+00:19:38,718 --> 00:19:41,002
+(sighs)
+I know what you guys are doing.
+
+352
+00:19:41,053 --> 00:19:42,637
+You want me to finish
+the Seven Wonders,
+
+353
+00:19:42,705 --> 00:19:44,556
+so you're trumping up
+some competition.
+
+354
+00:19:44,640 --> 00:19:46,374
+I'm not stupid.
+
+355
+00:19:46,426 --> 00:19:48,209
+Yes, you are.
+
+356
+00:19:48,261 --> 00:19:49,919
+Are you ready?
+
+357
+00:20:09,565 --> 00:20:12,066
+(scoffs)
+
+358
+00:20:35,308 --> 00:20:36,641
+(piano thumps)
+
+359
+00:20:41,731 --> 00:20:43,865
+CORDELIA:
+<i>Descensum.</i>
+
+360
+00:20:55,633 --> 00:20:58,152
+(gasping)
+
+361
+00:20:58,236 --> 00:20:59,636
+What did you see?
+
+362
+00:20:59,688 --> 00:21:01,689
+(panting)
+
+363
+00:21:01,773 --> 00:21:03,268
+Me,
+
+364
+00:21:03,388 --> 00:21:05,359
+trying to get Fiona's approval
+
+365
+00:21:05,443 --> 00:21:07,144
+and getting bitch-slapped
+for it.
+
+366
+00:21:07,195 --> 00:21:09,113
+Not exactly new.
+
+367
+00:21:09,164 --> 00:21:10,751
+Transmutation.
+
+368
+00:21:10,882 --> 00:21:12,627
+That's five Wonders
+accomplished.
+
+369
+00:21:12,747 --> 00:21:15,519
+Let us move to the sixth,
+divination. Cordelia...
+
+370
+00:21:15,603 --> 00:21:17,304
+Fine. Okay,
+I'm back in.
+
+371
+00:21:17,355 --> 00:21:19,606
+(chuckles)
+What? It's only fair.
+
+372
+00:21:19,674 --> 00:21:21,358
+This thing started
+as a competition.
+
+373
+00:21:21,442 --> 00:21:22,810
+I say we end it like one.
+
+374
+00:21:22,861 --> 00:21:24,528
+Divination.
+
+375
+00:21:24,612 --> 00:21:25,896
+Let's rock.
+
+376
+00:21:25,980 --> 00:21:27,614
+Hidden in this house are items
+
+377
+00:21:27,682 --> 00:21:30,183
+belonging to former Supremes.
+
+378
+00:21:32,821 --> 00:21:34,538
+Cordelia, divine
+
+379
+00:21:34,622 --> 00:21:36,290
+in the pebbles the location
+of the item
+
+380
+00:21:36,357 --> 00:21:38,692
+which belonged
+to MiMi DeLongpre.
+
+381
+00:21:48,670 --> 00:21:50,304
+Who knew the test
+came in Braille?
+
+382
+00:21:50,371 --> 00:21:51,471
+Shh.
+
+383
+00:21:57,879 --> 00:21:59,263
+Southwest corner.
+
+384
+00:21:59,347 --> 00:22:00,647
+Up the stairs.
+Second door
+
+385
+00:22:00,715 --> 00:22:02,549
+down the hall,
+beneath the dresser.
+
+386
+00:22:12,777 --> 00:22:15,696
+The antique broach presented
+to Supreme MiMi DeLongpre
+
+387
+00:22:15,747 --> 00:22:17,414
+on the night
+of the Great Ascension.
+
+388
+00:22:17,498 --> 00:22:18,565
+Correct.
+
+389
+00:22:21,235 --> 00:22:23,036
+Your turn, hotshot.
+
+390
+00:22:32,079 --> 00:22:33,180
+MYRTLE:
+Divine for us
+
+391
+00:22:33,247 --> 00:22:34,715
+the location of the object
+
+392
+00:22:34,766 --> 00:22:37,417
+belonging to Supreme Anna
+Leigh Leighton, Madison.
+
+393
+00:22:42,724 --> 00:22:44,691
+This is stupid.
+I'm not doing it.
+
+394
+00:22:44,759 --> 00:22:45,642
+Because you can't?
+
+395
+00:22:45,727 --> 00:22:47,611
+Let me show you some real power.
+
+396
+00:22:47,695 --> 00:22:49,062
+Let's go into the greenhouse
+
+397
+00:22:49,113 --> 00:22:51,097
+right now, and I'll bring
+Zoe back to life.
+
+398
+00:22:51,149 --> 00:22:53,450
+Divination first.
+We're doing this by the book.
+
+399
+00:22:53,534 --> 00:22:55,035
+I'm sick of your book.
+
+400
+00:22:55,102 --> 00:22:57,704
+I have so many powers,
+I could tear this room apart
+
+401
+00:22:57,772 --> 00:22:59,623
+until there's nothing left
+but your little trinkets
+
+402
+00:22:59,707 --> 00:23:01,825
+but, no, I have to do
+this bullshit!
+
+403
+00:23:01,910 --> 00:23:03,460
+Fail.
+
+404
+00:23:03,544 --> 00:23:05,445
+(exhales)
+
+405
+00:23:05,496 --> 00:23:06,747
+Wait.
+
+406
+00:23:06,798 --> 00:23:09,082
+(exhales)
+
+407
+00:23:15,006 --> 00:23:17,257
+The vase above the fireplace.
+
+408
+00:23:25,683 --> 00:23:26,800
+Wrong.
+
+409
+00:23:26,851 --> 00:23:28,602
+The piano. I meant...
+
+410
+00:23:28,653 --> 00:23:31,471
+I meant the piano. There's
+something in the thing.
+
+411
+00:23:37,612 --> 00:23:38,862
+Girl, no.
+
+412
+00:23:38,947 --> 00:23:41,365
+This is bullshit.
+
+413
+00:23:41,449 --> 00:23:42,783
+Cordelia did it.
+
+414
+00:23:42,834 --> 00:23:44,418
+Because the game is rigged,
+Queenie.
+
+415
+00:23:44,485 --> 00:23:45,318
+Wake up!
+You would accuse us
+
+416
+00:23:45,370 --> 00:23:46,319
+of chicanery?
+
+417
+00:23:46,371 --> 00:23:48,372
+You bet your bony ass.
+
+418
+00:23:48,456 --> 00:23:51,491
+I never had a shot
+at running this shit hole coven.
+
+419
+00:23:52,627 --> 00:23:53,794
+(grunts)
+
+420
+00:23:55,680 --> 00:23:58,382
+I didn't even want to come here
+in the first place.
+
+421
+00:23:58,466 --> 00:24:01,184
+It's all just some jacked-up
+version of <i>Celebrity Rehab.</i>
+
+422
+00:24:01,269 --> 00:24:02,853
+I'm out of here.
+
+423
+00:24:02,937 --> 00:24:04,855
+Thus endeth your Seven Wonders.
+
+424
+00:24:04,939 --> 00:24:06,606
+Oh, no shit, lady!
+
+425
+00:24:06,674 --> 00:24:09,309
+I'm going back to Hollywood
+where people are normal.
+
+426
+00:24:09,360 --> 00:24:10,727
+And I suggest
+you change the locks
+
+427
+00:24:10,812 --> 00:24:13,447
+because when I tell
+TMZ everything,
+
+428
+00:24:13,514 --> 00:24:16,483
+it won't be long
+before torches, pitchforks
+
+429
+00:24:16,534 --> 00:24:19,853
+and Molotov cocktails become
+a real big part of your day.
+
+430
+00:24:19,904 --> 00:24:21,488
+Peace <i>out!</i>
+
+431
+00:24:26,527 --> 00:24:29,129
+(whimpers)
+
+432
+00:24:30,865 --> 00:24:33,083
+(whimpers, sighs)
+
+433
+00:24:38,840 --> 00:24:41,224
+What do you want, dumb-ass?
+
+434
+00:24:41,309 --> 00:24:43,593
+(whimpering)
+
+435
+00:24:45,179 --> 00:24:47,347
+You let her die.
+
+436
+00:24:47,398 --> 00:24:49,382
+(gasps)
+<i>Why...</i>
+
+437
+00:24:49,434 --> 00:24:50,934
+did you let her die?
+
+438
+00:24:51,019 --> 00:24:52,486
+I...
+
+439
+00:24:52,553 --> 00:24:53,720
+(shrieks)
+
+440
+00:24:59,193 --> 00:25:01,895
+(exhales loudly)
+
+441
+00:25:01,946 --> 00:25:05,032
+(wooden creaking)
+
+442
+00:25:05,083 --> 00:25:07,667
+You know that dark place! We've both
+been there! (loud, raspy breath)
+
+443
+00:25:07,735 --> 00:25:09,235
+We both came back.
+(whimpering)
+
+444
+00:25:09,287 --> 00:25:10,236
+Why?!
+
+445
+00:25:10,288 --> 00:25:11,788
+I did it for us.
+
+446
+00:25:11,873 --> 00:25:13,507
+I love you.
+
+447
+00:25:13,574 --> 00:25:16,126
+I love you. Please. Please.
+
+448
+00:25:16,210 --> 00:25:18,178
+(sobbing)
+
+449
+00:25:20,264 --> 00:25:23,850
+You're not that good an actress.
+
+450
+00:25:25,086 --> 00:25:26,553
+(gasping)
+
+451
+00:25:26,604 --> 00:25:28,889
+(yelling):
+Stop! No!
+
+452
+00:25:36,814 --> 00:25:38,815
+(gasping)
+
+453
+00:25:38,900 --> 00:25:40,734
+(screams)
+
+454
+00:25:43,154 --> 00:25:45,438
+(guttural gasping)
+
+455
+00:25:45,490 --> 00:25:46,790
+(grunts)
+
+456
+00:25:46,874 --> 00:25:49,209
+(airy gasp, grunts)
+
+457
+00:25:49,276 --> 00:25:51,545
+(Kyle grunts, Madison gasps)
+
+458
+00:25:55,449 --> 00:25:56,950
+(loud, high-pitched gasp)
+
+459
+00:25:58,169 --> 00:26:00,337
+(Zoe coughs)
+
+460
+00:26:02,473 --> 00:26:04,057
+(gasps)
+
+461
+00:26:39,585 --> 00:26:43,288
+She'd already started packing.
+
+462
+00:26:44,079 --> 00:26:46,330
+That's helpful.
+
+463
+00:26:48,584 --> 00:26:52,485
+No one will wonder where
+the body went once we bury her.
+
+464
+00:26:57,176 --> 00:26:59,477
+Who the hell are you?
+
+465
+00:27:06,518 --> 00:27:09,187
+The help.
+
+466
+00:27:15,277 --> 00:27:17,411
+CORDELIA: <i>The hallmark
+of any rising Supreme</i>
+
+467
+00:27:17,496 --> 00:27:19,247
+<i>is glowing, radiant health.</i>
+
+468
+00:27:19,331 --> 00:27:21,398
+(echoing):
+<i>...glowing, radiant health.</i>
+
+469
+00:27:52,114 --> 00:27:56,934
+Behold. The one, true Supreme.
+
+470
+00:27:56,985 --> 00:28:00,238
+MAN: Since your extraordinary
+public statement last month,
+
+471
+00:28:00,289 --> 00:28:02,490
+there has been quite
+a bit of fanfare.
+
+472
+00:28:02,574 --> 00:28:04,992
+This frank revelation
+about your cult--
+
+473
+00:28:05,077 --> 00:28:07,495
+that's sparked quite a brouhaha
+in the media, and...
+
+474
+00:28:07,579 --> 00:28:09,163
+Let me clarify that, Bill.
+
+475
+00:28:09,248 --> 00:28:10,998
+We are not a cult.
+
+476
+00:28:11,083 --> 00:28:12,833
+We-we don't proselytize.
+
+477
+00:28:12,918 --> 00:28:15,119
+We have no agenda,
+we're not recruiting.
+
+478
+00:28:16,955 --> 00:28:20,258
+Women who identify
+as witches are born as such,
+
+479
+00:28:20,309 --> 00:28:23,644
+and their abilities--
+which we call powers--
+
+480
+00:28:23,729 --> 00:28:28,399
+are part of who they are, part
+of their DNA, if you will.
+
+481
+00:28:28,466 --> 00:28:30,568
+BILL: Oh, I see. So,
+in fact, you're saying
+
+482
+00:28:30,635 --> 00:28:32,469
+that it's not a choice,
+being a witch.
+
+483
+00:28:32,521 --> 00:28:34,855
+CORDELIA:
+That's exactly what I'm saying.
+
+484
+00:28:34,940 --> 00:28:38,659
+There are so many young witches
+who have resisted their calling
+
+485
+00:28:38,744 --> 00:28:40,978
+because they're afraid...
+
+486
+00:28:41,029 --> 00:28:44,832
+of how they may be perceived,
+or what's expected of them.
+
+487
+00:28:44,916 --> 00:28:46,284
+But there are
+still hate crimes.
+
+488
+00:28:46,335 --> 00:28:48,119
+That is true, but, you know,
+
+489
+00:28:48,170 --> 00:28:49,920
+when you hide in the shadows,
+
+490
+00:28:49,988 --> 00:28:53,257
+you are less visible,
+you have less protection.
+
+491
+00:28:53,325 --> 00:28:55,092
+We'll always be targets
+for the ignorant.
+
+492
+00:28:55,160 --> 00:28:57,461
+It is what it is.
+
+493
+00:28:57,512 --> 00:28:59,463
+But we are strong women, Bill.
+
+494
+00:28:59,514 --> 00:29:01,132
+So, what would you like
+
+495
+00:29:01,183 --> 00:29:05,269
+to say to all those girls
+watching and wondering
+
+496
+00:29:05,337 --> 00:29:07,855
+if they might be witches?
+
+497
+00:29:07,939 --> 00:29:09,690
+Hmm?
+
+498
+00:29:09,775 --> 00:29:12,610
+Call us, e-mail us
+
+499
+00:29:12,677 --> 00:29:15,146
+or just come to New Orleans.
+
+500
+00:29:15,197 --> 00:29:18,566
+There is a home and a family
+waiting for you.
+
+501
+00:29:27,376 --> 00:29:30,411
+MYRTLE:
+I'm so proud of you.
+
+502
+00:29:32,581 --> 00:29:35,666
+We need to discuss the Council.
+
+503
+00:29:35,717 --> 00:29:37,385
+We've never had
+
+504
+00:29:37,469 --> 00:29:39,220
+young witches on the Council,
+
+505
+00:29:39,304 --> 00:29:41,422
+and Queenie and Zoe deserve an
+elevated role here at the school
+
+506
+00:29:41,506 --> 00:29:42,556
+to set them apart.
+
+507
+00:29:42,641 --> 00:29:44,558
+What do you think?
+
+508
+00:29:44,643 --> 00:29:46,344
+I would start by telling them
+
+509
+00:29:46,395 --> 00:29:48,145
+that being an authority figure
+requires you
+
+510
+00:29:48,213 --> 00:29:50,815
+to make hard, unpopular
+decisions for the greater good.
+
+511
+00:29:50,882 --> 00:29:53,550
+They've matured so much,
+I think they can handle it.
+
+512
+00:29:53,602 --> 00:29:55,436
+I was talking about you.
+
+513
+00:29:55,520 --> 00:29:57,738
+Me?
+
+514
+00:29:57,823 --> 00:29:59,573
+You have every chance
+
+515
+00:29:59,658 --> 00:30:01,859
+to be the greatest Supreme
+this coven has ever seen.
+
+516
+00:30:01,910 --> 00:30:03,411
+Stop.
+
+517
+00:30:03,495 --> 00:30:05,396
+Delia, I have something to say,
+
+518
+00:30:05,447 --> 00:30:08,833
+and your tasteful modesty is
+out of fashion, so knock it off.
+
+519
+00:30:08,900 --> 00:30:10,618
+Thanks to you,
+
+520
+00:30:10,702 --> 00:30:12,403
+we're entering a new era.
+
+521
+00:30:12,454 --> 00:30:14,171
+You've planted the seeds,
+
+522
+00:30:14,239 --> 00:30:16,540
+but in order to
+reap their harvest,
+
+523
+00:30:16,591 --> 00:30:18,509
+you have to clear the rot
+of the past.
+
+524
+00:30:18,576 --> 00:30:20,928
+Myrtle, you know
+I love your metaphors,
+
+525
+00:30:21,012 --> 00:30:22,797
+but I have no idea
+what you're talking about.
+
+526
+00:30:22,881 --> 00:30:24,081
+Me. I'm talking about me.
+
+527
+00:30:25,600 --> 00:30:26,967
+We all know
+what happens to a witch
+
+528
+00:30:27,052 --> 00:30:28,413
+who grievously harms
+another witch.
+
+529
+00:30:33,358 --> 00:30:35,810
+I hope you're not suggesting...
+
+530
+00:30:35,894 --> 00:30:38,362
+I'm not suggesting.
+I'm insisting.
+
+531
+00:30:41,933 --> 00:30:44,935
+You want to be burned
+at the stake?
+
+532
+00:30:44,986 --> 00:30:47,321
+Again?
+
+533
+00:30:47,406 --> 00:30:49,990
+Want has nothing to do with it.
+
+534
+00:30:50,075 --> 00:30:52,076
+At the start
+of your glorious reign,
+
+535
+00:30:52,127 --> 00:30:54,712
+the last thing you need
+is an ABSCAM or Watergate.
+
+536
+00:30:54,779 --> 00:30:57,631
+I killed, and I
+must pay for it.
+
+537
+00:30:57,716 --> 00:30:59,583
+Now, before word leaks,
+
+538
+00:30:59,634 --> 00:31:01,618
+and you are tainted by my hubris
+and actions, however deserved.
+
+539
+00:31:01,670 --> 00:31:03,053
+Myrtle,
+
+540
+00:31:03,121 --> 00:31:05,122
+stop talking.
+
+541
+00:31:05,173 --> 00:31:07,174
+I didn't hear this.
+
+542
+00:31:07,259 --> 00:31:09,477
+I didn't.
+Listen to me, child.
+
+543
+00:31:09,561 --> 00:31:13,647
+Now that you're in charge,
+my life's work is fulfilled.
+
+544
+00:31:13,732 --> 00:31:15,316
+I've made many painful
+
+545
+00:31:15,400 --> 00:31:17,134
+mistakes in my life.
+
+546
+00:31:17,185 --> 00:31:19,236
+I want my death
+to have some meaning.
+
+547
+00:31:19,304 --> 00:31:20,354
+No!
+
+548
+00:31:20,439 --> 00:31:22,306
+No way!
+
+549
+00:31:22,357 --> 00:31:24,608
+You were my mother,
+
+550
+00:31:24,659 --> 00:31:27,144
+my true mother,
+
+551
+00:31:27,195 --> 00:31:29,646
+just as you promised
+you would be,
+
+552
+00:31:29,698 --> 00:31:33,167
+and I can't do this without you.
+
+553
+00:31:33,251 --> 00:31:35,369
+Stiff upper lip, my dear.
+
+554
+00:31:35,454 --> 00:31:38,789
+Everything you do or say ripples
+through the entire coven.
+
+555
+00:31:38,840 --> 00:31:40,708
+You cannot be a hypocrite.
+
+556
+00:31:40,792 --> 00:31:41,992
+I won't stand for it.
+
+557
+00:31:42,043 --> 00:31:44,328
+("Silver Spring" begins playing)
+
+558
+00:31:48,099 --> 00:31:53,103
+♪ You could be
+my silver spring ♪
+
+559
+00:31:53,171 --> 00:31:58,559
+♪ Blue-green,
+colors flashin' ♪
+
+560
+00:31:58,643 --> 00:32:03,697
+♪ I would be your only dream
+
+561
+00:32:03,782 --> 00:32:12,039
+♪ Your shinin' autumn
+ocean crashin' ♪
+
+562
+00:32:12,123 --> 00:32:16,460
+♪ Don't say that she's pretty ♪
+
+563
+00:32:16,528 --> 00:32:22,383
+♪ And did you say
+that she loves you? ♪
+
+564
+00:32:22,467 --> 00:32:26,921
+♪ Baby, I don't wanna know...
+
+565
+00:32:29,508 --> 00:32:32,810
+In the absence of the Council,
+
+566
+00:32:32,877 --> 00:32:34,878
+as reigning Supreme
+of this coven,
+
+567
+00:32:34,930 --> 00:32:36,713
+I hereby decree...
+
+568
+00:32:36,765 --> 00:32:38,649
+(bird screeching)
+
+569
+00:32:38,716 --> 00:32:41,435
+...for the murders of our
+sister witch Cecily Pembroke
+
+570
+00:32:41,520 --> 00:32:43,771
+and our colleague
+Quentin Fleming,
+
+571
+00:32:43,855 --> 00:32:46,524
+you...
+
+572
+00:32:46,575 --> 00:32:49,726
+Myrtle Snow...
+
+573
+00:32:52,230 --> 00:32:56,083
+...are hereby sentenced
+to death by fire.
+
+574
+00:32:56,167 --> 00:32:58,502
+Delia...
+
+575
+00:32:58,570 --> 00:33:00,921
+my sweet daughter...
+
+576
+00:33:01,006 --> 00:33:03,707
+I have never been more proud.
+
+577
+00:33:05,093 --> 00:33:07,795
+Any last words?
+
+578
+00:33:07,879 --> 00:33:11,348
+Only one.
+
+579
+00:33:11,416 --> 00:33:13,417
+Balenciaga!
+
+580
+00:33:13,468 --> 00:33:15,886
+(echoing)
+
+581
+00:33:21,092 --> 00:33:25,262
+(screaming)
+
+582
+00:33:47,926 --> 00:33:50,628
+♪ La, la, la-da, la-da
+(indistinct crowd chatter)
+
+583
+00:33:50,679 --> 00:33:55,650
+♪ La, la, la-da, la-da
+
+584
+00:33:55,734 --> 00:33:59,937
+♪ La, la,
+la-da, la-da ♪
+
+585
+00:33:59,988 --> 00:34:01,606
+♪ La-da...
+
+586
+00:34:01,657 --> 00:34:03,741
+QUEENIE: You got to
+check this shit out.
+
+587
+00:34:03,808 --> 00:34:05,142
+Line's around the block.
+
+588
+00:34:05,193 --> 00:34:06,585
+Where are we gonna
+put all these girls?
+
+589
+00:34:06,705 --> 00:34:09,997
+We'll buy more houses
+if we have to.
+
+590
+00:34:10,082 --> 00:34:11,482
+Look at you.
+
+591
+00:34:11,533 --> 00:34:13,200
+You two are powerful witches
+
+592
+00:34:13,285 --> 00:34:16,320
+with more skills and confidence
+at your young age
+
+593
+00:34:16,371 --> 00:34:18,656
+than I had for much of my life.
+
+594
+00:34:18,707 --> 00:34:21,425
+I need both of you to
+help me fulfill the promise
+
+595
+00:34:21,493 --> 00:34:23,878
+of all this coven can be.
+
+596
+00:34:23,962 --> 00:34:29,767
+A place to protect, develop
+and celebrate witches.
+
+597
+00:34:29,834 --> 00:34:32,303
+You will not only be
+my right hands,
+
+598
+00:34:32,354 --> 00:34:34,505
+you will be my Council.
+
+599
+00:34:36,108 --> 00:34:37,892
+What do you say?
+
+600
+00:34:37,976 --> 00:34:39,360
+I got your back.
+
+601
+00:34:39,444 --> 00:34:40,861
+Good. And you?
+
+602
+00:34:40,946 --> 00:34:42,897
+I'd be honored.
+
+603
+00:34:46,201 --> 00:34:47,451
+Should we open the doors now?
+
+604
+00:34:47,519 --> 00:34:50,521
+(Fiona laughs distantly)
+
+605
+00:34:50,572 --> 00:34:52,156
+Not yet.
+
+606
+00:34:53,525 --> 00:34:55,859
+Stay here.
+
+607
+00:34:55,911 --> 00:34:57,628
+(echoing footstep)
+
+608
+00:34:57,696 --> 00:34:59,797
+There's just one more thing
+I need to deal with.
+
+609
+00:34:59,864 --> 00:35:04,585
+(echoing footsteps)
+
+610
+00:35:04,670 --> 00:35:06,253
+I saw you die.
+
+611
+00:35:06,338 --> 00:35:08,089
+Look again...
+
+612
+00:35:08,173 --> 00:35:10,374
+now that you have real vision.
+
+613
+00:35:13,445 --> 00:35:14,595
+We had a deal.
+
+614
+00:35:14,680 --> 00:35:15,930
+It wasn't notarized,
+
+615
+00:35:16,014 --> 00:35:17,231
+it wasn't on paper,
+
+616
+00:35:17,315 --> 00:35:18,766
+but we had a deal!
+
+617
+00:35:18,850 --> 00:35:21,385
+(Fiona laughs)
+
+618
+00:35:21,436 --> 00:35:25,072
+You men, with
+your fragile egos.
+
+619
+00:35:25,157 --> 00:35:28,726
+We still have a deal, babe.
+
+620
+00:35:28,777 --> 00:35:32,530
+I'm going to Paris
+for just a couple days.
+
+621
+00:35:32,581 --> 00:35:35,449
+Just until Cordelia
+gets her little dwarves
+
+622
+00:35:35,534 --> 00:35:37,702
+to perform the Seven Wonders
+
+623
+00:35:37,753 --> 00:35:41,672
+and I find out
+who the next Supreme is.
+
+624
+00:35:41,740 --> 00:35:44,125
+Why? Why would she
+decide to do that?
+
+625
+00:35:44,209 --> 00:35:46,460
+Because the old Supreme
+will be dead.
+
+626
+00:35:46,545 --> 00:35:48,345
+Or at least that's
+what she'll think.
+
+627
+00:35:50,132 --> 00:35:51,582
+Well...
+
+628
+00:35:56,722 --> 00:35:59,056
+But I'm gonna need your help.
+
+629
+00:35:59,107 --> 00:36:02,860
+I mean, it won't
+be pleasant for you.
+
+630
+00:36:02,927 --> 00:36:06,197
+But if you do it right...
+
+631
+00:36:06,264 --> 00:36:08,616
+I promise you the world.
+
+632
+00:36:08,700 --> 00:36:10,234
+Hmm.
+(soft laugh)
+
+633
+00:36:10,285 --> 00:36:13,287
+I'm gonna put something
+inside you.
+
+634
+00:36:13,371 --> 00:36:14,905
+Well, a...
+
+635
+00:36:14,956 --> 00:36:17,107
+A young gypsy girl
+tried that on me once,
+
+636
+00:36:17,159 --> 00:36:20,961
+I almost hit the ceiling, I jumped so high.
+(laughs)
+
+637
+00:36:21,046 --> 00:36:24,832
+No. In your brain, sweet boy.
+Oh.
+
+638
+00:36:24,916 --> 00:36:26,167
+A vision.
+
+639
+00:36:26,251 --> 00:36:27,334
+A memory.
+
+640
+00:36:30,455 --> 00:36:33,257
+What happens when I wake
+up from this vision?
+
+641
+00:36:33,308 --> 00:36:34,892
+You'll figure it out.
+
+642
+00:36:41,233 --> 00:36:42,600
+Now drink.
+
+643
+00:36:42,651 --> 00:36:45,319
+No.
+
+644
+00:36:45,403 --> 00:36:47,488
+If you're gonna
+offer me your spit,
+
+645
+00:36:47,572 --> 00:36:49,807
+I'll take it straight
+from the spigot.
+
+646
+00:36:49,858 --> 00:36:51,525
+(chuckles)
+
+647
+00:36:54,362 --> 00:36:56,280
+(glass clatters)
+
+648
+00:37:04,956 --> 00:37:06,290
+(door slams shut)
+
+649
+00:37:09,211 --> 00:37:12,830
+FIONA: I ruined a perfectly
+good pair of Jimmy Choos.
+
+650
+00:37:12,881 --> 00:37:16,050
+But I knew you'd
+get rid of him for me,
+
+651
+00:37:16,134 --> 00:37:19,520
+once he served his purpose.
+
+652
+00:37:19,604 --> 00:37:21,438
+Whose blood was it?
+
+653
+00:37:23,809 --> 00:37:26,026
+A goat's.
+
+654
+00:37:26,111 --> 00:37:28,028
+I never killed anybody.
+
+655
+00:37:28,113 --> 00:37:30,064
+Not yet.
+
+656
+00:37:30,148 --> 00:37:32,700
+But that <i>is</i> what
+you came here to do.
+
+657
+00:37:32,784 --> 00:37:34,351
+(short laugh)
+
+658
+00:37:37,155 --> 00:37:39,740
+That was the plan.
+
+659
+00:37:39,825 --> 00:37:42,626
+Let you do the dirty work.
+
+660
+00:37:42,694 --> 00:37:45,362
+Identify the Supreme and then
+I come in and take her out.
+
+661
+00:37:45,413 --> 00:37:47,248
+Makes it a little harder
+when it turns out
+
+662
+00:37:47,332 --> 00:37:49,032
+to be your own daughter.
+
+663
+00:37:51,002 --> 00:37:52,202
+Not really.
+
+664
+00:37:53,638 --> 00:37:54,839
+(quick laugh)
+
+665
+00:37:54,890 --> 00:37:57,675
+You didn't come
+here to kill me.
+
+666
+00:37:57,726 --> 00:37:59,760
+You were hoping
+I'd put you out of your misery,
+
+667
+00:37:59,845 --> 00:38:01,762
+but I don't need to.
+
+668
+00:38:01,847 --> 00:38:04,315
+You're close.
+
+669
+00:38:04,382 --> 00:38:06,817
+I doubt you'll make it
+through the night.
+
+670
+00:38:06,885 --> 00:38:09,320
+Might make you
+feel good, though.
+
+671
+00:38:09,387 --> 00:38:11,021
+(chuckles)
+
+672
+00:38:11,072 --> 00:38:14,241
+Is that why you were
+always so awful to me?
+
+673
+00:38:14,326 --> 00:38:15,910
+Because you knew I was going to
+
+674
+00:38:15,994 --> 00:38:18,445
+take your power some day?
+
+675
+00:38:18,530 --> 00:38:20,564
+You took my power...
+
+676
+00:38:20,615 --> 00:38:23,167
+the minute I gave birth to you.
+
+677
+00:38:23,234 --> 00:38:26,403
+A woman becomes a mother,
+
+678
+00:38:26,454 --> 00:38:29,340
+she can't help but
+see her mortality
+
+679
+00:38:29,407 --> 00:38:33,243
+in that cherubic little face.
+
+680
+00:38:34,913 --> 00:38:36,764
+Every time I looked at you
+
+681
+00:38:36,848 --> 00:38:38,749
+I saw my own death.
+
+682
+00:38:38,800 --> 00:38:42,519
+You were a constant reminder...
+
+683
+00:38:42,587 --> 00:38:44,254
+of my worst fears.
+
+684
+00:38:44,306 --> 00:38:46,557
+Oh, and all this time,
+
+685
+00:38:46,608 --> 00:38:48,926
+I thought you just
+didn't like me.
+
+686
+00:38:48,977 --> 00:38:51,729
+It was nothing
+personal, darling.
+
+687
+00:39:00,772 --> 00:39:02,606
+I loved you plenty, though.
+
+688
+00:39:10,548 --> 00:39:12,716
+Just my own way.
+
+689
+00:39:12,784 --> 00:39:15,336
+Which, I'll admit,
+had its limitations.
+
+690
+00:39:18,006 --> 00:39:19,840
+Your fault was
+
+691
+00:39:19,925 --> 00:39:24,061
+you were always looking for
+another version of motherhood.
+
+692
+00:39:28,850 --> 00:39:30,734
+(exhales)
+
+693
+00:39:30,802 --> 00:39:34,822
+I can feel the power
+vibrating off of you.
+
+694
+00:39:34,906 --> 00:39:37,358
+It feels good,
+doesn't it? Hmm?
+
+695
+00:39:38,777 --> 00:39:41,195
+It's mine, you know?
+
+696
+00:39:41,279 --> 00:39:42,830
+When it came into you,
+
+697
+00:39:42,914 --> 00:39:44,665
+it left me.
+
+698
+00:39:44,749 --> 00:39:48,819
+The law of conservation
+of energy.
+
+699
+00:39:48,870 --> 00:39:51,088
+I have to die
+for you to truly live.
+
+700
+00:39:56,795 --> 00:39:59,179
+Crying over me.
+
+701
+00:39:59,264 --> 00:40:01,331
+Isn't that the ultimate twist.
+
+702
+00:40:01,383 --> 00:40:05,269
+I'm not crying over you.
+
+703
+00:40:05,336 --> 00:40:09,172
+I'm crying for me.
+
+704
+00:40:09,224 --> 00:40:11,775
+You were the monster
+in every one of my closets.
+
+705
+00:40:13,511 --> 00:40:17,531
+A lifetime spent either
+trying to prove myself to you,
+
+706
+00:40:17,615 --> 00:40:19,700
+get close to you
+
+707
+00:40:19,784 --> 00:40:21,618
+or get away from you.
+
+708
+00:40:24,856 --> 00:40:26,690
+I'm crying for the girl in me
+
+709
+00:40:26,741 --> 00:40:28,792
+who dies when you die.
+
+710
+00:40:30,245 --> 00:40:32,713
+Then kill them both right now.
+
+711
+00:40:32,797 --> 00:40:34,498
+Huh?
+
+712
+00:40:34,549 --> 00:40:36,717
+They both hurt too much.
+
+713
+00:40:36,801 --> 00:40:39,753
+And when we're finally gone
+
+714
+00:40:39,838 --> 00:40:42,039
+you will fulfill your destiny
+
+715
+00:40:42,090 --> 00:40:44,508
+and lead this coven.
+
+716
+00:40:44,559 --> 00:40:48,062
+God knows you'll do a better job
+of it than I ever did,
+
+717
+00:40:48,146 --> 00:40:50,681
+though you won't look
+half as good doing it.
+
+718
+00:40:53,401 --> 00:40:54,768
+Come on.
+
+719
+00:40:58,156 --> 00:41:00,107
+For God's sake...
+
+720
+00:41:00,191 --> 00:41:02,559
+have mercy on me.
+
+721
+00:41:02,610 --> 00:41:04,394
+Put me out of my misery.
+
+722
+00:41:06,281 --> 00:41:08,115
+I hurt everywhere.
+
+723
+00:41:15,540 --> 00:41:17,041
+You're scared,
+
+724
+00:41:19,410 --> 00:41:24,181
+maybe for the first
+time in your life.
+
+725
+00:41:24,248 --> 00:41:27,851
+No powers, no magic.
+
+726
+00:41:27,919 --> 00:41:31,388
+Just a woman facing
+the inevitable.
+
+727
+00:41:31,439 --> 00:41:33,557
+A divine being
+
+728
+00:41:33,608 --> 00:41:36,393
+finally having
+a human experience.
+
+729
+00:41:39,147 --> 00:41:40,397
+(sniffles)
+
+730
+00:41:43,068 --> 00:41:46,269
+No one can help you, Mother.
+
+731
+00:41:46,321 --> 00:41:49,272
+You have to do this alone.
+
+732
+00:41:51,076 --> 00:41:53,210
+And the only way out...
+
+733
+00:41:53,277 --> 00:41:54,661
+is through.
+
+734
+00:41:57,082 --> 00:41:59,282
+So, feel the fear
+
+735
+00:41:59,334 --> 00:42:02,002
+and the pain.
+
+736
+00:42:02,087 --> 00:42:04,088
+Let it all in...
+
+737
+00:42:06,457 --> 00:42:08,291
+...and then let it all go.
+
+738
+00:42:15,767 --> 00:42:17,134
+(short sob)
+
+739
+00:42:22,740 --> 00:42:24,358
+I don't think we ever hugged.
+
+740
+00:42:27,028 --> 00:42:29,613
+(short, sniffling breath)
+
+741
+00:42:39,207 --> 00:42:40,290
+(sniffles)
+
+742
+00:42:43,178 --> 00:42:45,963
+(coughing)
+
+743
+00:42:47,599 --> 00:42:50,000
+(rooster crows)
+
+744
+00:42:50,051 --> 00:42:51,885
+(birds chirping)
+
+745
+00:43:01,512 --> 00:43:03,346
+(dog barking outside)
+
+746
+00:43:07,902 --> 00:43:10,120
+(rooster continues crowing)
+
+747
+00:43:14,859 --> 00:43:16,359
+(mutters)
+
+748
+00:43:17,378 --> 00:43:20,247
+(man whistling a tune)
+
+749
+00:43:24,886 --> 00:43:27,221
+AXEMAN:
+Oh. Sweetness.
+
+750
+00:43:27,305 --> 00:43:28,872
+You're up.
+I hope you're hungry.
+
+751
+00:43:30,558 --> 00:43:32,142
+I brought you some, uh,
+
+752
+00:43:32,210 --> 00:43:34,878
+some catfish, I'll fry it up.
+Granddaddy's favorite.
+
+753
+00:43:34,929 --> 00:43:39,183
+Oh, get those goddamn things
+out of my face.
+
+754
+00:43:39,234 --> 00:43:41,318
+Why you always got to be like this?
+Huh?
+
+755
+00:43:43,438 --> 00:43:45,656
+Always got to be like what?
+
+756
+00:43:45,723 --> 00:43:47,491
+Huh?
+
+757
+00:43:47,558 --> 00:43:49,443
+"Be like"--
+what do you mean?
+
+758
+00:43:49,527 --> 00:43:52,246
+Every morning you wake up,
+
+759
+00:43:52,330 --> 00:43:54,498
+and you act like you
+don't know where you are.
+
+760
+00:43:54,565 --> 00:43:55,899
+And then we fight.
+
+761
+00:43:57,735 --> 00:43:59,419
+I'm... I'm tired
+of fighting.
+
+762
+00:43:59,504 --> 00:44:01,071
+Every morning?
+
+763
+00:44:03,625 --> 00:44:05,075
+How long have we been here?
+
+764
+00:44:05,126 --> 00:44:06,576
+Well, now,
+
+765
+00:44:06,628 --> 00:44:08,245
+you can't put a clock...
+
+766
+00:44:08,296 --> 00:44:09,630
+on eternity.
+
+767
+00:44:12,183 --> 00:44:13,634
+Oh, no.
+
+768
+00:44:13,718 --> 00:44:16,086
+Jesus Christ.
+
+769
+00:44:16,137 --> 00:44:18,922
+(rooster crowing)
+
+770
+00:44:18,973 --> 00:44:21,975
+If want a stiff one,
+
+771
+00:44:22,060 --> 00:44:23,810
+come over here.
+
+772
+00:44:27,982 --> 00:44:29,650
+Don't be vulgar.
+
+773
+00:44:29,734 --> 00:44:31,702
+Oh!
+
+774
+00:44:31,769 --> 00:44:34,121
+Maybe you ought to...
+(groans)
+
+775
+00:44:34,205 --> 00:44:36,373
+...lay off the sauce
+for a while.
+
+776
+00:44:36,440 --> 00:44:38,659
+(breathing heavily)
+
+777
+00:44:38,743 --> 00:44:41,111
+Drink in the... the fresh air.
+
+778
+00:44:45,283 --> 00:44:47,000
+(groans)
+
+779
+00:44:48,886 --> 00:44:50,003
+(spits)
+
+780
+00:44:52,140 --> 00:44:54,091
+Delia did this.
+
+781
+00:44:54,142 --> 00:44:56,310
+No, nobody sent you here...
+
+782
+00:44:56,394 --> 00:44:58,562
+but you, baby.
+
+783
+00:44:58,629 --> 00:45:00,647
+We had a deal.
+
+784
+00:45:00,732 --> 00:45:03,267
+Oh, God.
+
+785
+00:45:03,318 --> 00:45:05,602
+I can't spend eternity here.
+
+786
+00:45:05,653 --> 00:45:10,991
+This place--
+it reeks of fish
+
+787
+00:45:11,075 --> 00:45:13,744
+and cat piss.
+
+788
+00:45:13,811 --> 00:45:15,162
+(whimpers)
+
+789
+00:45:15,246 --> 00:45:16,530
+What is this?
+
+790
+00:45:16,614 --> 00:45:18,081
+Knotty pine?!
+
+791
+00:45:18,149 --> 00:45:19,916
+I want Delia.
+
+792
+00:45:19,984 --> 00:45:22,085
+I want...
+
+793
+00:45:22,153 --> 00:45:23,987
+It's too late for that.
+I want my daughter.
+
+794
+00:45:24,038 --> 00:45:26,006
+No, come on, you're here.
+
+795
+00:45:26,090 --> 00:45:27,507
+(whimpering)
+You're here.
+
+796
+00:45:27,592 --> 00:45:29,676
+With me.
+
+797
+00:45:29,761 --> 00:45:33,163
+Nobody is going anywhere.
+
+798
+00:45:33,214 --> 00:45:36,333
+I'm in heaven.
+
+799
+00:45:36,384 --> 00:45:38,385
+So just, uh...
+Oh, no.
+
+800
+00:45:38,469 --> 00:45:40,971
+relax. You're here.
+
+801
+00:45:41,022 --> 00:45:44,224
+(Axeman laughing)
+
+802
+00:45:44,309 --> 00:45:47,177
+(Papa Legba cackling)
+
+803
+00:45:50,198 --> 00:45:53,900
+(laughter distorts and echoes)
+
+804
+00:45:53,985 --> 00:45:56,953
+(footsteps echo)
+
+805
+00:46:01,909 --> 00:46:04,127
+All right... (exhales)
+
+806
+00:46:04,195 --> 00:46:05,629
+...let's open the doors.
+
+807
+00:46:07,248 --> 00:46:09,199
+(girls chattering,
+screaming playfully outside)
+
+808
+00:46:10,668 --> 00:46:15,505
+♪ La, la, la-da, la-da...
+
+809
+00:46:15,556 --> 00:46:17,374
+CORDELIA: <i>Miss Robichaux's Academy
+for Exceptional Young Ladies</i>
+
+810
+00:46:17,425 --> 00:46:19,476
+<i>was established as a premiere</i>
+
+811
+00:46:19,543 --> 00:46:21,928
+<i>girls' finishing</i>
+<i>school in 1790.</i>
+
+812
+00:46:22,013 --> 00:46:24,431
+<i>Afterwards, it came</i>
+<i>under new management.</i>
+
+813
+00:46:24,515 --> 00:46:27,234
+<i>Our management.</i>
+
+814
+00:46:27,318 --> 00:46:30,320
+We survive.
+
+815
+00:46:30,388 --> 00:46:33,156
+Up until now,
+that's all we've done.
+
+816
+00:46:34,776 --> 00:46:36,610
+But as I look at your faces--
+
+817
+00:46:36,694 --> 00:46:39,112
+all of them beautiful,
+
+818
+00:46:39,197 --> 00:46:41,498
+all of them perfect--
+
+819
+00:46:41,565 --> 00:46:44,284
+I know together...
+
+820
+00:46:44,369 --> 00:46:46,336
+we can do more than survive.
+
+821
+00:46:46,404 --> 00:46:49,373
+It's our time to thrive.
+
+822
+00:46:50,408 --> 00:46:51,675
+What's a Supreme?
+
+823
+00:46:51,742 --> 00:46:53,627
+You're looking at her.
+
+824
+00:46:55,963 --> 00:47:06,696
+<font color="#ec14bd">Sync & corrections by honeybunny</font>
+<font color="#ec14bd">www.addic7ed.com</font>
+
+825
+00:47:07,000 --> 00:47:10,052
+Best watched using Open Subtitles MKV Player
