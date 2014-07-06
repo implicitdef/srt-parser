@@ -1,8 +1,8 @@
-package com.github.mtailor.testscala
+package com.github.mtailor.srtdissector
 
 import java.io.FileInputStream
 
-import com.github.mtailor.testscala.Vocabulary._
+import com.github.mtailor.srtdissector.Vocabulary._
 import org.specs2.mutable.Specification
 import scala.io.Source
 
@@ -64,9 +64,9 @@ object SrtParsersSpec extends Specification with FromClasspathLoader {
    */
 
   "SrtParser" should {
-    //"parse properly a small but tricky .srt file" in {
-    //  SrtParser.parse(fromClassPathFile("sample.srt")) mustEqual expectedSrtFromSample
-    //}
+    "parse properly a small but tricky .srt file" in {
+      SrtParser.parse(fromClassPathFile("sample.srt")) mustEqual expectedSrtFromSample
+    }
     //examplesBlock {
     //  fromClassPathDirectory("srt_files") foreach { f =>
     //    "parse without failure the file " + f in {

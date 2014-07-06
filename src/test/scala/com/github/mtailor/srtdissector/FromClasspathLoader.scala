@@ -1,4 +1,4 @@
-package com.github.mtailor.testscala
+package com.github.mtailor.srtdissector
 
 import scala.io.{BufferedSource, Source}
 import java.io._

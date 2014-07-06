@@ -1,8 +1,8 @@
-package com.github.mtailor.testscala
+package com.github.mtailor.srtdissector
 
 import java.io.InputStream
 
-import com.github.mtailor.testscala.Vocabulary._
+import com.github.mtailor.srtdissector.Vocabulary._
 import org.apache.commons.io.input.BOMInputStream
 
 import scala.io._
@@ -78,16 +78,19 @@ object SrtParser {
       """\s*-->\s*""".r
 
     private def hours: Parser[Int] =
-      """\d{1,2}""".r ^^ (_.toInt)
+      aFewNumbers
 
     private def minutes: Parser[Int] =
-      """\d{1,2}""".r ^^ (_.toInt) withFilter (_ < 60)
+      aFewNumbers withFilter (_ < 60)
 
-    private def seconds =minutes
+    private def seconds =
+      aFewNumbers withFilter (_ < 60)
 
     private def milliseconds: Parser[Int] =
-      """\d{1,3}""".r ^^ (_.toInt)
+      aFewNumbers
 
+    private def aFewNumbers: Parser[Int] =
+      """\d{1,4}""".r ^^ (_.toInt)
 
   }
 

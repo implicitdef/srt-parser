@@ -1,4 +1,4 @@
-name := "testscala"
+name := "srtdissector"
 
 version := "1.0"
 
