@@ -40,12 +40,12 @@ object SrtDissectorSpecs extends Specification with SrtDissector with FromClassp
     ))
   )
 
-  //TODO gérer les cas tricky des times : debut > fin, blocks mal triés
-  //TODO gérer le cas où il ne reste plus aucun subtitle après filtrage
-
   "SrtDissector" should {
     "parse properly a small but tricky .srt file" in {
       dissect(file("sample.srt")) mustEqual expectedSrtFromSample
+    }
+    "parse properly an empty .srt file" in {
+      dissect(file("empty.srt")) mustEqual new Srt(Seq())
     }
     examplesBlock {
       files("srt_files") foreach { f =>

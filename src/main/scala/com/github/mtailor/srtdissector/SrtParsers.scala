@@ -22,9 +22,15 @@ object SrtParsers extends RegexParsers {
   override val skipWhitespace = false
 
   private def srt: Parser[Srt] =
-    ows ~> rep1sep(subtitleBlock, blockSeparator) <~ ows ^^ {
+    ows ~> repsep(subtitleBlock, blockSeparator) <~ ows ^^ {
       case subtitleBlocks =>
-        subtitleBlocks.filterNot(_.lines.isEmpty)
+        subtitleBlocks
+          //blocks should have one line at least
+          .filter(! _.lines.isEmpty)
+          //blocks should have coherent times
+          .filter(b => b.start < b.end)
+          //and should be in chronological order
+          .sortBy(_.start)
     }
 
   private def subtitleBlock: Parser[SubtitleBlock] = {

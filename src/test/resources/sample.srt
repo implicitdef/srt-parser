@@ -5,28 +5,38 @@
 00:00:00,125   -->00:00:02,151
 <i>Previously on Mad Men...</i>
 
-2
-0:0:2,34 -->    00 :00:03,  990
-You're going to Vietnam!
-
   3
 00:00:04,781 --> 00:00:0006,878
 I think I'd like eventually
 to do what you do.
 
 
-
-
-
-
 4
+00:00:11,000 --> 00:00:10,000
+(This block will be ignored because
+the start time is after the end time)
+
+5
+00:00:12,000 --> 00:00:12,000
+(This block will also be ignored because
+the start time = the end time)
+
+
+
+6
 45,055,50,999 --> 45:55:51:000
 Every chip I make we become
 less dependent on you!
 Why you...
 Roger...
 
-5
+
+
+45
+0:0:2,34 -->    00 :00:03,  990
+You're going to Vietnam!
+
+7
 75:00:00,000 --> 75:00:01,000
 
 
