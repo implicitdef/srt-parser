@@ -5,7 +5,7 @@ import org.specs2.mutable.Specification
 
 object SrtDissectorSpecs extends Specification with SrtDissector with FromClasspathLoader {
 
-  val expectedSrtFromSample = new Srt(Seq(
+  val expectedSrtFromSample = Seq(
     SubtitleBlock(
       asTime(0, 0, 0, 125),
       asTime(0, 0, 2, 151),
@@ -37,7 +37,7 @@ object SrtDissectorSpecs extends Specification with SrtDissector with FromClassp
         "Why you...",
         "Roger..."
       )
-    ))
+    )
   )
 
   "SrtDissector" should {
@@ -45,7 +45,7 @@ object SrtDissectorSpecs extends Specification with SrtDissector with FromClassp
       dissect(file("sample.srt")) mustEqual expectedSrtFromSample
     }
     "parse properly an empty .srt file" in {
-      dissect(file("empty.srt")) mustEqual new Srt(Seq())
+      dissect(file("empty.srt")) mustEqual Seq()
     }
     examplesBlock {
       files("srt_files") foreach { f =>

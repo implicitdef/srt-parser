@@ -4,11 +4,7 @@ package com.github.mtailor.srtdissector
 object Vocabulary {
 
   //The result of parsing a .srt file
-  case class Srt(subtitleBlocks: Seq[SubtitleBlock])
-
-  implicit def subtitleBlocks2Srt(subtitleBlocks: Seq[SubtitleBlock]) =
-    Srt(subtitleBlocks)
-
+  type Srt = Seq[SubtitleBlock]
 
   //One subtitle from a .srt file
   //with several lines to be displayed
