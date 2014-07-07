@@ -1,12 +1,9 @@
 package com.github.mtailor.srtdissector
 
-import java.io.FileInputStream
-
 import com.github.mtailor.srtdissector.Vocabulary._
 import org.specs2.mutable.Specification
-import scala.io.Source
 
-object SrtDissectorSpecs extends Specification with FromClasspathLoader {
+object SrtDissectorSpecs extends Specification with SrtDissector with FromClasspathLoader {
 
   val expectedSrtFromSample = new Srt(Seq(
     SubtitleBlock(
@@ -43,15 +40,17 @@ object SrtDissectorSpecs extends Specification with FromClasspathLoader {
     ))
   )
 
+  //TODO gérer les cas tricky des times : debut > fin, blocks mal triés
+  //TODO gérer le cas où il ne reste plus aucun subtitle après filtrage
 
-  "SrtParser" should {
+  "SrtDissector" should {
     "parse properly a small but tricky .srt file" in {
-      SrtDissector.dissect(file("sample.srt")) mustEqual expectedSrtFromSample
+      dissect(file("sample.srt")) mustEqual expectedSrtFromSample
     }
     examplesBlock {
       files("srt_files") foreach { f =>
         "parse without failure the file " + f in {
-          SrtDissector.dissect(f) must not(throwA[ParsingException])
+          dissect(f) must not(throwA[ParsingException])
         }
       }
     }
