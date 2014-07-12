@@ -34,14 +34,13 @@ object SrtParsers extends RegexParsers {
     }
 
   private def subtitleBlock: Parser[SubtitleBlock] = {
-    subtitleNumber ~ ows ~
-      time ~ arrow ~ time ~ ows ~
-      textLines
+    (subtitleNumber ~ whiteSpace).? ~>
+    time ~ arrow ~ time ~ whiteSpace ~
+    textLines
   } ^^ {
     case
-      _ ~ _ ~
-        startTime ~ _ ~ endTime ~ _ ~
-        texts
+      startTime ~ _ ~ endTime ~ _ ~
+      texts
     => SubtitleBlock(startTime, endTime, texts)
   }
 

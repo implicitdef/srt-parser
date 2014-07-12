@@ -29,6 +29,21 @@ object SrtDissectorSpecs extends Specification with SrtDissector with FromClassp
       )
     ),
     SubtitleBlock(
+      asTime(0, 0, 7, 0),
+      asTime(0, 0, 8, 0),
+      Seq(
+        "You should get some sleep."
+      )
+    ),
+    SubtitleBlock(
+      asTime(0, 0, 9, 0),
+      asTime(0, 0, 10, 0),
+      Seq(
+        "How can I?",
+        "My wife's a big TV star."
+      )
+    ),
+    SubtitleBlock(
       asTime(45, 55, 50, 999),
       asTime(45, 55, 51, 0),
       Seq(
