@@ -206,7 +206,7 @@ And fate, also.
 
 49
 00:07:28,397 --> 00:07:33,027
-<i>And the Führer digs for trinkets
+<i>And the Fï¿½hrer digs for trinkets
 in the desert.</i>
 
 50
@@ -2126,7 +2126,7 @@ Hail Hydra.
 
 495
 00:43:06,400 --> 00:43:09,028
-<i>The Führer is not accustomed
+<i>The Fï¿½hrer is not accustomed
 to being ignored, Herr Schmidt.</i>
 
 496
@@ -2173,7 +2173,7 @@ into Norway.
 
 505
 00:43:35,162 --> 00:43:37,062
-<i>The Führer feels... How does he put it?</i>
+<i>The Fï¿½hrer feels... How does he put it?</i>
 
 506
 00:43:37,164 --> 00:43:40,395
@@ -2291,7 +2291,7 @@ You will be punished for your insolence!
 531
 00:45:08,388 --> 00:45:10,913
 <i>You will be brought
-before the Führer himself!</i>
+before the Fï¿½hrer himself!</i>
 
 532
 00:45:20,133 --> 00:45:22,101
@@ -3318,8 +3318,8 @@ Hey. Not exactly a Buick.
 
 763
 01:02:07,740 --> 01:02:09,674
-<i>- That one. "Zündung."
-- Zündung?</i>
+<i>- That one. "Zï¿½ndung."
+- Zï¿½ndung?</i>
 
 764
 01:02:10,609 --> 01:02:11,576

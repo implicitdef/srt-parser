@@ -684,7 +684,7 @@ that I write you today.
 
 160
 00:12:59,578 --> 00:13:03,426
-I've enclosed a bill of exchange for £500
+I've enclosed a bill of exchange for ï¿½500
 
 161
 00:13:03,622 --> 00:13:05,486
@@ -1751,7 +1751,7 @@ Seven, eight...
 
 414
 00:29:26,969 --> 00:29:29,112
-Nine priced over £100.
+Nine priced over ï¿½100.
 
 415
 00:29:29,415 --> 00:29:32,388

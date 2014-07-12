@@ -13,7 +13,7 @@ Abre
 4
 00:02:41,778 --> 00:02:42,972
 Toma esto
--Si, señora
+-Si, seï¿½ora
 
 5
 00:03:06,898 --> 00:03:08,570
@@ -30,7 +30,7 @@ y el tapete de doble cara.
 
 8
 00:03:17,098 --> 00:03:19,453
-No podre conseguirtelo hasta mañana.
+No podre conseguirtelo hasta maï¿½ana.
 
 9
 00:03:20,058 --> 00:03:20,808
@@ -183,7 +183,7 @@ no habra mas quemaduras.
 
 43
 00:12:54,858 --> 00:12:57,213
-Eso ya lo dijiste hace un año.
+Eso ya lo dijiste hace un aï¿½o.
 
 44
 00:12:58,098 --> 00:12:59,895
@@ -220,7 +220,7 @@ en la que he estado trabajando...
 
 52
 00:13:24,093 --> 00:13:25,167
-en los ultimos años.
+en los ultimos aï¿½os.
 
 53
 00:13:25,167 --> 00:13:27,852
@@ -488,7 +488,7 @@ hablaste de este experimento.
 
 115
 00:16:04,656 --> 00:16:06,928
-Entonces nos parecia un sueño.
+Entonces nos parecia un sueï¿½o.
 
 116
 00:16:07,338 --> 00:16:08,771
@@ -785,7 +785,7 @@ Que quiere?
 182
 00:22:50,538 --> 00:22:54,087
 <i>Ver a mi madre.
-Hace mas de diez años que no la veo.</i>
+Hace mas de diez aï¿½os que no la veo.</i>
 
 183
 00:22:54,298 --> 00:22:55,367
@@ -827,16 +827,16 @@ Abreme!
 192
 00:23:27,451 --> 00:23:33,056
 Es Carnaval. Estamos los dos muy lejos
-de Bahia Teño saudade.
+de Bahia Teï¿½o saudade.
 
 193
 00:23:33,458 --> 00:23:37,690
 Mira! como el disfraz que me ponia
-de pequeño. Te acuerdas?
+de pequeï¿½o. Te acuerdas?
 
 194
 00:23:40,738 --> 00:23:42,376
-Tigriño!
+Tigriï¿½o!
 
 195
 00:23:42,578 --> 00:23:44,773
@@ -861,7 +861,7 @@ Como nos has localizado?
 
 200
 00:24:19,417 --> 00:24:23,457
-Llevo ya tiempo en España.
+Llevo ya tiempo en Espaï¿½a.
 Vi a Robert en el periodico.
 
 201
@@ -1037,7 +1037,7 @@ Yo solo soy una sirvienta.
 
 239
 00:26:15,778 --> 00:26:18,417
-Admas, Robert esta fuera de España.
+Admas, Robert esta fuera de Espaï¿½a.
 
 240
 00:26:19,698 --> 00:26:21,211
@@ -1356,7 +1356,7 @@ Que pasa, no te gusta?
 
 314
 00:33:59,978 --> 00:34:01,377
-Me haces daño.
+Me haces daï¿½o.
 
 315
 00:34:02,058 --> 00:34:03,537
@@ -1391,7 +1391,7 @@ Matalos!
 
 322
 00:35:58,178 --> 00:36:01,295
-Los niños,
+Los niï¿½os,
 solo jugaban a matarse.
 
 323
@@ -1439,12 +1439,12 @@ La culpa es mia.
 
 333
 00:36:46,738 --> 00:36:49,889
-Tengo una locura en mis entrañas.
+Tengo una locura en mis entraï¿½as.
 
 334
 00:36:50,418 --> 00:36:52,978
 Yo servi en casa de los Legard
-desde muy niña.
+desde muy niï¿½a.
 
 335
 00:36:52,978 --> 00:36:55,293
@@ -1453,7 +1453,7 @@ Mrs. Ledgard era esteril...
 336
 00:36:55,858 --> 00:37:00,249
 Cuando my Robert nacio,
-se quedaron con el niño...
+se quedaron con el niï¿½o...
 
 337
 00:37:02,058 --> 00:37:04,697
@@ -1480,7 +1480,7 @@ Zeca se crio muy lejos de mi.
 
 342
 00:37:26,898 --> 00:37:30,413
-Desde los siete años,
+Desde los siete aï¿½os,
 empezo a transportar droga.
 
 343
@@ -1490,7 +1490,7 @@ Se crio en la calle.
 
 344
 00:37:36,738 --> 00:37:43,655
-Hace unos doce años
+Hace unos doce aï¿½os
 Zeca volvio por la mansion.
 
 345
@@ -1593,7 +1593,7 @@ Gal escucho a lo lejos la voz de Norma...
 367
 00:39:26,098 --> 00:39:29,647
 cantando una cancion que
-ella mismo le habia enseñado.
+ella mismo le habia enseï¿½ado.
 
 368
 00:39:31,898 --> 00:39:34,458
@@ -1640,7 +1640,7 @@ y se arrojo al vacio.
 
 378
 00:41:04,778 --> 00:41:07,656
-Años despues, la pequeña Norma...
+Aï¿½os despues, la pequeï¿½a Norma...
 
 379
 00:41:08,658 --> 00:41:11,570
@@ -1680,7 +1680,7 @@ si lo dejamos
 
 387
 00:42:53,811 --> 00:42:55,456
-para mañana?
+para maï¿½ana?
 
 388
 00:42:56,858 --> 00:42:59,736
@@ -1716,7 +1716,7 @@ Duerme, mi amor.
 
 396
 00:44:08,178 --> 00:44:09,850
-SEIS AÑOS ANTES
+SEIS Aï¿½OS ANTES
 
 397
 00:44:40,778 --> 00:44:43,053
@@ -1752,7 +1752,7 @@ Al menos ya no le da miedo la gente.
 
 404
 00:45:07,858 --> 00:45:10,850
-Si, Es exraño que no haya venido
+Si, Es exraï¿½o que no haya venido
 a pedirme que nos vayamos.
 
 405
@@ -1940,7 +1940,7 @@ He quedado con mis colegas.
 
 449
 00:51:27,047 --> 00:51:29,572
-Creo que vamos a ir a la fiesta de Doña Casilda.
+Creo que vamos a ir a la fiesta de Doï¿½a Casilda.
 
 450
 00:51:29,778 --> 00:51:30,767
@@ -2050,12 +2050,12 @@ porque le pienso vender la ropa.
 
 474
 00:53:12,658 --> 00:53:15,047
-Es un señor jardin.
+Es un seï¿½or jardin.
 - A los jardines
 
 475
 00:53:15,047 --> 00:53:17,777
-Vaya puta fiesta, coño!
+Vaya puta fiesta, coï¿½o!
 
 476
 00:53:17,777 --> 00:53:19,297
@@ -2212,7 +2212,7 @@ Se la dedico tambien a la novia...
 
 514
 00:56:19,575 --> 00:56:21,370
-con mucho cariño.
+con mucho cariï¿½o.
 
 515
 00:57:18,498 --> 00:57:19,248
@@ -2301,7 +2301,7 @@ Vas a dejar esto asi, empantanado?
 
 535
 00:59:45,734 --> 00:59:48,133
-Mañana, vengo y lo termino.
+Maï¿½ana, vengo y lo termino.
 
 536
 01:00:40,338 --> 01:00:43,410
@@ -2367,7 +2367,7 @@ Las olas lo habran arrastrado mar adentro.
 
 551
 01:04:19,538 --> 01:04:21,256
-Lo sentimos mucho, Señora.
+Lo sentimos mucho, Seï¿½ora.
 
 552
 01:04:22,418 --> 01:04:24,056
@@ -2393,7 +2393,7 @@ tienen que seguir buscandole, por favor!
 
 557
 01:04:39,929 --> 01:04:41,895
-Ya hemos hablado de esto, Señora,
+Ya hemos hablado de esto, Seï¿½ora,
 No insista!.
 
 558
@@ -2447,7 +2447,7 @@ Sweetheart...
 
 569
 01:05:47,047 --> 01:05:48,292
-Mi niña...
+Mi niï¿½a...
 
 570
 01:05:48,292 --> 01:05:51,211
@@ -2678,7 +2678,7 @@ Podrias descansar y tratar de olvidar.
 622
 01:11:49,930 --> 01:11:52,976
 No podria dormir, trabajar me tendra
-la mente ocuàda.
+la mente ocuï¿½da.
 
 623
 01:11:52,976 --> 01:11:55,447
@@ -2784,7 +2784,7 @@ Dos accidentes, uno llegando al pueblo...
 647
 01:15:24,778 --> 01:15:28,134
 Es muy joven.
-Parece un niño.
+Parece un niï¿½o.
 
 648
 01:15:28,898 --> 01:15:30,536
@@ -2792,7 +2792,7 @@ No lo es.
 
 649
 01:15:31,258 --> 01:15:34,295
-Tiene 27 años y sabe
+Tiene 27 aï¿½os y sabe
 perfectamente lo que quiere.
 
 650
@@ -2867,11 +2867,11 @@ Dentro de este maletin...
 666
 01:17:56,698 --> 01:17:59,770
 hay varios delatadores
-de distintos tamaños
+de distintos tamaï¿½os
 
 667
 01:18:02,178 --> 01:18:06,376
-Empieza introduciendote el mas pequeño.
+Empieza introduciendote el mas pequeï¿½o.
 
 668
 01:18:08,618 --> 01:18:10,768
@@ -2944,7 +2944,7 @@ En el pazo tan espectacular?
 684
 01:19:27,178 --> 01:19:31,251
 Soy el padre de Norma.
-la niña que violaste.
+la niï¿½a que violaste.
 
 685
 01:19:32,778 --> 01:19:34,734
@@ -3155,12 +3155,12 @@ Canta saudade!
 733
 01:29:16,978 --> 01:29:19,572
 Que largos se me han hecho
-estos cuatro años!
+estos cuatro aï¿½os!
 
 734
 01:29:19,572 --> 01:29:23,247
 - Tanto tiempo?
-- Cuatro años y dos meses.
+- Cuatro aï¿½os y dos meses.
 
 735
 01:29:23,778 --> 01:29:26,338
@@ -3177,7 +3177,7 @@ me llamarias.
 
 738
 01:29:32,578 --> 01:29:34,648
-Pobrecita, mi niña.
+Pobrecita, mi niï¿½a.
 
 739
 01:29:34,898 --> 01:29:36,889
@@ -3340,7 +3340,7 @@ VUELTA AL PRESENTE
 775
 01:32:35,018 --> 01:32:37,691
 - Que haces?
-- Parto piña.
+- Parto piï¿½a.
 
 776
 01:32:39,898 --> 01:32:42,412
@@ -3390,7 +3390,7 @@ Y Marilia?
 
 787
 01:34:28,175 --> 01:34:30,294
-En al cocina, refunfuñando.
+En al cocina, refunfuï¿½ando.
 
 788
 01:34:31,298 --> 01:34:34,495
@@ -3412,8 +3412,8 @@ hicimos una promesa.
 
 792
 01:34:53,178 --> 01:34:56,329
-- No lo he soñado?
-- No lo has soñado.
+- No lo he soï¿½ado?
+- No lo has soï¿½ado.
 
 793
 01:34:58,218 --> 01:35:01,210
@@ -3463,7 +3463,7 @@ lo ha prometido.
 803
 01:35:39,170 --> 01:35:42,375
 Y tu la crees?
-Eres como un niño.
+Eres como un niï¿½o.
 
 804
 01:35:42,898 --> 01:35:46,573
@@ -3494,7 +3494,7 @@ Muchas Gracias.
 
 810
 01:36:17,778 --> 01:36:19,370
-Vamos, niña!
+Vamos, niï¿½a!
 
 811
 01:36:25,578 --> 01:36:27,534
@@ -3562,7 +3562,7 @@ Y ahora te agradeceria que me dejaras solo.
 
 825
 01:37:15,458 --> 01:37:18,495
-Perdona que no te acompañe.
+Perdona que no te acompaï¿½e.
 Ya conoces el camino.
 
 826
@@ -3601,8 +3601,8 @@ Y?
 
 834
 01:38:14,218 --> 01:38:16,527
-Siempre me extraño que ese chico quisiera
-ponerse un coño...
+Siempre me extraï¿½o que ese chico quisiera
+ponerse un coï¿½o...
 
 835
 01:38:16,778 --> 01:38:18,496
@@ -3610,7 +3610,7 @@ sin hormonarse.
 
 836
 01:38:18,496 --> 01:38:20,529
-Solo le interesaba el coño.
+Solo le interesaba el coï¿½o.
 
 837
 01:38:21,018 --> 01:38:24,294
@@ -3956,7 +3956,7 @@ Recuerdas este vestido?
 916
 01:47:47,258 --> 01:47:51,171
 Antes de la boda de Casilda,
-hace seis años...
+hace seis aï¿½os...
 
 917
 01:47:51,498 --> 01:47:53,534
@@ -3982,7 +3982,7 @@ Pasa algo, Cristina?
 
 922
 01:48:18,298 --> 01:48:20,653
-Venga un momento, por favor, Señora.
+Venga un momento, por favor, Seï¿½ora.
 
 923
 01:48:33,378 --> 01:48:35,972

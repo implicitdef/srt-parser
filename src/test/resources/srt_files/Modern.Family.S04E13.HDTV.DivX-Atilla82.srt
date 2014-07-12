@@ -77,7 +77,7 @@ Oh, look at my two handsome men.
 
 18
 00:00:49,741 --> 00:00:50,941
-Mi niño, Fulgencio Umberto.
+Mi niï¿½o, Fulgencio Umberto.
 
 19
 00:00:52,198 --> 00:00:53,614
@@ -86,7 +86,7 @@ we're not entirely sure...
 
 20
 00:00:53,814 --> 00:00:56,914
-Sonia, vámonos.
+Sonia, vï¿½monos.
 Good-bye, Fulgencio.
 
 21
@@ -2158,7 +2158,7 @@ poor old mother alone.
 
 480
 00:17:00,448 --> 00:17:02,248
-Don't worry mamá,
+Don't worry mamï¿½,
 you can come and live with us.
 
 481

@@ -902,7 +902,7 @@ I went to Florence.
 
 198
 00:16:51,677 --> 00:16:53,930
-<i>There's this caf?© on the banks of the Arno.</i>
+<i>There's this caf?ï¿½ on the banks of the Arno.</i>
 
 199
 00:16:54,096 --> 00:16:57,350
@@ -2823,7 +2823,7 @@ What about the men they arrested?
 626
 00:51:17,533 --> 00:51:21,629
 He said, and I quote,
-â?oThey would die before talking."
+ï¿½?oThey would die before talking."
 
 627
 00:51:22,830 --> 00:51:25,128
@@ -4919,7 +4919,7 @@ That's a lovely, lovely voice.
 
 1095
 01:28:32,516 --> 01:28:36,646
-<i>--That our ï¬,ag was still there</i>
+<i>--That our ï¿½,ag was still there</i>
 
 1096
 01:28:37,437 --> 01:28:46,289

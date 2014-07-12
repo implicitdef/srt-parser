@@ -756,7 +756,7 @@ The captain is currently occupied.
 
 185
 00:35:01,830 --> 00:35:03,397
-- I’m the one who made you pretty.
+- Iï¿½m the one who made you pretty.
 
 186
 00:35:08,394 --> 00:35:09,460
@@ -2043,7 +2043,7 @@ And say, goodbye.
 
 501
 01:14:59,832 --> 01:15:01,515
-<i>©© Subtitle By D3xt3r ©©</i>
+<i>ï¿½ï¿½ Subtitle By D3xt3r ï¿½ï¿½</i>
 
 502
 01:15:02,942 --> 01:15:04,909

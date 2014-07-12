@@ -6859,7 +6859,7 @@ a test trial.
 
 1330
 01:34:42,200 --> 01:34:45,465
-The judge’s decision is final.
+The judgeï¿½s decision is final.
 There is no appeal.
 
 1331
