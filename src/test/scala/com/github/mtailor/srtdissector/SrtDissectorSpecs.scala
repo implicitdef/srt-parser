@@ -50,7 +50,7 @@ object SrtDissectorSpecs extends Specification with SrtDissector with FromClassp
     examplesBlock {
       files("srt_files") foreach { f =>
         "parse without failure the file " + f in {
-          dissect(f) must not(throwA[ParsingException])
+          dissect(f) must not(throwA[Throwable])
         }
       }
     }

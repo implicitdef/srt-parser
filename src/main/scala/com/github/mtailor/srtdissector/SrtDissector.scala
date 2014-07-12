@@ -13,7 +13,7 @@ import scala.io._
 trait SrtDissector {
 
   /**
-   * Parses the InputStream from a .srt file
+   * Parses the InputStream from a UTF8-encoded .srt file
    * Throws ParsingException if it fails
    */
   def dissect(is: InputStream): Srt =
@@ -26,6 +26,6 @@ trait SrtDissector {
     new BOMInputStream(is)
 
   private implicit def inputStream2Reader(is: InputStream): Reader =
-    Source.fromInputStream(is).bufferedReader()
+    Source.fromInputStream(is)(Codec.UTF8).bufferedReader()
 
 }
