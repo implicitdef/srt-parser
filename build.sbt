@@ -1,4 +1,6 @@
-name := "srtdissector"
+name := "srt-dissector"
+
+organization := "com.github.mtailor"
 
 version := "0.1"
 
