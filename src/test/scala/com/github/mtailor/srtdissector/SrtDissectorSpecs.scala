@@ -3,7 +3,7 @@ package com.github.mtailor.srtdissector
 import com.github.mtailor.srtdissector.Vocabulary._
 import org.specs2.mutable.Specification
 
-object SrtDissectorSpecs extends Specification with SrtDissector with FromClasspathLoader {
+object SrtDissectorSpecs extends Specification with FromClasspathLoader {
 
   val expectedSrtFromSample = Seq(
     SubtitleBlock(
@@ -57,15 +57,15 @@ object SrtDissectorSpecs extends Specification with SrtDissector with FromClassp
 
   "SrtDissector" should {
     "parse properly a small but tricky .srt file" in {
-      dissect(file("sample.srt")) mustEqual expectedSrtFromSample
+      SrtDissector(file("sample.srt")) must beSuccessfulTry.withValue(expectedSrtFromSample)
     }
     "parse properly an empty .srt file" in {
-      dissect(file("empty.srt")) mustEqual Seq()
+      SrtDissector(file("empty.srt")) must beSuccessfulTry.which(_.isEmpty)
     }
     examplesBlock {
       files("srt_files") foreach { f =>
         "parse without failure the file " + f in {
-          dissect(f) must not(throwA[Throwable])
+          SrtDissector(f) must beSuccessfulTry
         }
       }
     }

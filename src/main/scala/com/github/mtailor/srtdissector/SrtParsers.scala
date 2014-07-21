@@ -4,6 +4,7 @@ import java.io.Reader
 
 import com.github.mtailor.srtdissector.Vocabulary._
 
+import scala.util.Try
 import scala.util.parsing.combinator.RegexParsers
 
 /**
@@ -11,13 +12,8 @@ import scala.util.parsing.combinator.RegexParsers
  */
 object SrtParsers extends RegexParsers {
 
-  def doFullParsing(reader: Reader): Srt =
-    parseAll(srt, reader) match {
-      case Success(res, _) => res
-      case noSuccess => throw new ParsingException(
-        "Failed to parse the given source" +
-          " as a .srt file : " + noSuccess)
-    }
+  def doFullParsing(reader: Reader): Try[Srt] =
+    toTry(parseAll(srt, reader))
 
   override val skipWhitespace = false
 
@@ -100,5 +96,18 @@ object SrtParsers extends RegexParsers {
   //optional whitespaces shortcut
   private def ows : Parser[Any] =
     whiteSpace.?
+
+  private def toTry[T](res: ParseResult[T]): Try[T] = res match {
+    case Success(value, _) => scala.util.Success(value)
+    case noSuccess => scala.util.Failure(
+      new ParsingException(
+        "Failed to parse the given source" +
+          " as a .srt file : " + noSuccess
+      )
+    )
+  }
+
+  class ParsingException(msg: String) extends RuntimeException(msg)
+
 
 }

@@ -6,20 +6,21 @@ import com.github.mtailor.srtdissector.Vocabulary._
 import org.apache.commons.io.input.BOMInputStream
 
 import scala.io._
+import scala.util.Try
 
 /**
- * The trait offering the final API
+ * The trait/object offering the final API.
+ * Parses the InputStream from a UTF8-encoded .srt file
  */
-trait SrtDissector {
+object SrtDissector extends SrtDissector
 
-  /**
-   * Parses the InputStream from a UTF8-encoded .srt file
-   * Throws ParsingException if it fails
-   */
-  def dissect(is: InputStream): Srt =
+
+trait SrtDissector extends (InputStream => Try[Srt]) {
+
+
+  override def apply(is: InputStream): Try[Srt] =
     SrtParsers.doFullParsing(withoutBom(is))
 
-  class ParsingException(msg: String) extends RuntimeException(msg)
 
   private def withoutBom(is: InputStream) =
     // use commmons-io to handle the BOM

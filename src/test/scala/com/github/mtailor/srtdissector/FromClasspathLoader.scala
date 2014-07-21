@@ -1,6 +1,5 @@
 package com.github.mtailor.srtdissector
 
-import scala.io.{BufferedSource, Source}
 import java.io._
 
 trait FromClasspathLoader {
