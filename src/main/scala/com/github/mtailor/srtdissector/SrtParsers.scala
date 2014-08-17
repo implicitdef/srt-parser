@@ -5,6 +5,7 @@ import java.io.Reader
 import com.github.mtailor.srtdissector.Vocabulary._
 
 import scala.util.Try
+import scala.util.control.NonFatal
 import scala.util.parsing.combinator.RegexParsers
 
 /**
@@ -97,15 +98,23 @@ object SrtParsers extends RegexParsers {
   private def ows : Parser[Any] =
     whiteSpace.?
 
-  private def toTry[T](res: ParseResult[T]): Try[T] = res match {
-    case Success(value, _) => scala.util.Success(value)
-    case noSuccess => scala.util.Failure(
-      new ParsingException(
-        "Failed to parse the given source" +
-          " as a .srt file : " + noSuccess
-      )
-    )
-  }
+  private def toTry[T](parsing: => ParseResult[T]): Try[T] =
+    //apparently the parsing may throw an un exception which is not
+    //encapsulated by the native ParseResult
+    try {
+      parsing match {
+        case Success(value, _) => scala.util.Success(value)
+        case noSuccess => scala.util.Failure(
+          new ParsingException(
+            "Failed to parse the given source" +
+              " as a .srt file : " + noSuccess
+          )
+        )
+      }
+    } catch {
+      case NonFatal(e) => scala.util.Failure(e)
+    }
+
 
   class ParsingException(msg: String) extends RuntimeException(msg)
 
