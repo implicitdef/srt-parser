@@ -1,4 +1,4 @@
-srt-dissector
+srt-parser
 =============
 
 A scala parser for .srt (subtitles) files.
