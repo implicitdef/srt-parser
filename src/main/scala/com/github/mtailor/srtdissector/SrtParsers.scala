@@ -23,7 +23,7 @@ object SrtParsers extends RegexParsers {
       case subtitleBlocks =>
         subtitleBlocks
           //blocks should have one line at least
-          .filter(! _.lines.isEmpty)
+          .filter(_.lines.nonEmpty)
           //blocks should have coherent times
           .filter(b => b.start < b.end)
           //and should be in chronological order

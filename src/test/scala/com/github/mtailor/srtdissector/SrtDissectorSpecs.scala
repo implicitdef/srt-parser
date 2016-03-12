@@ -2,6 +2,7 @@ package com.github.mtailor.srtdissector
 
 import com.github.mtailor.srtdissector.Vocabulary._
 import org.specs2.mutable.Specification
+import org.specs2.specification.core.Fragment
 
 object SrtDissectorSpecs extends Specification with FromClasspathLoader {
 
@@ -62,12 +63,13 @@ object SrtDissectorSpecs extends Specification with FromClasspathLoader {
     "parse properly an empty .srt file" in {
       SrtDissector(file("empty.srt")) must beSuccessfulTry.which(_.isEmpty)
     }
-    examplesBlock {
-      files("srt_files") foreach { f =>
+    "parse without failure each of the files we have" in {
+      Fragment.foreach(files("srt_files")){ f =>
         "parse without failure the file " + f in {
           SrtDissector(f) must beSuccessfulTry
         }
       }
+
     }
   }
 
