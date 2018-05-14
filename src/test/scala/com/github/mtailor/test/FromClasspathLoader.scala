@@ -1,4 +1,4 @@
-package com.github.mtailor.srtdissector
+package com.github.mtailor.test
 
 import java.io._
 

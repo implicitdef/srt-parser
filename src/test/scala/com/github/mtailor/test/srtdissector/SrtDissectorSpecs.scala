@@ -1,6 +1,8 @@
-package com.github.mtailor.srtdissector
+package com.github.mtailor.test.srtdissector
 
-import com.github.mtailor.srtdissector.Vocabulary._
+import com.github.mtailor.common.Vocabulary._
+import com.github.mtailor.srtdissector.SrtDissector
+import com.github.mtailor.test.FromClasspathLoader
 import org.specs2.mutable.Specification
 import org.specs2.specification.core.Fragment
 
