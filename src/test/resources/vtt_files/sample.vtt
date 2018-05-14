@@ -1,0 +1,19 @@
+WEBVTT - I'm some comment
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.030 --> 00:00:01.610 align:start position:0%
+I'm the 1st line of subtitle 1
+ 
+I'm the 3rd line of subtitle 1. The 2nd line had a space and that's all
+
+2
+00:00:01.610 --> 00:00:02.620 align:start position:0%
+
+I'm the 2nd line of subtitle 2. The first line was blank and this subtitle also has an optional cue header of '2'

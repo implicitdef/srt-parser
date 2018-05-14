@@ -1,10 +1,10 @@
-package com.github.mtailor.srtdissector
-
+package com.github.mtailor.common
 
 object Vocabulary {
 
   //The result of parsing a .srt file
   type Srt = Seq[SubtitleBlock]
+  type Vtt = Seq[SubtitleBlock]
 
   //One subtitle from a .srt file
   //with several lines to be displayed

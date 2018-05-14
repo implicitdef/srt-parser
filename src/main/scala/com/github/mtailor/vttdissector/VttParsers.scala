@@ -1,4 +1,4 @@
-package com.github.mtailor.srtdissector
+package com.github.mtailor.vttdissector
 
 import java.io.Reader
 
@@ -11,15 +11,18 @@ import scala.util.parsing.combinator.RegexParsers
 /**
  * Implementation of the parser, based on parsers combinators
  */
-object SrtParsers extends RegexParsers {
+object VttParsers extends RegexParsers {
 
-  def doFullParsing(reader: Reader): Try[Srt] =
-    toTry(parseAll(srt, reader))
+  def doFullParsing(reader: Reader): Try[Vtt] =
+    toTry(parseAll(vtt, reader))
 
   override val skipWhitespace = false
 
-  private def srt: Parser[Srt] =
-    ows ~> repsep(subtitleBlock, blockSeparator) <~ ows ^^ {
+  private def vtt: Parser[Vtt] =
+    webvttHeaderStart ~
+      webvttHeaderText ~
+    blockSeparator ~>
+      repsep(subtitleBlock, blockSeparator) <~ ows ^^ {
       case subtitleBlocks =>
         subtitleBlocks
           //blocks should have one line at least
@@ -30,24 +33,45 @@ object SrtParsers extends RegexParsers {
           .sortBy(_.start)
     }
 
-  private def subtitleBlock: Parser[SubtitleBlock] = {
+  private def webvttHeaderStart: Parser[String] = "WEBVTT" ~> (textLine.? ^^ {_.toString}) <~ eol
+  private def webvttHeaderText: Parser[Seq[String]] = repsep(not(subtitleHeader) ~> optionalLine,  eol)
+  
+  private def subtitleHeader: Parser[SubtitleBlock] = {
     (subtitleNumber ~ whiteSpace).? ~>
-    time ~ arrow ~ time ~ whiteSpace ~
-    textLines
+      time ~ arrow ~ time ~ opt(textLine) ~ eol
   } ^^ {
     case
-      startTime ~ _ ~ endTime ~ _ ~
-      texts
-    => SubtitleBlock(startTime, endTime, texts)
+      startTime ~ _ ~ endTime ~ _ ~ _
+    => SubtitleBlock(startTime, endTime, List(""))
   }
 
-  private def textLines: Parser[Seq[String]] =
-    repsep(textLine, eol)
+  private def whiteSpaceButNotEol: Parser[String] = """[ \t]+""".r
+  private def subtitleBlock: Parser[SubtitleBlock] = {
+    subtitleHeader ~
+      repsep(
+        not(subtitleHeader) ~>
+          optionalLine
+        , eol)
+  } ^^ {
+    case
+      subtitleBlock ~
+      texts
+    => subtitleBlock.copy(lines = texts)
+  }
+  
+
+  private def optionalLine: Parser[String] =  opt(textLine) ^^ { case None => "" case Some(s) => s}
+  private def blankLine: Parser[String] = ows ~ eol ^^ {case ws ~ end => ws.toString + end }
+  private def blankLines: Parser[Seq[Any]] =
+    rep(blankLine)
+
 
   private def textLine: Parser[String] =
     """.+""".r
+  private def textLines: Parser[Seq[String]] =
+    repsep(textLine, eol)
 
-  private def eol: Parser[Any] =
+  private def eol: Parser[String] =
   //\n is unix
   //\r\n is windows
   //\r appears in some broken files
@@ -77,7 +101,7 @@ object SrtParsers extends RegexParsers {
     """\s*-->\s*""".r
 
   private def timeSep: Parser[Any] =
-    ":" | ","
+    ":" | "."
 
   private def hours: Parser[Int] =
     aFewNumbers
@@ -95,8 +119,11 @@ object SrtParsers extends RegexParsers {
     """\d{1,4}""".r ^^ (_.toInt)
 
   //optional whitespaces shortcut
-  private def ows : Parser[Any] =
-    whiteSpace.?
+  private def ows : Parser[String] =
+    whiteSpace.? ^^ {
+      case None => ""
+      case Some(s) => s
+    }
 
   private def toTry[T](parsing: => ParseResult[T]): Try[T] =
     //apparently the parsing may throw an un exception which is not
@@ -107,7 +134,7 @@ object SrtParsers extends RegexParsers {
         case noSuccess => scala.util.Failure(
           new ParsingException(
             "Failed to parse the given source" +
-              " as a .srt file : " + noSuccess
+              " as a .vtt file : " + noSuccess
           )
         )
       }
